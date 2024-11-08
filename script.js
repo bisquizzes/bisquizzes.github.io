@@ -60,11 +60,14 @@ function checkAnswer(selectedOption) {
         correctLabel.innerText = `Correct: ${correctScore}`;
         feedbackLabel.innerText = "Correct! Well done.";
         feedbackLabel.style.color = "#28a745";
+        feedbackLabel.style.fontWeight = "bold"; // Make feedback bold
     } else {
         wrongScore++;
         wrongLabel.innerText = `Wrong: ${wrongScore}`;
         feedbackLabel.innerText = `Wrong! The correct answer was: ${currentQuestion.answer}`;
         feedbackLabel.style.color = "#dc3545";
+        feedbackLabel.style.fontWeight = "bold"; // Make feedback bold
+
         if (!wrongQuestions.includes(currentQuestion)) {
             wrongQuestions.push(currentQuestion);
         }
@@ -86,6 +89,7 @@ function checkAnswer(selectedOption) {
     });
     nextButton.disabled = false;
 }
+
 
 function showWrongQuestions() {
     const popupContainer = document.createElement('div');
