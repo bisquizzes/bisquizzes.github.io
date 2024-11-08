@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Quiz Application</h1>
+        </header>
+
+        <div class="score-frame">
+            <p id="correct-label">Correct: 0</p>
+            <p id="wrong-label">Wrong: 0</p>
+        </div>
+
+        <div class="content-frame">
+            <div id="question-label" class="question-label"></div>
+            <div id="options-container" class="options-container"></div>
+            <p id="feedback-label" class="feedback-label"></p>
+        </div>
+
+        <div class="button-frame">
+            <button id="next-button" class="button" disabled>Next Question</button>
+            <button id="review-button" class="button">Review Wrong Questions</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

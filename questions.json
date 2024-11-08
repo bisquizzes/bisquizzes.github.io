@@ -1,0 +1,932 @@
+[
+  {
+    "question": "What is a database?",
+    "options": [
+      "A) A collection of data organized for quick search and retrieval",
+      "B) A set of disconnected tables",
+      "C) A programming language",
+      "D) A type of hardware"
+    ],
+    "answer": "A) A collection of data organized for quick search and retrieval"
+  },
+  {
+    "question": "Why are databases widely used in e-commerce?",
+    "options": [
+      "A) To enhance user experience",
+      "B) To securely manage a large amount of transaction data",
+      "C) To reduce costs associated with storage",
+      "D) To replace websites"
+    ],
+    "answer": "B) To securely manage a large amount of transaction data"
+  },
+  {
+    "question": "Which type of database organizes data in tables and is based on a relational model?",
+    "options": [
+      "A) Object-oriented database",
+      "B) Graph database",
+      "C) Relational database",
+      "D) Hierarchical database"
+    ],
+    "answer": "C) Relational database"
+  },
+  {
+    "question": "What is the primary role of a DBMS?",
+    "options": [
+      "A) To program database applications",
+      "B) To create spreadsheets",
+      "C) To manage and control access to databases",
+      "D) To enhance computer processing speed"
+    ],
+    "answer": "C) To manage and control access to databases"
+  },
+  {
+    "question": "What function does a database administrator (DBA) perform?",
+    "options": [
+      "A) Design application interfaces",
+      "B) Oversee the DBMS environment and authorize access",
+      "C) Update operating systems",
+      "D) Write end-user queries"
+    ],
+    "answer": "B) Oversee the DBMS environment and authorize access"
+  },
+  {
+    "question": "Which security strategy involves verifying the identity of database users?",
+    "options": [
+      "A) Encryption",
+      "B) Authentication",
+      "C) Authorization",
+      "D) Concurrency"
+    ],
+    "answer": "B) Authentication"
+  },
+  {
+    "question": "What is a key advantage of using a DBMS over a file system?",
+    "options": [
+      "A) Direct data access only by single users",
+      "B) Structured and managed data sharing across multiple applications",
+      "C) Requires more manual query writing",
+      "D) No need for security protocols"
+    ],
+    "answer": "B) Structured and managed data sharing across multiple applications"
+  },
+  {
+    "question": "What kind of database is best suited for handling complex relationships like those in social networks?",
+    "options": [
+      "A) Graph database",
+      "B) Relational database",
+      "C) Hierarchical database",
+      "D) Object-oriented database"
+    ],
+    "answer": "A) Graph database"
+  },
+  {
+    "question": "In DBMS terminology, what does 'data independence' mean?",
+    "options": [
+      "A) Data is protected from simultaneous access",
+      "B) Changes in data storage do not affect applications",
+      "C) DBMS doesn’t require security protocols",
+      "D) Data is physically independent from storage devices"
+    ],
+    "answer": "B) Changes in data storage do not affect applications"
+  },
+  {
+    "question": "Which type of design in database modeling involves creating ER diagrams?",
+    "options": [
+      "A) Conceptual design",
+      "B) Logical design",
+      "C) Physical design",
+      "D) User interface design"
+    ],
+    "answer": "A) Conceptual design"
+  },
+  {
+    "question": "Which of the following databases organizes data in a tree-like structure?",
+    "options": [
+      "A) Relational database",
+      "B) Hierarchical database",
+      "C) Graph database",
+      "D) Object-oriented database"
+    ],
+    "answer": "B) Hierarchical database"
+  },
+  {
+    "question": "What is the process of storing data on a storage medium controlled by the DBMS called?",
+    "options": [
+      "A) Defining the database",
+      "B) Constructing the database",
+      "C) Manipulating the database",
+      "D) Backup"
+    ],
+    "answer": "B) Constructing the database"
+  },
+  {
+    "question": "Which level of DBMS abstraction describes how users see the data?",
+    "options": [
+      "A) Physical schema",
+      "B) Conceptual schema",
+      "C) External schema",
+      "D) Logical schema"
+    ],
+    "answer": "C) External schema"
+  },
+  {
+    "question": "What is logical data independence?",
+    "options": [
+      "A) Protection from physical changes in storage",
+      "B) Protection from changes in logical data structure",
+      "C) Multi-user support",
+      "D) Data encryption"
+    ],
+    "answer": "B) Protection from changes in logical data structure"
+  },
+  {
+    "question": "What is the purpose of the DBMS layer architecture?",
+    "options": [
+      "A) To allow a direct interface with hardware",
+      "B) To organize DBMS components for efficiency",
+      "C) To prevent multi-user access",
+      "D) To store redundant data"
+    ],
+    "answer": "B) To organize DBMS components for efficiency"
+  },
+  {
+    "question": "Which database role involves implementing programs for database access?",
+    "options": [
+      "A) Database administrator",
+      "B) Database designer",
+      "C) Application developer",
+      "D) End user"
+    ],
+    "answer": "C) Application developer"
+  },
+  {
+    "question": "Which type of database stores data as objects similar to object-oriented programming?",
+    "options": [
+      "A) Relational database",
+      "B) Hierarchical database",
+      "C) Object-oriented database",
+      "D) Graph database"
+    ],
+    "answer": "C) Object-oriented database"
+  },
+  {
+    "question": "What does data encryption in DBMS security ensure?",
+    "options": [
+      "A) Data is viewable without decryption",
+      "B) Only authorized access to data",
+      "C) Conversion of data to an unreadable format",
+      "D) Data is accessible without keys"
+    ],
+    "answer": "C) Conversion of data to an unreadable format"
+  },
+  {
+    "question": "A DBMS that handles spatial data applications is used for:",
+    "options": [
+      "A) Text editing",
+      "B) Maps and geographic information",
+      "C) Financial transactions",
+      "D) Video processing"
+    ],
+    "answer": "B) Maps and geographic information"
+  },
+  {
+    "question": "Which function of DBMS allows multiple users to access data simultaneously?",
+    "options": [
+      "A) Concurrency control",
+      "B) Backup and recovery",
+      "C) Data encryption",
+      "D) File management"
+    ],
+    "answer": "A) Concurrency control"
+  },
+  {
+    "question": "What is a key benefit of using indexes in DBMS?",
+    "options": [
+      "A) Increases redundancy",
+      "B) Speeds up data retrieval",
+      "C) Reduces data security",
+      "D) Increases data size"
+    ],
+    "answer": "B) Speeds up data retrieval"
+  },
+  {
+    "question": "Why is backup important in DBMS?",
+    "options": [
+      "A) It speeds up queries",
+      "B) It increases storage",
+      "C) It protects against data loss",
+      "D) It limits user access"
+    ],
+    "answer": "C) It protects against data loss"
+  },
+  {
+    "question": "In a university database, which attribute would likely be a primary key?",
+    "options": [
+      "A) Student name",
+      "B) Student ID",
+      "C) Age",
+      "D) GPA"
+    ],
+    "answer": "B) Student ID"
+  },
+  {
+    "question": "Which type of DBMS is often used for analyzing social networks?",
+    "options": [
+      "A) Relational DBMS",
+      "B) Hierarchical DBMS",
+      "C) Graph DBMS",
+      "D) Object-oriented DBMS"
+    ],
+    "answer": "C) Graph DBMS"
+  },
+    {
+    "question": "What does DBMS concurrency control prevent?",
+    "options": [
+      "A) Unauthorized access",
+      "B) Data inconsistency",
+      "C) Index creation",
+      "D) Metadata management"
+    ],
+    "answer": "B) Data inconsistency"
+  },
+  {
+    "question": "Which concept represents the overall logical structure of a database?",
+    "options": [
+      "A) Physical schema",
+      "B) Conceptual schema",
+      "C) Metadata",
+      "D) Data independence"
+    ],
+    "answer": "B) Conceptual schema"
+  },
+  {
+    "question": "What is meant by 'data sharing' in DBMS?",
+    "options": [
+      "A) Using duplicate databases",
+      "B) Allowing multiple applications to access data",
+      "C) Backing up data",
+      "D) Limiting access to a single user"
+    ],
+    "answer": "B) Allowing multiple applications to access data"
+  },
+  {
+    "question": "Which of these describes 'data redundancy' in a database context?",
+    "options": [
+      "A) Having multiple copies of data for security",
+      "B) Storing the same data in multiple places",
+      "C) Limited data accessibility",
+      "D) Data stored only in one place"
+    ],
+    "answer": "B) Storing the same data in multiple places"
+  },
+  {
+    "question": "What is the main function of a 'view' in DBMS?",
+    "options": [
+      "A) Store data directly",
+      "B) Optimize storage space",
+      "C) Provide a customized representation of data",
+      "D) Create new databases"
+    ],
+    "answer": "C) Provide a customized representation of data"
+  },
+  {
+    "question": "In the DBMS context, what is 'query optimization'?",
+    "options": [
+      "A) Simplifying data models",
+      "B) Enhancing security",
+      "C) Improving the performance of data retrieval",
+      "D) Encrypting data"
+    ],
+    "answer": "C) Improving the performance of data retrieval"
+  },
+  {
+    "question": "What is 'physical data independence'?",
+    "options": [
+      "A) Changing physical storage without affecting applications",
+      "B) Separating data from end users",
+      "C) Allowing only single-user access",
+      "D) Encrypting data on disks"
+    ],
+    "answer": "A) Changing physical storage without affecting applications"
+  },
+  {
+    "question": "Which type of schema is closest to how data is actually stored on disk?",
+    "options": [
+      "A) Logical schema",
+      "B) Physical schema",
+      "C) Conceptual schema",
+      "D) External schema"
+    ],
+    "answer": "B) Physical schema"
+  },
+    {
+    "question": "What is 'data inconsistency' in DBMS?",
+    "options": [
+      "A) Redundant data that is inaccurate",
+      "B) Different data types in a single table",
+      "C) Mismatched data from concurrent access",
+      "D) Lack of unique keys"
+    ],
+    "answer": "C) Mismatched data from concurrent access"
+  },
+  {
+    "question": "What is the main purpose of a data model in a database?",
+    "options": [
+      "A) To store physical data",
+      "B) To define data structure and relationships",
+      "C) To analyze user queries",
+      "D) To handle memory allocation"
+    ],
+    "answer": "B) To define data structure and relationships"
+  },
+  {
+    "question": "Which type of data model focuses on entities and relationships at a high level?",
+    "options": [
+      "A) Physical modeling",
+      "B) Logical modeling",
+      "C) Conceptual modeling",
+      "D) Internal modeling"
+    ],
+    "answer": "C) Conceptual modeling"
+  },
+  {
+    "question": "In a three-schema architecture, what does the external schema describe?",
+    "options": [
+      "A) The entire database structure",
+      "B) User-specific views",
+      "C) The physical storage of data",
+      "D) Data retrieval speed"
+    ],
+    "answer": "B) User-specific views"
+  },
+  {
+    "question": "Which model is primarily used for database design during the conceptual design phase?",
+    "options": [
+      "A) Network model",
+      "B) Relational model",
+      "C) ER model",
+      "D) Object-oriented model"
+    ],
+    "answer": "C) ER model"
+  },
+  {
+    "question": "What is an entity set?",
+    "options": [
+      "A) A specific instance of an entity",
+      "B) A collection of similar entities",
+      "C) A single attribute",
+      "D) A type of database relationship"
+    ],
+    "answer": "B) A collection of similar entities"
+  },
+  {
+    "question": "What term is used to describe a collection of related entities that share attributes?",
+    "options": [
+      "A) Attribute set",
+      "B) Entity set",
+      "C) Relationship set",
+      "D) Composite set"
+    ],
+    "answer": "B) Entity set"
+  },
+  {
+    "question": "Which type of relationship is defined between two entities?",
+    "options": [
+      "A) Unary",
+      "B) Binary",
+      "C) Ternary",
+      "D) N-ary"
+    ],
+    "answer": "B) Binary"
+  },
+    {
+    "question": "What type of attribute can be divided into smaller parts, such as an address?",
+    "options": [
+      "A) Simple",
+      "B) Composite",
+      "C) Derived",
+      "D) Multi-valued"
+    ],
+    "answer": "B) Composite"
+  },
+  {
+    "question": "What is a weak entity?",
+    "options": [
+      "A) An entity that does not require a primary key",
+      "B) An entity uniquely identified by a foreign key",
+      "C) An entity identified only by the key of another entity",
+      "D) A single-attribute entity"
+    ],
+    "answer": "C) An entity identified only by the key of another entity"
+  },
+  {
+    "question": "In ER diagrams, what is an 'ISA hierarchy' used for?",
+    "options": [
+      "A) Defining physical data storage",
+      "B) Organizing entities into sub-classes",
+      "C) Setting data constraints",
+      "D) Creating relationships among relationships"
+    ],
+    "answer": "B) Organizing entities into sub-classes"
+  },
+  {
+    "question": "Which type of relationship involves a single entity related to itself?",
+    "options": [
+      "A) Binary",
+      "B) Unary",
+      "C) Ternary",
+      "D) N-ary"
+    ],
+    "answer": "B) Unary"
+  },
+  {
+    "question": "What are derived attributes?",
+    "options": [
+      "A) Attributes that store direct data values",
+      "B) Attributes whose values can be derived from other attributes",
+      "C) Primary key attributes",
+      "D) Attributes that represent multiple values"
+    ],
+    "answer": "B) Attributes whose values can be derived from other attributes"
+  },
+  {
+    "question": "In the three-schema architecture, what does the conceptual schema represent?",
+    "options": [
+      "A) User views",
+      "B) Internal storage structure",
+      "C) Logical database structure",
+      "D) Disk partitions"
+    ],
+    "answer": "C) Logical database structure"
+  },
+  {
+    "question": "What is the purpose of a 'relationship set' in an ER model?",
+    "options": [
+      "A) To group attributes",
+      "B) To store physical data",
+      "C) To represent associations between entities",
+      "D) To define indexes"
+    ],
+    "answer": "C) To represent associations between entities"
+  },
+  {
+    "question": "What does a ternary relationship involve?",
+    "options": [
+      "A) A relationship with three entities",
+      "B) Three attributes in a single entity",
+      "C) Multiple foreign keys",
+      "D) Entities with more than two attributes"
+    ],
+    "answer": "A) A relationship with three entities"
+  },
+    {
+    "question": "What is a multi-valued attribute?",
+    "options": [
+      "A) An attribute that has only one value",
+      "B) An attribute that can have multiple values",
+      "C) An attribute used only in indexing",
+      "D) An attribute representing a foreign key"
+    ],
+    "answer": "B) An attribute that can have multiple values"
+  },
+  {
+    "question": "Which type of ER model attribute cannot be divided further?",
+    "options": [
+      "A) Composite",
+      "B) Simple",
+      "C) Multi-valued",
+      "D) Derived"
+    ],
+    "answer": "B) Simple"
+  },
+  {
+    "question": "What is the purpose of a 'domain' in a database?",
+    "options": [
+      "A) To store unique keys",
+      "B) To define permitted values for an attribute",
+      "C) To create ER diagrams",
+      "D) To optimize storage"
+    ],
+    "answer": "B) To define permitted values for an attribute"
+  },
+  {
+    "question": "When is a participation constraint said to be total?",
+    "options": [
+      "A) When it includes at least three entities",
+      "B) When each entity in a set participates in the relationship",
+      "C) When only a few entities participate",
+      "D) When no keys are needed"
+    ],
+    "answer": "B) When each entity in a set participates in the relationship"
+  },
+  {
+    "question": "What does an ER diagram help to visualize?",
+    "options": [
+      "A) Data storage partitions",
+      "B) Relationships and entities",
+      "C) File formats",
+      "D) User interfaces"
+    ],
+    "answer": "B) Relationships and entities"
+  },
+  {
+    "question": "Which attribute type represents a combination of multiple attributes?",
+    "options": [
+      "A) Simple",
+      "B) Derived",
+      "C) Composite",
+      "D) Multi-valued"
+    ],
+    "answer": "C) Composite"
+  },
+  {
+    "question": "What does a 1:1 relationship indicate?",
+    "options": [
+      "A) One instance of entity A can be associated with multiple instances of entity B",
+      "B) Each instance of entity A is associated with one instance of entity B and vice versa",
+      "C) One instance of entity A can be associated with none or many instances of entity B",
+      "D) There is no relationship between entities A and B"
+    ],
+    "answer": "B) Each instance of entity A is associated with one instance of entity B and vice versa"
+  },
+  {
+    "question": "Which of the following represents a many-to-many relationship?",
+    "options": [
+      "A) Each student can enroll in multiple courses, and each course can have multiple students",
+      "B) Each employee works in one department, and each department has multiple employees",
+      "C) Each product is sold by one supplier, and each supplier can supply multiple products",
+      "D) Each book is written by one author, and each author can write multiple books"
+    ],
+    "answer": "A) Each student can enroll in multiple courses, and each course can have multiple students"
+  },
+    {
+    "question": "Which of the following is a characteristic of a strong entity?",
+    "options": [
+      "A) It cannot exist independently",
+      "B) It has its own primary key",
+      "C) It is represented by a dashed rectangle",
+      "D) It has no attributes"
+    ],
+    "answer": "B) It has its own primary key"
+  },
+  {
+    "question": "Which of the following is true about a weak entity?",
+    "options": [
+      "A) It has its own primary key",
+      "B) It can exist independently of other entities",
+      "C) It relies on a strong entity for its identification",
+      "D) It is not represented in an ERD"
+    ],
+    "answer": "C) It relies on a strong entity for its identification"
+  },
+  {
+    "question": "In an ERD, a diamond shape represents:",
+    "options": [
+      "A) Entity",
+      "B) Attribute",
+      "C) Relationship",
+      "D) Weak entity"
+    ],
+    "answer": "C) Relationship"
+  },
+  {
+    "question": "Which cardinality indicates that an entity can be associated with at most one instance of another entity?",
+    "options": [
+      "A) 1:1",
+      "B) 1:N",
+      "C) N:N",
+      "D) N:1"
+    ],
+    "answer": "A) 1:1"
+  },
+  {
+    "question": "Which of the following is an example of a 1:1 relationship?",
+    "options": [
+      "A) A person can have multiple phone numbers",
+      "B) Each country has one capital city",
+      "C) Students enrolled in various classes",
+      "D) A library holding multiple copies of a book"
+    ],
+    "answer": "B) Each country has one capital city"
+  },
+  {
+    "question": "What does the term 'participation' refer to in ERDs?",
+    "options": [
+      "A) The number of entities involved in a relationship",
+      "B) Whether all instances of an entity are involved in a relationship",
+      "C) The total number of relationships in the diagram",
+      "D) The attributes of an entity"
+    ],
+    "answer": "B) Whether all instances of an entity are involved in a relationship"
+  },
+  {
+    "question": "What are total participation constraints?",
+    "options": [
+      "A) They require all entities in a relationship to participate in the related entities",
+      "B) They indicate that some entities in the relationship may or may not participate",
+      "C) There is no relationship between the entities",
+      "D) They refer only to the subordinate entities"
+    ],
+    "answer": "A) They require all entities in a relationship to participate in the related entities"
+  },
+  {
+    "question": "What are partial participation constraints?",
+    "options": [
+      "A) They require all entities in a relationship to be linked",
+      "B) They allow some entities to not participate in the relationship",
+      "C) They denote an equal relationship among all entities",
+      "D) They do not allow any linkages"
+    ],
+    "answer": "B) They allow some entities to not participate in the relationship"
+  },
+    {
+    "question": "DBMS contains not only the data itself, but a complete definition and description of the data structure and constraints. What is this called?",
+    "options": [
+      "A) Data",
+      "B) Meta data",
+      "C) Schema",
+      "D) None of the above"
+    ],
+    "answer": "B) Meta data"
+  },
+  {
+    "question": "What includes descriptions of the database structure, data types, and the constraints on the database?",
+    "options": [
+      "A) Data",
+      "B) Meta data",
+      "C) Database schema",
+      "D) None of the above"
+    ],
+    "answer": "C) Database schema"
+  },
+  {
+    "question": "Which diagram is commonly used to represent the conceptual design of a database?",
+    "options": [
+      "A) Entity-Relationship Diagram (ERD)",
+      "B) Class Diagram",
+      "C) Flowchart",
+      "D) Use Case Diagram"
+    ],
+    "answer": "A) Entity-Relationship Diagram (ERD)"
+  },
+  {
+    "question": "What is the primary purpose of authentication in a security system?",
+    "options": [
+      "A) To encrypt data during transmission",
+      "B) To verify the identity of users",
+      "C) To authorize access to specific resources",
+      "D) To ensure data integrity"
+    ],
+    "answer": "B) To verify the identity of users"
+  },
+  {
+    "question": "The operations on the data model may include basic model operations such as insert, delete, and update. Which other operation can be included?",
+    "options": [
+      "A) Compute specific queries",
+      "B) Compute_student_gpa",
+      "C) Generate reports",
+      "D) Backup data"
+    ],
+    "answer": "B) Compute_student_gpa"
+  },
+    {
+    "question": "Which schema describes the physical storage of data in the database, focusing on how data is stored on disk and includes file organization and storage allocation?",
+    "options": [
+      "A) Conceptual schema",
+      "B) Internal schema",
+      "C) External schema",
+      "D) None of the above"
+    ],
+    "answer": "B) Internal schema"
+  },
+  {
+    "question": "Which schema provides a unified view of the entire database and describes data in terms of structure, constraints, and relationships without concerning itself with physical storage details?",
+    "options": [
+      "A) Conceptual schema",
+      "B) Internal schema",
+      "C) External schema",
+      "D) None of the above"
+    ],
+    "answer": "A) Conceptual schema"
+  },
+  {
+    "question": "Which schema defines how individual users or applications interact with the data, describing various user views?",
+    "options": [
+      "A) Conceptual schema",
+      "B) Internal schema",
+      "C) External schema",
+      "D) None of the above"
+    ],
+    "answer": "C) External schema"
+  },
+  {
+    "question": "Objects or concepts that are represented in the database (e.g., Customer, Order) are referred to as:",
+    "options": [
+      "A) Attributes",
+      "B) Relationship",
+      "C) Entities",
+      "D) None of the above"
+    ],
+    "answer": "C) Entities"
+  },
+  {
+    "question": "Properties or characteristics of entities (e.g., Customer Name, Order Date) are known as:",
+    "options": [
+      "A) Attributes",
+      "B) Relationship",
+      "C) Entities",
+      "D) None of the above"
+    ],
+    "answer": "A) Attributes"
+  },
+  {
+    "question": "Associations between entities that define how they interact with each other are called:",
+    "options": [
+      "A) Attributes",
+      "B) Relationship",
+      "C) Entities",
+      "D) None of the above"
+    ],
+    "answer": "B) Relationship"
+  },
+  {
+    "question": "A collection of similar entities that share common attributes is called:",
+    "options": [
+      "A) Attributes",
+      "B) Relationship",
+      "C) Entity",
+      "D) Entity Set"
+    ],
+    "answer": "D) Entity Set"
+  },
+  {
+    "question": "What defines the category that a particular entity belongs to?",
+    "options": [
+      "A) Attributes",
+      "B) Entity Type",
+      "C) Entity",
+      "D) Entity Set"
+    ],
+    "answer": "B) Entity Type"
+  },
+  {
+    "question": "What is an entity that cannot be uniquely identified by its own attributes alone and depends on another entity for identification?",
+    "options": [
+      "A) Strong Entity",
+      "B) Weak Entity",
+      "C) Bad Entity",
+      "D) Good Entity"
+    ],
+    "answer": "B) Weak Entity"
+  },
+{
+    "question": "Which are properties or characteristics of entites? They describe the entity and hold data related to it",
+    "options": [
+      "A) Attributes",
+      "B) Relationship",
+      "C) Entities",
+      "D) None of the above"
+    ],
+    "answer": "A) Attributes"
+  },
+    {
+    "question": "What is the primary purpose of a data model in a database system?",
+    "options": [
+      "A) To describe the physical storage of data",
+      "B) To define the structure of data and relationships among data",
+      "C) To manage user permissions and access",
+      "D) To enforce security protocols"
+    ],
+    "answer": "B) To define the structure of data and relationships among data"
+  },
+  {
+    "question": "What does the term 'schema' refer to in the context of a database?",
+    "options": [
+      "A) The actual data stored in the database",
+      "B) The physical implementation of the database",
+      "C) The logical structure and design of the database",
+      "D) The set of permissions and access controls"
+    ],
+    "answer": "C) The logical structure and design of the database"
+  },
+    {
+    "question": "What is the main purpose of a foreign key?",
+    "options": [
+      "A) To uniquely identify a tuple within its own table",
+      "B) To establish a relationship between two tables",
+      "C) To store null values only",
+      "D) To enforce domain constraints"
+    ],
+    "answer": "B) To establish a relationship between two tables"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a primary key?",
+    "options": [
+      "A) Must be unique",
+      "B) Can contain null values",
+      "C) Identifies a tuple",
+      "D) Is a minimal super key"
+    ],
+    "answer": "B) Can contain null values"
+  },
+  {
+    "question": "Which constraint ensures that data in a foreign key field matches primary key data in the referenced table?",
+    "options": [
+      "A) Domain Constraint",
+      "B) Key Constraint",
+      "C) Referential Integrity",
+      "D) Entity Integrity"
+    ],
+    "answer": "C) Referential Integrity"
+  },
+  {
+    "question": "Which key can contain one or more attributes that uniquely identify a row in a table?",
+    "options": [
+      "A) Primary Key",
+      "B) Super Key",
+      "C) Candidate Key",
+      "D) Foreign Key"
+    ],
+    "answer": "B) Super Key"
+  },
+  {
+    "question": "What is the purpose of the UNIQUE constraint in a table?",
+    "options": [
+      "A) To enforce referential integrity",
+      "B) To ensure no duplicate values in a column",
+      "C) To restrict data types",
+      "D) To allow only non-null values"
+    ],
+    "answer": "B) To ensure no duplicate values in a column"
+  },
+  {
+    "question": "What does a legal instance of a relation imply?",
+    "options": [
+      "A) It contains only foreign keys",
+      "B) It satisfies all specified integrity constraints",
+      "C) It only has primary key columns",
+      "D) It allows duplicate rows"
+    ],
+    "answer": "B) It satisfies all specified integrity constraints"
+  },
+  {
+    "question": "A logical pointer in the context of relational databases refers to:",
+    "options": [
+      "A) Primary Key",
+      "B) Foreign Key",
+      "C) Super Key",
+      "D) Candidate Key"
+    ],
+    "answer": "B) Foreign Key"
+  },
+  {
+    "question": "The combination of Emp_ID and Emp_Name as a unique identifier is an example of what?",
+    "options": [
+      "A) Primary Key",
+      "B) Composite Key",
+      "C) Foreign Key",
+      "D) Super Key"
+    ],
+    "answer": "D) Super Key"
+  },
+    {
+    "question": "What happens if a foreign key constraint is violated?",
+    "options": [
+      "A) The record is added",
+      "B) The DBMS rejects the operation",
+      "C) It creates an orphan record",
+      "D) It updates related records"
+    ],
+    "answer": "B) The DBMS rejects the operation"
+  },
+  {
+    "question": "The cascading action on deletion is defined to:",
+    "options": [
+      "A) Restrict deletion",
+      "B) Automatically delete related records",
+      "C) Update values to default",
+      "D) Allow orphan records"
+    ],
+    "answer": "B) Automatically delete related records"
+  },
+  {
+    "question": "Participation constraints may be:",
+    "options": [
+      "A) Total",
+      "B) Partial",
+      "C) A and B",
+      "D) None of the above"
+    ],
+    "answer": "C) A and B"
+  },
+  {
+    "question": "What is the difference between a 'conceptual schema' and a 'physical schema'?",
+    "options": [
+      "A) A conceptual schema defines how data is physically stored, while a physical schema defines the logical structure",
+      "B) A conceptual schema defines the logical structure of the database, while a physical schema defines the actual storage and organization of data on disk",
+      "C) A conceptual schema is used for security, while a physical schema is used for performance optimization",
+      "D) A conceptual schema and a physical schema are the same and used interchangeably"
+    ],
+    "answer": "B) A conceptual schema defines the logical structure of the database, while a physical schema defines the actual storage and organization of data on disk"
+  }
+]
