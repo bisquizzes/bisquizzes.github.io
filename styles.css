@@ -6,12 +6,13 @@ body {
 }
 
 .container {
-    width: 600px;
-    margin: 50px auto;
+    width: 90%; /* Reduce width for smaller screens */
+    max-width: 600px; /* Maintain a max width for larger screens */
+    margin: 20px auto;
     background-color: white;
     border: 1px solid #e0e0e0;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 15px; /* Reduced padding for smaller screens */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .header {
@@ -25,6 +26,7 @@ body {
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
 }
 
 .content-frame {
@@ -32,8 +34,8 @@ body {
 }
 
 .question-label {
-    font-size: 18px;
-    margin-bottom: 20px;
+    font-size: 16px; /* Adjusted font size for smaller screens */
+    margin-bottom: 15px;
 }
 
 .options-container {
@@ -43,37 +45,80 @@ body {
 }
 
 .feedback-label {
-    font-size: 16px;
-    margin-top: 20px;
+    font-size: 14px; /* Adjusted font size */
+    margin-top: 15px;
 }
 
 .button-frame {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .button {
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 10px;
+    font-size: 14px; /* Adjusted font size */
     margin: 5px;
     border: none;
     cursor: pointer;
+    width: 100%; /* Make buttons fill container for better touch area */
 }
 
 .footer {
-    margin-top: 30px;
-    padding: 15px 20px;
+    margin-top: 20px;
+    padding: 10px 15px;
     background-color: #343a40;
     color: #f1f1f1;
     text-align: left;
-    font-size: 14px;
+    font-size: 12px; /* Smaller font size */
     border-top: 2px solid #555;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
 }
 
 .footer p {
     margin: 0;
     font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px; /* Reduced padding for mobile */
+        margin: 10px auto;
+    }
+    
+    .header {
+        font-size: 18px; /* Adjusted header font size */
+    }
+
+    .question-label {
+        font-size: 14px; /* Smaller question text */
+    }
+
+    .button {
+        font-size: 12px; /* Smaller button text */
+        padding: 8px; /* Smaller padding */
+    }
+
+    .feedback-label {
+        font-size: 13px; /* Smaller feedback text */
+    }
+}
+
+@media (max-width: 480px) {
+    .score-frame p {
+        font-size: 12px; /* Smaller text for scores */
+    }
+
+    .footer {
+        font-size: 10px; /* Smaller font size */
+        flex-direction: column; /* Stack items vertically */
+        text-align: center;
+    }
+
+    .button {
+        font-size: 11px; /* Smaller font size for very small screens */
+        padding: 6px; /* Reduced padding */
+    }
 }
