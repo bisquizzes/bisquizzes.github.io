@@ -1,10 +1,9 @@
-/* Updated script.js to read from a local JSON file and improve UI */
-
 let correctScore = 0;
 let wrongScore = 0;
 let askedQuestions = [];
 let wrongQuestions = [];
 let currentQuestion = {};
+let askedQuestionIndices = [];
 
 const questionLabel = document.getElementById('question-label');
 const optionsContainer = document.getElementById('options-container');
@@ -30,17 +29,20 @@ async function loadQuestions() {
 
 function loadNewQuestion(questions) {
     nextButton.disabled = true;
-    if (askedQuestions.length === questions.length) {
-        askedQuestions = [];
+    if (askedQuestionIndices.length === questions.length) {
+        askedQuestionIndices = []; // Reset after all questions have been used
     }
 
+    let questionIndex;
     while (true) {
-        currentQuestion = questions[Math.floor(Math.random() * questions.length)];
-        if (!askedQuestions.includes(currentQuestion)) {
-            askedQuestions.push(currentQuestion);
+        questionIndex = Math.floor(Math.random() * questions.length);
+        if (!askedQuestionIndices.includes(questionIndex)) {
+            askedQuestionIndices.push(questionIndex);
             break;
         }
     }
+
+    currentQuestion = questions[questionIndex];
 
     questionLabel.innerText = currentQuestion.question;
     feedbackLabel.innerText = "";
@@ -53,6 +55,7 @@ function loadNewQuestion(questions) {
         optionsContainer.appendChild(button);
     });
 }
+
 
 function checkAnswer(selectedOption) {
     if (selectedOption === currentQuestion.answer) {
