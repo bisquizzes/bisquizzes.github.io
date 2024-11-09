@@ -12,9 +12,20 @@
             <h1>Database Quiz</h1>
         </header>
 
-        <div class="score-frame">
+        <div class="exam-mode-container">
+            <button id="exam-mode-button" class="exam-button">Mid-Term Exam Mode</button>
+            <button id="exam-info-button" class="info-button">?</button>
+            <p id="exam-mode-label" style="display: none; font-weight: bold;">Mid-Term Exam Mode</p>
+        </div>
+
+        <div class="score-frame" id="default-score-frame">
             <p id="correct-label" style="font-weight: bold;">Correct: 0</p>
             <p id="wrong-label" style="font-weight: bold;">Wrong: 0</p>
+        </div>
+
+        <div class="score-frame" id="exam-score-frame" style="display: none;">
+            <p id="question-counter" style="font-weight: bold;">Question 1/30</p>
+            <p id="timer-label" style="font-weight: bold;">Time Left: 1:00:00</p>
         </div>
 
         <div class="content-frame">
@@ -24,8 +35,15 @@
         </div>
 
         <div class="button-frame">
-            <button id="next-button" style="font-weight: bold;" class="button" disabled>Next Question</button>
-            <button id="review-button" class="button">Review Wrong Questions</button>
+            <!-- Default mode buttons -->
+            <div id="default-buttons">
+                <button id="next-button" style="font-weight: bold;" class="button" disabled>Next Question</button>
+                <button id="review-button" class="button">Review Wrong Questions</button>
+            </div>
+            <!-- Exam mode buttons -->
+            <div id="exam-buttons" style="display: none;">
+                <button id="exit-exam-mode-button" class="button">Exit Exam Mode</button>
+            </div>
         </div>
 
         <footer class="footer">
