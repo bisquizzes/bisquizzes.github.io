@@ -31,7 +31,7 @@ wrongLabel.style.color = "red";
 
 async function loadQuestions() {
     try {
-        const response = await fetch('questions_expertsystems_midterm.json');
+        const response = await fetch('questions_eaccounting_midterm.json');
         const questions = await response.json();
         return questions;
     } catch (error) {

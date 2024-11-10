@@ -1,0 +1,586 @@
+[
+  {
+    "question": "Rules for creating an Odoo database:",
+    "options": [
+      "A) Database name cannot contain spaces",
+      "B) Must start with a number or letter",
+      "C) Need to avoid commas, periods, and quotes",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "To install sales module, you open:",
+    "options": [
+      "A) Interface",
+      "B) E-mail",
+      "C) CRM",
+      "D) None of the above"
+    ],
+    "answer": "D) None of the above"
+  },
+  {
+    "question": "To create new customer, you must install:",
+    "options": [
+      "A) CRM module",
+      "B) Purchasing module",
+      "C) Invoicing module",
+      "D) None of the above"
+    ],
+    "answer": "D) None of the above"
+  },
+  {
+    "question": "To create new customer, you must have the following data:",
+    "options": [
+      "A) Individual or company",
+      "B) Name and address",
+      "C) Website and job position",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "When choosing the function of accounting from customer page, the relevant information you need are:",
+    "options": [
+      "A) Customer payment terms",
+      "B) Degree of trust you have in this debtor",
+      "C) Fiscal information",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "When choosing the function of sales and purchases from customer page, the relevant information you need are:",
+    "options": [
+      "A) Customer/vendor",
+      "B) Salesperson",
+      "C) MISC information",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "To create a new product, you need the following information:",
+    "options": [
+      "A) Product type and internal reference",
+      "B) Barcode and internal category",
+      "C) Sales price and cost",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "When choosing the function of invoicing from product page, the relevant information you need are:",
+    "options": [
+      "A) Customer taxes",
+      "B) Vendor taxes",
+      "C) Invoicing policy",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "The product can be sold or purchased related to:",
+    "options": [
+      "A) New customer",
+      "B) New sales order",
+      "C) New pipeline",
+      "D) None of the above"
+    ],
+    "answer": "D) None of the above"
+  },
+  {
+    "question": "To set your company information, you need the following information:",
+    "options": [
+      "A) Company tagline",
+      "B) Address and website",
+      "C) Phone and email",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "To create new sales order, you need the following information:",
+    "options": [
+      "A) Customer name",
+      "B) Order date and expiration date",
+      "C) Payment terms",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+    {
+    "question": "When choosing the function of other information from sales order page, the relevant information you need are:",
+    "options": [
+      "A) Sales person and tags",
+      "B) Sales team and customer reference",
+      "C) Fiscal position",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "To create new quotation, you need the following information:",
+    "options": [
+      "A) Customer name",
+      "B) Order date and expiration date",
+      "C) Payment terms",
+      "D) None of the above"
+    ],
+    "answer": "D) None of the above"
+  },
+  {
+    "question": "The dashboard of sales module is:",
+    "options": [
+      "A) Customer",
+      "B) Sales order",
+      "C) Products",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "The dashboard of CRM module is:",
+    "options": [
+      "A) Customer and sales order",
+      "B) Products and quotations",
+      "C) Pipeline",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "Assigning the sales representative or account manager using CRM modules, you need the following information:",
+    "options": [
+      "A) Name and email address",
+      "B) Sales and project",
+      "C) Accounting and finance",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "When choosing the function of preferences from sales representative page, the relevant information you need are:",
+    "options": [
+      "A) Language",
+      "B) Time zone",
+      "C) Alias and signature",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "The main function of pipeline is:",
+    "options": [
+      "A) New pipeline",
+      "B) Qualified",
+      "C) Proposition",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "To create new pipeline, you need the following information:",
+    "options": [
+      "A) Opportunity title",
+      "B) Customer",
+      "C) Expected revenue",
+      "D) All the above"
+    ],
+    "answer": "D) All the above"
+  },
+  {
+    "question": "The percent of probability is related to:",
+    "options": [
+      "A) Customer",
+      "B) Product",
+      "C) Sales order",
+      "D) None of the above"
+    ],
+    "answer": "D) None of the above"
+  },
+  {
+    "question": "Sales allow you to begin collecting information about the scope and potential outcomes for a sale.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your purchase process.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The customer setting helps the user to see all Leads as well as access the configuration options of the sales application.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The manager with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "To create a new salesperson by going to the Settings menu, selecting customer, and then clicking the Create button.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The manager representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "To manage the customer experience, the customer must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage user information and interactions.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "Send by Email, print, confirm sale, and cancel are examples of actions for CRM.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "On the purchase order you have the option to override the customer's payment terms for the specific sales order.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The steps to set the customer information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "To set the company information you must enter both a user and a product.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a customer form.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "Customer Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "To create or edit a customer, you must first create some products.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "You must click on the edit button to add your new customer record to the database.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "User Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "User Payment Term and Fiscal Position are the available options in the customer accounting page.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The available options in the customer Sales & Purchases page are: Is a customer? and is a Salesperson?",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The main function of the search box is allowing you to quickly search for records in the CRM application.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "Checking the 'Loading demonstration data' checkbox may include right customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "The rules you need to create a database are name can contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "CRM is an open-source program to manage the corporation resources.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "If you have installed CRM on your own server, you will need to first create a database.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "Your database name can contain spaces and must start with a number or letter.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "An opportunity allows you to begin collecting information about the scope and potential outcomes for a sale.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your sales process.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The Manager setting helps the user to see all Leads as well as access the configuration options of the sales application.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The user with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "To create a new salesperson by going to the Settings menu, selecting Users, and then clicking the Create button.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The sales representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "To manage the customer experience, manager must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage customer information and interactions.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Send by Email, print, confirm sale, and cancel are examples of actions for an Odoo quotation.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "On the sales order you have the option to override the customer's payment terms for the specific sales order.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The steps to set the company information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "To set the company information you must enter both a customer and a product.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a Product form.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Product Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "To create or edit a customer, you must first create some products.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "B) False"
+  },
+  {
+    "question": "You must click on the save button to add your new customer record to the database.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Customer Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Customer Payment Term and Fiscal Position are the available options in the customer accounting page.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The available options in the customer Sales & Purchases page are: Is a Customer? and is a vendor?",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The main function of search box is allowing you to quickly search for records in the Odoo application.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Checking the 'Loading demonstration data' checkbox may include fake customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "The rules you need to create a database are name cannot contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  },
+  {
+    "question": "Odoo is an open-source program to manage the corporation resources.",
+    "options": [
+      "A) True",
+      "B) False"
+    ],
+    "answer": "A) True"
+  }
+]
