@@ -74,7 +74,7 @@ function loadNewQuestion(questions) {
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
 
-    currentQuestion.userAnswer = selectedOption;
+    currentQuestion.userAnswer = selectedOption; // Capture the user's answer
 
     if (selectedOption === currentQuestion.answer) {
         correctScore++;
@@ -89,8 +89,8 @@ function checkAnswer(selectedOption) {
         feedbackLabel.style.color = "#dc3545";
         feedbackLabel.style.fontWeight = "bold";
 
-        if (!wrongQuestions.includes(currentQuestion)) {
-            wrongQuestions.push({ ...currentQuestion });
+        if (!wrongQuestions.some(q => q.question === currentQuestion.question)) {
+            wrongQuestions.push({ ...currentQuestion, userAnswer: selectedOption });
         }
 
         Array.from(optionsContainer.children).forEach(button => {
