@@ -74,6 +74,8 @@ function loadNewQuestion(questions) {
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
 
+    currentQuestion.userAnswer = selectedOption; // Store the user's selected answer
+
     if (selectedOption === currentQuestion.answer) {
         correctScore++;
         correctLabel.innerText = `Correct: ${correctScore}`;
@@ -82,13 +84,13 @@ function checkAnswer(selectedOption) {
         feedbackLabel.style.fontWeight = "bold";
     } else {
         wrongScore++;
-        wrongLabel.innerText = `Wrong: ${wrongScore}`;
+        wrongLabel.innerText = `Incorrect: ${wrongScore}`;
         feedbackLabel.innerText = `Wrong! The correct answer was: ${currentQuestion.answer}`;
         feedbackLabel.style.color = "#dc3545";
         feedbackLabel.style.fontWeight = "bold";
 
         if (!wrongQuestions.includes(currentQuestion)) {
-            wrongQuestions.push(currentQuestion);
+            wrongQuestions.push({ ...currentQuestion }); // Add a copy of the question to wrongQuestions
         }
 
         Array.from(optionsContainer.children).forEach(button => {
@@ -109,6 +111,7 @@ function checkAnswer(selectedOption) {
     nextButton.disabled = false;
 }
 
+
 function showWrongQuestions() {
     const popupContainer = document.createElement('div');
     popupContainer.className = 'popup-container';
@@ -116,12 +119,21 @@ function showWrongQuestions() {
     if (wrongQuestions.length === 0) {
         popupContainer.innerHTML = '<div class="popup"><p>No wrong questions to review.</p><button onclick="closePopup()">Close</button></div>';
     } else {
-        const questionList = wrongQuestions.map(q => `<li>${q.question}</li>`).join('');
+        let questionList = wrongQuestions.map((q, index) => {
+            const isCorrect = q.userAnswer === q.answer;
+            return `<li>
+                <strong>Question ${index + 1}:</strong> ${q.question}<br>
+                <strong>Your Answer:</strong> ${q.userAnswer} ${isCorrect ? '✅' : '❌'}<br>
+                ${!isCorrect ? `<strong>Correct Answer:</strong> ${q.answer}` : ''}
+            </li><br>`;
+        }).join('');
+
         popupContainer.innerHTML = `<div class="popup"><h2>Review Wrong Questions</h2><ul>${questionList}</ul><button onclick="closePopup()">Close</button></div>`;
     }
 
     document.body.appendChild(popupContainer);
 }
+
 
 function closePopup() {
     const popup = document.querySelector('.popup-container');
