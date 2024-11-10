@@ -31,7 +31,7 @@ wrongLabel.style.color = "red";
 
 async function loadQuestions() {
     try {
-        const response = await fetch('questions.json');
+        const response = await fetch('questions_expertsystems_midterm.json');
         const questions = await response.json();
         return questions;
     } catch (error) {
@@ -350,5 +350,3 @@ window.onload = async () => {
     const questions = await loadQuestions();
     loadNewQuestion(questions);
 };
-
-/* Existing styles for the popup are already in styles.css */

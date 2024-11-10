@@ -1,0 +1,798 @@
+[
+  {
+    "question": "What is the primary function of expert systems in business?",
+    "options": [
+      "A) Storing large amounts of data.",
+      "B) Replacing human employees.",
+      "C) Making decisions based on knowledge.",
+      "D) Developing marketing plans."
+    ],
+    "answer": "C) Making decisions based on knowledge."
+  },
+  {
+    "question": "An expert system’s knowledge base is composed of:",
+    "options": [
+      "A) Video files.",
+      "B) Raw data only.",
+      "C) Facts, rules, and heuristics.",
+      "D) Financial transactions."
+    ],
+    "answer": "C) Facts, rules, and heuristics."
+  },
+  {
+    "question": "The inference engine in an expert system is responsible for:",
+    "options": [
+      "A) Storing information.",
+      "B) Making inferences based on rules.",
+      "C) Handling database transactions.",
+      "D) Designing user interfaces."
+    ],
+    "answer": "B) Making inferences based on rules."
+  },
+  {
+    "question": "Which part of an expert system interacts with the end-user?",
+    "options": [
+      "A) Knowledge base.",
+      "B) Inference engine.",
+      "C) User interface.",
+      "D) Database."
+    ],
+    "answer": "C) User interface."
+  },
+  {
+    "question": "Expert systems are commonly used in business to:",
+    "options": [
+      "A) Simplify graphic design tasks.",
+      "B) Automate decision-making processes.",
+      "C) Enhance social media marketing.",
+      "D) Store customer information."
+    ],
+    "answer": "B) Automate decision-making processes."
+  },
+  {
+    "question": "What type of knowledge is primarily used by expert systems?",
+    "options": [
+      "A) Implicit knowledge.",
+      "B) Experimental knowledge.",
+      "C) Structured, explicit knowledge.",
+      "D) Unverified knowledge."
+    ],
+    "answer": "C) Structured, explicit knowledge."
+  },
+  {
+    "question": "The main benefit of using expert systems in business is:",
+    "options": [
+      "A) Reducing human labor costs.",
+      "B) Enhancing product packaging.",
+      "C) Increasing storage space.",
+      "D) Improving decision accuracy."
+    ],
+    "answer": "D) Improving decision accuracy."
+  },
+  {
+    "question": "Which component processes and applies rules in an expert system?",
+    "options": [
+      "A) Inference engine.",
+      "B) Knowledge base.",
+      "C) Database.",
+      "D) Security module."
+    ],
+    "answer": "A) Inference engine."
+  },
+  {
+    "question": "In a business setting, expert systems are most effective in:",
+    "options": [
+      "A) Solving complex problems.",
+      "B) Creating advertisements.",
+      "C) Reducing electricity costs.",
+      "D) Managing social media content."
+    ],
+    "answer": "A) Solving complex problems."
+  },
+  {
+    "question": "What is the role of the knowledge base in an expert system?",
+    "options": [
+      "A) It interfaces with the user.",
+      "B) It stores facts, rules, and guidelines.",
+      "C) It collects data for the database.",
+      "D) It automates software updates."
+    ],
+    "answer": "B) It stores facts, rules, and guidelines."
+  },
+  {
+  "question": "Which term best describes the reasoning capability of an expert system?",
+  "options": [
+    "A) Analytical.",
+    "B) Visual.",
+    "C) Intuitive.",
+    "D) Heuristic."
+  ],
+  "answer": "D) Heuristic."
+},
+{
+  "question": "The user interface in an expert system is important because:",
+  "options": [
+    "A) It manages data storage.",
+    "B) It allows users to interact with the system.",
+    "C) It performs complex calculations.",
+    "D) It encrypts information."
+  ],
+  "answer": "B) It allows users to interact with the system."
+},
+{
+  "question": "An example of a business application for expert systems is:",
+  "options": [
+    "A) Customer service support.",
+    "B) Inventory management.",
+    "C) Strategic planning.",
+    "D) Social media monitoring."
+  ],
+  "answer": "C) Strategic planning."
+},
+{
+  "question": "The knowledge base of an expert system typically includes:",
+  "options": [
+    "A) Financial data.",
+    "B) Procedures for problem-solving.",
+    "C) Graphic design elements.",
+    "D) Survey data."
+  ],
+  "answer": "B) Procedures for problem-solving."
+},
+{
+  "question": "Which of the following is a core feature of expert systems in businesses?",
+  "options": [
+    "A) Real-time video processing.",
+    "B) Imitating expert decision-making.",
+    "C) Advertising products.",
+    "D) Compiling customer data."
+  ],
+  "answer": "B) Imitating expert decision-making."
+},
+{
+  "question": "A knowledge base in an expert system consists of:",
+  "options": [
+    "A) Customer opinions.",
+    "B) Structured data with decision rules.",
+    "C) Random internet sources.",
+    "D) Unverified information."
+  ],
+  "answer": "B) Structured data with decision rules."
+},
+{
+  "question": "In which area do expert systems provide the greatest benefit?",
+  "options": [
+    "A) Repetitive clerical tasks.",
+    "B) Strategic business decision-making.",
+    "C) Routine scheduling.",
+    "D) Document formatting."
+  ],
+  "answer": "B) Strategic business decision-making."
+},
+{
+  "question": "A rule-based system in an expert system uses:",
+  "options": [
+    "A) Random information.",
+    "B) Structured logic rules.",
+    "C) Financial records.",
+    "D) Graphic design tools."
+  ],
+  "answer": "B) Structured logic rules."
+},
+{
+  "question": "Which of the following is NOT typically a use of expert systems?",
+  "options": [
+    "A) Automated graphic design.",
+    "B) Complex problem-solving.",
+    "C) Providing expert advice.",
+    "D) Decision support."
+  ],
+  "answer": "A) Automated graphic design."
+},
+{
+  "question": "Expert systems are designed to:",
+  "options": [
+    "A) Mimic human decision-making in specific fields.",
+    "B) Entertain audiences.",
+    "C) Manage online social media.",
+    "D) Create company budgets."
+  ],
+  "answer": "A) Mimic human decision-making in specific fields."
+},
+{
+  "question": "In business, expert systems are often used for:",
+  "options": [
+    "A) HR recruitment only.",
+    "B) Operations management decisions.",
+    "C) Web design improvements.",
+    "D) Personalizing marketing emails."
+  ],
+  "answer": "B) Operations management decisions."
+},
+{
+  "question": "A component that draws conclusions in an expert system is:",
+  "options": [
+    "A) Knowledge base.",
+    "B) Database.",
+    "C) Inference engine.",
+    "D) Data entry module."
+  ],
+  "answer": "C) Inference engine."
+},
+{
+  "question": "One key benefit of expert systems in business applications is:",
+  "options": [
+    "A) Reduced advertising costs.",
+    "B) Streamlined data processing.",
+    "C) Enhanced customer engagement.",
+    "D) Improved decision-making accuracy."
+  ],
+  "answer": "D) Improved decision-making accuracy."
+},
+{
+  "question": "The inference engine of an expert system is known for:",
+  "options": [
+    "A) Designing logos.",
+    "B) Providing direct customer service.",
+    "C) Applying rules to reach conclusions.",
+    "D) Randomly selecting data."
+  ],
+  "answer": "C) Applying rules to reach conclusions."
+},
+{
+  "question": "Expert systems can reduce human error in business decisions by:",
+  "options": [
+    "A) Increasing data storage.",
+    "B) Using logical rules to process info.",
+    "C) Sending automated emails.",
+    "D) Making creative suggestions."
+  ],
+  "answer": "B) Using logical rules to process info."
+},
+{
+  "question": "An expert system’s knowledge base can be updated with:",
+  "options": [
+    "A) New facts & rules as become available.",
+    "B) Advertisements.",
+    "C) Marketing slogans.",
+    "D) Video content."
+  ],
+  "answer": "A) New facts & rules as become available."
+},
+{
+  "question": "Which of the following is a feature of an expert system’s interface?",
+  "options": [
+    "A) Automatic decision-making.",
+    "B) Connection to a social media platform.",
+    "C) Allowing user input for decision queries.",
+    "D) Changing language based on region."
+  ],
+  "answer": "C) Allowing user input for decision queries."
+},
+{
+  "question": "The reasoning process in an expert system is often:",
+  "options": [
+    "A) Heuristic and rule-based.",
+    "B) Experimental.",
+    "C) Unstructured.",
+    "D) Based on real-time data."
+  ],
+  "answer": "A) Heuristic and rule-based."
+},
+{
+  "question": "Expert systems are mainly used in:",
+  "options": [
+    "A) Employee hiring processes.",
+    "B) Decision support for business problems.",
+    "C) Customer relationship management.",
+    "D) Web analytics."
+  ],
+  "answer": "B) Decision support for business problems."
+},
+{
+  "question": "The user interface in an expert system is designed to:",
+  "options": [
+    "A) Support system maintenance.",
+    "B) Allow interaction between user & system.",
+    "C) Manage graphical content.",
+    "D) Provide a social network."
+  ],
+  "answer": "B) Allow interaction between user & system."
+},
+{
+  "question": "In an expert system, the knowledge base is updated to:",
+  "options": [
+    "A) Integrate user feedback.",
+    "B) Adapt to changing rules and facts.",
+    "C) Improve social media reach.",
+    "D) Store graphic content."
+  ],
+  "answer": "B) Adapt to changing rules and facts."
+},
+{
+  "question": "What kind of system is an expert system in terms of its data handling?",
+  "options": [
+    "A) Heuristic and knowledge-based.",
+    "B) Experimental and random.",
+    "C) Graphic-oriented.",
+    "D) Emotionally-driven."
+  ],
+  "answer": "A) Heuristic and knowledge-based."
+},
+{
+  "question": "A key characteristic of expert systems is their ability to:",
+  "options": [
+    "A) Perform financial transactions.",
+    "B) Emulate human-like reasoning.",
+    "C) Design automated responses.",
+    "D) Develop promotional content."
+  ],
+  "answer": "B) Emulate human-like reasoning."
+},
+{
+  "question": "In an expert system, the user interface allows for:",
+  "options": [
+    "A) Direct user interaction.",
+    "B) Background data processing only.",
+    "C) External database linkage.",
+    "D) Physical document printing."
+  ],
+  "answer": "A) Direct user interaction."
+},
+{
+  "question": "Which of the following does NOT describe a use of expert systems in business?",
+  "options": [
+    "A) Predicting customer preferences.",
+    "B) Managing financial reports.",
+    "C) Supporting decision-making.",
+    "D) Resolving complex issues."
+  ],
+  "answer": "B) Managing financial reports."
+},
+{
+  "question": "Expert systems in business applications are mainly employed for:",
+  "options": [
+    "A) Routine task automation.",
+    "B) Strategic support and problem-solving.",
+    "C) Video marketing content.",
+    "D) E-commerce advertisements."
+  ],
+  "answer": "B) Strategic support and problem-solving."
+},
+{
+  "question": "A knowledge base in an expert system stores information primarily in the form of:",
+  "options": [
+    "A) Digital images.",
+    "B) Rules, facts, and logic.",
+    "C) Customer reviews.",
+    "D) Statistical trends."
+  ],
+  "answer": "B) Rules, facts, and logic."
+},
+{
+  "question": "The primary goal of an inference engine is to:",
+  "options": [
+    "A) Automate system security.",
+    "B) Apply knowledge to reach conclusions.",
+    "C) Increase the speed of data entry.",
+    "D) Manage physical resources."
+  ],
+  "answer": "B) Apply knowledge to reach conclusions."
+},
+{
+  "question": "What is the function of heuristics in an expert system?",
+  "options": [
+    "A) Manage database operations.",
+    "B) Simplify problem-solving strategies.",
+    "C) Edit graphic design.",
+    "D) Display multimedia content."
+  ],
+  "answer": "B) Simplify problem-solving strategies."
+},
+{
+  "question": "An example of a rule-based application in an expert system would be:",
+  "options": [
+    "A) Sorting random data points.",
+    "B) Following specific logic to solve problems.",
+    "C) Producing video files.",
+    "D) Managing social media posts."
+  ],
+  "answer": "B) Following specific logic to solve problems."
+},
+{
+  "question": "In an expert system, knowledge acquisition typically involves:",
+  "options": [
+    "A) Collecting unverified opinions.",
+    "B) Extracting knowledge for decision rules.",
+    "C) Developing physical prototypes.",
+    "D) Observing customer behavior in real-time."
+  ],
+  "answer": "B) Extracting knowledge for decision rules."
+},
+{
+  "question": "Expert systems benefit businesses by providing:",
+  "options": [
+    "A) Consistent and accurate decision-making.",
+    "B) Personal opinions.",
+    "C) Creative design suggestions.",
+    "D) Social engagement analysis."
+  ],
+  "answer": "A) Consistent and accurate decision-making."
+},
+{
+  "question": "Which component of an expert system holds specialized knowledge?",
+  "options": [
+    "A) Database.",
+    "B) Inference engine.",
+    "C) Knowledge base.",
+    "D) User interface."
+  ],
+  "answer": "C) Knowledge base."
+},
+{
+  "question": "The reasoning used in an expert system is often described as:",
+  "options": [
+    "A) Emotional.",
+    "B) Random.",
+    "C) Heuristic.",
+    "D) Unstructured."
+  ],
+  "answer": "C) Heuristic."
+},
+{
+  "question": "A primary advantage of expert systems is their ability to:",
+  "options": [
+    "A) Decrease data processing times.",
+    "B) Improve decision reliability.",
+    "C) Replace all human jobs.",
+    "D) Automate social media posts."
+  ],
+  "answer": "B) Improve decision reliability."
+},
+{
+  "question": "An inference engine operates by:",
+  "options": [
+    "A) Taking user input directly to form decisions.",
+    "B) Applying rules to infer solutions.",
+    "C) Storing digital media content.",
+    "D) Creating advertising content."
+  ],
+  "answer": "B) Applying rules to infer solutions."
+},
+{
+  "question": "In an expert system, the user interface:",
+  "options": [
+    "A) Automates all data processing.",
+    "B) Acts as a communication bridge with the user.",
+    "C) Manages backend server functions.",
+    "D) Collects system maintenance logs."
+  ],
+  "answer": "B) Acts as a communication bridge with the user."
+},
+{
+  "question": "Which of the following best defines an expert system’s knowledge base?",
+  "options": [
+    "A) Set of structured and validated info.",
+    "B) A random assortment of facts.",
+    "C) Social media data collection.",
+    "D) Email responses."
+  ],
+  "answer": "A) Set of structured and validated info."
+},
+{
+  "question": "The purpose of expert systems in business is to:",
+  "options": [
+    "A) Support decision-making with expert knowledge.",
+    "B) Create marketing graphics.",
+    "C) Develop software code.",
+    "D) Monitor live streams."
+  ],
+  "answer": "A) Support decision-making with expert knowledge."
+},
+{
+  "question": "A well-designed expert system should provide:",
+  "options": [
+    "A) Only statistical analyses.",
+    "B) High accuracy and reliability in decision-making.",
+    "C) Unlimited data storage.",
+    "D) Marketing strategies."
+  ],
+  "answer": "B) High accuracy and reliability in decision-making."
+},
+{
+  "question": "Expert systems help in automating complex decision-making processes.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "A knowledge base in an expert system includes customer emails.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Inference engines in expert systems rely on structured logic to reach conclusions.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "The main purpose of a user interface in an expert system is to display data analytics.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Heuristics are commonly used in the reasoning process of expert systems.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems are useful only in large businesses.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "An expert system’s primary advantage is enhancing decision accuracy.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Knowledge base of expert system is primarily composed of rules and structured facts.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "User interfaces in expert systems allow users to input queries for decision support.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems are designed to mimic human intuition.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems apply logic rules to reach conclusions.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "The user interface in an expert system serves to bridge user interactions.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Knowledge bases in expert systems often include unverified data sources.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Heuristics allow expert systems to simplify complex decision-making.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems are meant to imitate the logical processes of a human expert.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Inference engines analyze raw data without using structured rules.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Expert systems can reduce human involvement in repetitive decision-making tasks.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "The main function of a knowledge base is to serve as a repository of structured knowledge.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems do not rely on human knowledge for their decisions.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "An inference engine uses rules to analyze data and reach conclusions.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "A user interface allows users to directly interact with an expert system.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems are often used in strategic business decision-making.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "The knowledge base in an expert system is static and does not change over time.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Expert systems can be applied in both small and large business settings.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Inference engines rely solely on random guesswork.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Expert systems improve decision-making by minimizing human error.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Knowledge acquisition in expert systems involves collecting relevant expert knowledge.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "A well-designed user interface is essential for efficient use of expert systems.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Knowledge base contains rules that guide decision-making in an expert system.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Heuristics in expert systems are intended to make decisions without human-like reasoning.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "The inference engine applies the knowledge base to derive answers for the user.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems can never be updated once they are implemented.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "A major benefit of expert systems is their ability to offer consistent responses.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "Expert systems work best when applied in decision-intensive areas.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+},
+{
+  "question": "The user interface in expert systems is not required for effective operation.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Inference engines are responsible for storing data in an expert system.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "B) False"
+},
+{
+  "question": "Expert system’s primary objective is to support and enhance human decision-making.",
+  "options": [
+    "A) True",
+    "B) False"
+  ],
+  "answer": "A) True"
+}
+]
