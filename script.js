@@ -249,12 +249,7 @@ function showWrongQuestions() {
 }
 
 function closePopup() {
-    console.log("Test1");
-    const popup = document.querySelector('.popup-container');
-    if (popup) {
-        console.log("Test2");
-        popup.remove();
-    }
+    filterPopup.style.display = 'none';
 }
 
 nextButton.addEventListener('click', async () => {
