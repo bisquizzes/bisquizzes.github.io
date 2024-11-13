@@ -255,11 +255,8 @@ body {
     border-radius: 5px;
     font-weight: bold;
     font-size: 12px;
-    cursor: pointer;
-    position: relative;
-    order: -1;
-    margin-right: auto;
     line-height: normal;
+    margin-bottom: 10px;
 }
 
 .important-marker:hover::after {
