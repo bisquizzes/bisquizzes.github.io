@@ -123,26 +123,32 @@ function toggleCategoryOption(event) {
     }
 }
 
-// Apply Filter
 function applyFilter() {
     if (!questions.length) {
         console.error("Questions not loaded. Please reload the page.");
         return;
     }
+
+    // Reset asked question indices to start fresh with the filtered categories
+    askedQuestionIndices = [];
     closeFilterPopup();
-    loadNewQuestion(); // Use the already loaded `questions`
+    loadNewQuestion(); // Load a new question based on the selected categories
 }
+
 
 // Check if a Question is Important
 function isImportantQuestion(question) {
     return question.categories.some(category => importantCategories.includes(category));
 }
 
-// Load a New Question
 function loadNewQuestion() {
     if (isExamMode) return;
 
+    // Re-enable the Next button and reset feedback for a fresh start
     nextButton.disabled = true;
+    feedbackLabel.innerText = "";
+
+    // Reset to start fresh if all questions have been asked
     if (askedQuestionIndices.length === questions.length) {
         askedQuestionIndices = [];
     }
@@ -151,7 +157,7 @@ function loadNewQuestion() {
     let filteredQuestions = questions;
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
-            question.categories.some(category => selectedCategories.includes(category))
+            question.categories && question.categories.some(category => selectedCategories.includes(category))
         );
     }
 
@@ -173,7 +179,6 @@ function loadNewQuestion() {
     // Display question and options
     document.getElementById('important-marker').style.display = isImportantQuestion(currentQuestion) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
-    feedbackLabel.innerText = "";
     optionsContainer.innerHTML = "";
     currentQuestion.options.forEach(option => {
         const button = document.createElement('button');
@@ -184,7 +189,7 @@ function loadNewQuestion() {
     });
 }
 
-// Check the Answer
+
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
 
@@ -208,14 +213,16 @@ function checkAnswer(selectedOption) {
         }
     }
 
+    // Disable option buttons and highlight correct/incorrect answers
     Array.from(optionsContainer.children).forEach(button => {
         button.onclick = null;
         button.style.backgroundColor = button.innerText === currentQuestion.answer ? "#28a745" : button.innerText === selectedOption ? "#dc3545" : "";
         button.style.color = "white";
     });
+
+    // Enable the Next button to allow moving to the next question
     nextButton.disabled = false;
 }
-
 
 // Show Wrong Questions for Review
 function showWrongQuestions() {
