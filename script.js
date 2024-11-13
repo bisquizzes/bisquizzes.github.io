@@ -248,8 +248,9 @@ function showWrongQuestions() {
     document.getElementById('close-button').addEventListener('click', closePopup);
 }
 
-function closePopup() {
-    filterPopup.style.display = 'none';
+function closePopup(event) {
+    const popup = document.querySelector('.popup-container');
+    if (popup) popup.remove();
 }
 
 nextButton.addEventListener('click', async () => {
