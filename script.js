@@ -26,7 +26,7 @@ const exitExamModeButton = document.getElementById('exit-exam-mode-button');
 const questionCounter = document.getElementById('question-counter');
 const timerLabel = document.getElementById('timer-label');
 const importantCategories = ["Lecture Questions"];
-const filterButton = document.getElementById('filter-button');
+
 const filterPopup = document.getElementById('filter-popup');
 const filterOptionsContainer = document.getElementById('filter-options');
 let selectedCategories = ["All"];
@@ -34,7 +34,9 @@ let selectedCategories = ["All"];
 correctLabel.style.color = "green";
 wrongLabel.style.color = "red";
 
+const filterButton = document.getElementById('filter-button');
 filterButton.addEventListener('click', openFilterPopup);
+
 
 function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
