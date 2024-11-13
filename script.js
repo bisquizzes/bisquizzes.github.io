@@ -51,6 +51,7 @@ async function loadQuestions() {
 // Open Filter Popup
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
+    filterPopup.style.display = 'flex';
 
     if (!questions.length) await loadQuestions();
 
@@ -245,11 +246,13 @@ function showWrongQuestions() {
     document.body.appendChild(popupContainer);
 }
 
-// Close Popup
-function closePopup() {
+function closePopup(event) {
+    event.stopPropagation();
     const popup = document.querySelector('.popup-container');
     if (popup) popup.remove();
 }
+
+
 
 nextButton.addEventListener('click', async () => {
     if (isExamMode) return;
