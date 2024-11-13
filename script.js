@@ -61,6 +61,13 @@ async function openFilterPopup() {
     allOption.querySelector('input').addEventListener('change', toggleAllOption);
     filterOptionsContainer.appendChild(allOption);
 
+    // Check if questions are available before proceeding
+    if (questions.length === 0) {
+        console.error("No questions available to load filter options.");
+        filterPopup.style.display = 'none';
+        return;
+    }
+
     // Create category options
     const categories = new Set();
     questions.forEach(question => question.categories.forEach(category => categories.add(category)));
@@ -224,7 +231,6 @@ function showWrongQuestions() {
 
     document.body.appendChild(popupContainer);
 }
-
 
 // Close Popup
 function closePopup() {
@@ -444,6 +450,7 @@ function showExamInfo() {
 
 // Event Listeners
 window.onload = async () => {
+    await loadQuestions(); // Ensure questions are loaded first
     loadNewQuestion();
 };
 
