@@ -233,23 +233,29 @@ function showWrongQuestions() {
     popupContainer.className = 'popup-container';
 
     if (wrongQuestions.length === 0) {
-        popupContainer.innerHTML = '<div class="popup"><p>No wrong questions to review.</p><button onclick="closePopup()">Close</button></div>';
+        popupContainer.innerHTML = '<div class="popup"><p>No wrong questions to review.</p><button id="close-button">Close</button></div>';
     } else {
         const questionList = wrongQuestions.map((q, index) => {
             const isCorrect = q.userAnswer === q.answer;
             return `<li><strong>Question ${index + 1}:</strong> ${q.question}<br><strong>Your Answer:</strong> ${q.userAnswer} ${isCorrect ? '✅' : '❌'}<br>${!isCorrect ? `<strong>Correct Answer:</strong> ${q.answer}` : ''}</li><br>`;
         }).join('');
 
-        popupContainer.innerHTML = `<div class="popup"><h2>Review Wrong Questions</h2><ul>${questionList}</ul><button onclick="closePopup()">Close</button></div>`;
+        popupContainer.innerHTML = `<div class="popup"><h2>Review Wrong Questions</h2><ul>${questionList}</ul><button id="close-button">Close</button></div>`;
     }
 
     document.body.appendChild(popupContainer);
+
+    // Add event listener for closing the popup
+    document.getElementById('close-button').addEventListener('click', closePopup);
 }
 
-function closePopup(event) {
+function closePopup() {
     const popup = document.querySelector('.popup-container');
-    if (popup) popup.remove();
+    if (popup) {
+        popup.remove();
+    }
 }
+
 
 
 
