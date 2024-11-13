@@ -189,7 +189,6 @@ body {
     }
 }
 
-/* Styles for the popup */
 .popup-container {
     position: fixed;
     top: 0;
@@ -258,10 +257,14 @@ body {
     line-height: normal;
     margin-bottom: 10px;
     position: relative;
-    /* Ensure the tooltip positions relative to this element */
 }
 
 .important-marker:hover::after {
+    visibility: visible;
+    opacity: 1;
+}
+
+.important-marker::after {
     content: "This question is very important, usually because it's discussed in the lecture or present in the book";
     position: absolute;
     top: -40px;
@@ -274,11 +277,6 @@ body {
     font-size: 12px;
     white-space: nowrap;
     z-index: 10;
-}
-
-.important-marker::after {
-    content: "";
-    /* Hide tooltip by default */
     visibility: hidden;
     opacity: 0;
     transition: opacity 0.3s;

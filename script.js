@@ -52,26 +52,21 @@ async function loadQuestions() {
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
 
-    // Load questions if not already loaded
     if (!questions.length) await loadQuestions();
 
-    // Create All option
     const allOption = document.createElement('div');
     allOption.innerHTML = `<label><input type="checkbox" id="filter-all" checked> All</label>`;
     allOption.querySelector('input').addEventListener('change', toggleAllOption);
     filterOptionsContainer.appendChild(allOption);
 
-    // Check if questions are available before proceeding
     if (questions.length === 0) {
         console.error("No questions available to load filter options.");
         filterPopup.style.display = 'none';
         return;
     }
 
-    // Create category options
     const categories = new Set();
     questions.forEach(question => {
-        // Ensure question has a categories property and it is an array
         if (question.categories && Array.isArray(question.categories)) {
             question.categories.forEach(category => categories.add(category));
         }
@@ -124,16 +119,24 @@ function toggleCategoryOption(event) {
 }
 
 function applyFilter() {
+    if (isExamMode) return;
+
     if (!questions.length) {
         console.error("Questions not loaded. Please reload the page.");
         return;
     }
 
-    // Reset asked question indices to start fresh with the filtered categories
     askedQuestionIndices = [];
     closeFilterPopup();
-    loadNewQuestion(); // Load a new question based on the selected categories
+    loadNewQuestion();
 }
+
+// Only open filter popup if not in exam mode
+filterButton.addEventListener('click', () => {
+    if (!isExamMode) {
+        openFilterPopup();
+    }
+});
 
 
 // Check if a Question is Important
@@ -144,16 +147,13 @@ function isImportantQuestion(question) {
 function loadNewQuestion() {
     if (isExamMode) return;
 
-    // Re-enable the Next button and reset feedback for a fresh start
     nextButton.disabled = true;
     feedbackLabel.innerText = "";
 
-    // Reset to start fresh if all questions have been asked
     if (askedQuestionIndices.length === questions.length) {
         askedQuestionIndices = [];
     }
 
-    // Filter questions based on selected categories
     let filteredQuestions = questions;
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
@@ -167,7 +167,6 @@ function loadNewQuestion() {
         return;
     }
 
-    // Select a new question that hasn't been asked
     let questionIndex;
     do {
         questionIndex = Math.floor(Math.random() * filteredQuestions.length);
@@ -176,8 +175,7 @@ function loadNewQuestion() {
     askedQuestionIndices.push(questionIndex);
     currentQuestion = filteredQuestions[questionIndex];
 
-    // Display question and options
-    document.getElementById('important-marker').style.display = isImportantQuestion(currentQuestion) ? 'inline-block' : 'none';
+    document.getElementById('important-marker').style.display = (!isExamMode && isImportantQuestion(currentQuestion)) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
     optionsContainer.innerHTML = "";
     currentQuestion.options.forEach(option => {
@@ -213,14 +211,12 @@ function checkAnswer(selectedOption) {
         }
     }
 
-    // Disable option buttons and highlight correct/incorrect answers
     Array.from(optionsContainer.children).forEach(button => {
         button.onclick = null;
         button.style.backgroundColor = button.innerText === currentQuestion.answer ? "#28a745" : button.innerText === selectedOption ? "#dc3545" : "";
         button.style.color = "white";
     });
 
-    // Enable the Next button to allow moving to the next question
     nextButton.disabled = false;
 }
 
@@ -270,7 +266,6 @@ async function startExamMode() {
     examTimeLeft = 3600;
     examEnded = false;
 
-    // Show exam mode UI, hide normal mode UI
     document.getElementById('default-score-frame').style.display = 'none';
     document.getElementById('default-buttons').style.display = 'none';
     document.getElementById('exam-score-frame').style.display = 'flex';
@@ -461,7 +456,7 @@ function showExamInfo() {
 
 // Event Listeners
 window.onload = async () => {
-    await loadQuestions(); // Ensure questions are loaded first
+    await loadQuestions();
     loadNewQuestion();
 };
 
