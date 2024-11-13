@@ -1,3 +1,5 @@
+// Global Variables
+let questions = [];
 let correctScore = 0;
 let wrongScore = 0;
 let askedQuestions = [];
@@ -12,7 +14,10 @@ let examUserAnswers = [];
 let examTimer;
 let examTimeLeft = 3600;
 let examEnded = false;
+let selectedCategories = ["All"];
+const importantCategories = ["Lecture Questions"];
 
+// DOM Elements
 const questionLabel = document.getElementById('question-label');
 const optionsContainer = document.getElementById('options-container');
 const feedbackLabel = document.getElementById('feedback-label');
@@ -25,38 +30,38 @@ const examInfoButton = document.getElementById('exam-info-button');
 const exitExamModeButton = document.getElementById('exit-exam-mode-button');
 const questionCounter = document.getElementById('question-counter');
 const timerLabel = document.getElementById('timer-label');
-const importantCategories = ["Lecture Questions"];
-
+const filterButton = document.getElementById('filter-button');
 const filterPopup = document.getElementById('filter-popup');
 const filterOptionsContainer = document.getElementById('filter-options');
-let selectedCategories = ["All"];
 
+// Style Updates
 correctLabel.style.color = "green";
 wrongLabel.style.color = "red";
 
-const filterButton = document.getElementById('filter-button');
-filterButton.addEventListener('click', openFilterPopup);
+// Function to Load Questions
+async function loadQuestions() {
+    try {
+        const response = await fetch('questions_digitaleconomics_midterm.json');
+        questions = await response.json();
+    } catch (error) {
+        console.error('Error loading questions:', error);
+    }
+}
 
-
+// Open Filter Popup
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
 
     // Load questions if not already loaded
-    if (!questions.length) {
-        try {
-            const response = await fetch('questions_digitaleconomics_midterm.json');
-            questions = await response.json();
-        } catch (error) {
-            console.error('Error loading questions:', error);
-            return;
-        }
-    }
+    if (!questions.length) await loadQuestions();
 
+    // Create All option
     const allOption = document.createElement('div');
     allOption.innerHTML = `<label><input type="checkbox" id="filter-all" checked> All</label>`;
     allOption.querySelector('input').addEventListener('change', toggleAllOption);
     filterOptionsContainer.appendChild(allOption);
 
+    // Create category options
     const categories = new Set();
     questions.forEach(question => question.categories.forEach(category => categories.add(category)));
 
@@ -71,10 +76,12 @@ async function openFilterPopup() {
 }
 
 
+// Close Filter Popup
 function closeFilterPopup() {
     filterPopup.style.display = 'none';
 }
 
+// Toggle All Option
 function toggleAllOption() {
     const isAllSelected = document.getElementById('filter-all').checked;
     document.querySelectorAll('.filter-category').forEach(checkbox => {
@@ -84,6 +91,7 @@ function toggleAllOption() {
     selectedCategories = isAllSelected ? ["All"] : [];
 }
 
+// Toggle Category Option
 function toggleCategoryOption(event) {
     const allCheckbox = document.getElementById('filter-all');
     if (allCheckbox.checked) {
@@ -104,27 +112,23 @@ function toggleCategoryOption(event) {
     }
 }
 
+// Apply Filter
 function applyFilter() {
-    closeFilterPopup();
-    loadNewQuestion(questions);
-}
-
-async function loadQuestions() {
-    try {
-        const response = await fetch('questions_digitaleconomics_midterm.json');
-        const questions = await response.json();
-        return questions;
-    } catch (error) {
-        console.error('Error loading questions:', error);
-        return [];
+    if (!questions.length) {
+        console.error("Questions not loaded. Please reload the page.");
+        return;
     }
+    closeFilterPopup();
+    loadNewQuestion(); // Use the already loaded `questions`
 }
 
+// Check if a Question is Important
 function isImportantQuestion(question) {
     return question.categories.some(category => importantCategories.includes(category));
 }
 
-function loadNewQuestion(questions) {
+// Load a New Question
+function loadNewQuestion() {
     if (isExamMode) return;
 
     nextButton.disabled = true;
@@ -132,6 +136,7 @@ function loadNewQuestion(questions) {
         askedQuestionIndices = [];
     }
 
+    // Filter questions based on selected categories
     let filteredQuestions = questions;
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
@@ -145,24 +150,17 @@ function loadNewQuestion(questions) {
         return;
     }
 
+    // Select a new question that hasn't been asked
     let questionIndex;
-    while (true) {
+    do {
         questionIndex = Math.floor(Math.random() * filteredQuestions.length);
-        if (!askedQuestionIndices.includes(questionIndex)) {
-            askedQuestionIndices.push(questionIndex);
-            break;
-        }
-    }
+    } while (askedQuestionIndices.includes(questionIndex));
 
+    askedQuestionIndices.push(questionIndex);
     currentQuestion = filteredQuestions[questionIndex];
 
-    const importantMarker = document.getElementById('important-marker');
-    if (isImportantQuestion(currentQuestion)) {
-        importantMarker.style.display = 'inline-block';
-    } else {
-        importantMarker.style.display = 'none';
-    }
-
+    // Display question and options
+    document.getElementById('important-marker').style.display = isImportantQuestion(currentQuestion) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
     feedbackLabel.innerText = "";
     optionsContainer.innerHTML = "";
@@ -175,6 +173,7 @@ function loadNewQuestion(questions) {
     });
 }
 
+// Check the Answer
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
 
@@ -196,26 +195,18 @@ function checkAnswer(selectedOption) {
         if (!wrongQuestions.some(q => q.question === currentQuestion.question)) {
             wrongQuestions.push({ ...currentQuestion, userAnswer: selectedOption });
         }
-
-        Array.from(optionsContainer.children).forEach(button => {
-            if (button.innerText === selectedOption) {
-                button.style.backgroundColor = "#dc3545";
-                button.style.color = "white";
-            }
-        });
     }
 
     Array.from(optionsContainer.children).forEach(button => {
         button.onclick = null;
-        if (button.innerText === currentQuestion.answer) {
-            button.style.backgroundColor = "#28a745";
-            button.style.color = "white";
-        }
+        button.style.backgroundColor = button.innerText === currentQuestion.answer ? "#28a745" : button.innerText === selectedOption ? "#dc3545" : "";
+        button.style.color = "white";
     });
     nextButton.disabled = false;
 }
 
 
+// Show Wrong Questions for Review
 function showWrongQuestions() {
     const popupContainer = document.createElement('div');
     popupContainer.className = 'popup-container';
@@ -223,13 +214,9 @@ function showWrongQuestions() {
     if (wrongQuestions.length === 0) {
         popupContainer.innerHTML = '<div class="popup"><p>No wrong questions to review.</p><button onclick="closePopup()">Close</button></div>';
     } else {
-        let questionList = wrongQuestions.map((q, index) => {
+        const questionList = wrongQuestions.map((q, index) => {
             const isCorrect = q.userAnswer === q.answer;
-            return `<li>
-                <strong>Question ${index + 1}:</strong> ${q.question}<br>
-                <strong>Your Answer:</strong> ${q.userAnswer} ${isCorrect ? '✅' : '❌'}<br>
-                ${!isCorrect ? `<strong>Correct Answer:</strong> ${q.answer}` : ''}
-            </li><br>`;
+            return `<li><strong>Question ${index + 1}:</strong> ${q.question}<br><strong>Your Answer:</strong> ${q.userAnswer} ${isCorrect ? '✅' : '❌'}<br>${!isCorrect ? `<strong>Correct Answer:</strong> ${q.answer}` : ''}</li><br>`;
         }).join('');
 
         popupContainer.innerHTML = `<div class="popup"><h2>Review Wrong Questions</h2><ul>${questionList}</ul><button onclick="closePopup()">Close</button></div>`;
@@ -239,50 +226,43 @@ function showWrongQuestions() {
 }
 
 
+// Close Popup
 function closePopup() {
     const popup = document.querySelector('.popup-container');
-    if (popup) {
-        popup.remove();
-    }
+    if (popup) popup.remove();
 }
 
 nextButton.addEventListener('click', async () => {
     if (isExamMode) return;
-    const questions = await loadQuestions();
     loadNewQuestion(questions);
 });
-
-reviewButton.addEventListener('click', showWrongQuestions);
 
 examModeButton.addEventListener('click', startExamMode);
 examInfoButton.addEventListener('click', showExamInfo);
 exitExamModeButton.addEventListener('click', exitExamMode);
 
 async function startExamMode() {
+    if (!questions.length) {
+        console.error("Questions not loaded. Please reload the page.");
+        return;
+    }
     isExamMode = true;
-    examQuestions = [];
+    examQuestions = getRandomQuestions(questions, 30);
     examCurrentQuestionIndex = 0;
     examUserAnswers = [];
     examTimeLeft = 3600;
+    examEnded = false;
 
+    // Show exam mode UI, hide normal mode UI
     document.getElementById('default-score-frame').style.display = 'none';
     document.getElementById('default-buttons').style.display = 'none';
-
     document.getElementById('exam-score-frame').style.display = 'flex';
     document.getElementById('exam-buttons').style.display = 'block';
-
     document.getElementById('exam-mode-button').style.display = 'none';
     document.getElementById('exam-info-button').style.display = 'none';
-
     document.getElementById('exam-mode-label').style.display = 'block';
 
-    feedbackLabel.innerText = "";
-
-    const allQuestions = await loadQuestions();
-    examQuestions = getRandomQuestions(allQuestions, 30);
-
     startExamTimer();
-
     loadExamQuestion();
 }
 
@@ -462,7 +442,10 @@ function showExamInfo() {
     document.body.appendChild(popupContainer);
 }
 
+// Event Listeners
 window.onload = async () => {
-    const questions = await loadQuestions();
-    loadNewQuestion(questions);
+    loadNewQuestion();
 };
+
+filterButton.addEventListener('click', openFilterPopup);
+reviewButton.addEventListener('click', showWrongQuestions);
