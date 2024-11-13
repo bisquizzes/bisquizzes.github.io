@@ -257,6 +257,8 @@ body {
     font-size: 12px;
     line-height: normal;
     margin-bottom: 10px;
+    position: relative;
+    /* Ensure the tooltip positions relative to this element */
 }
 
 .important-marker:hover::after {
@@ -272,6 +274,14 @@ body {
     font-size: 12px;
     white-space: nowrap;
     z-index: 10;
+}
+
+.important-marker::after {
+    content: "";
+    /* Hide tooltip by default */
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
 }
 
 .filter-button {

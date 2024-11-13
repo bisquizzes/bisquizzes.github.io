@@ -70,7 +70,12 @@ async function openFilterPopup() {
 
     // Create category options
     const categories = new Set();
-    questions.forEach(question => question.categories.forEach(category => categories.add(category)));
+    questions.forEach(question => {
+        // Ensure question has a categories property and it is an array
+        if (question.categories && Array.isArray(question.categories)) {
+            question.categories.forEach(category => categories.add(category));
+        }
+    });
 
     categories.forEach(category => {
         const categoryOption = document.createElement('div');
@@ -81,7 +86,6 @@ async function openFilterPopup() {
 
     filterPopup.style.display = 'flex';
 }
-
 
 // Close Filter Popup
 function closeFilterPopup() {
