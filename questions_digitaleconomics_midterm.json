@@ -1317,7 +1317,7 @@
             "C) Secure Data Network",
             "D) Standard Digital Network"
         ],
-        "answer": "D) Software Defined Networking",
+        "answer": "A) Software Defined Networking",
         "categories": [
             "Abbreviations"
         ]
@@ -1343,7 +1343,7 @@
             "C) System Level Agreement",
             "D) Standard Legal Agreement"
         ],
-        "answer": "B) Service Level Agreement",
+        "answer": "A) Service Level Agreement",
         "categories": [
             "Abbreviations"
         ]
@@ -1369,7 +1369,7 @@
             "C) Secure Operational Architecture",
             "D) Standard Operating Architecture"
         ],
-        "answer": "B) Service Oriented Architecture",
+        "answer": "A) Service Oriented Architecture",
         "categories": [
             "Abbreviations"
         ]
@@ -1382,7 +1382,7 @@
             "C) Secure Resource Model",
             "D) System Relationship Management"
         ],
-        "answer": "D) Stakeholder Relationship Model",
+        "answer": "A) Stakeholder Relationship Model",
         "categories": [
             "Abbreviations"
         ]
@@ -1395,7 +1395,7 @@
             "C) Telecommunication Process",
             "D) Transmission Communication Process"
         ],
-        "answer": "C) Transmission Control Protocol",
+        "answer": "A) Transmission Control Protocol",
         "categories": [
             "Abbreviations"
         ]
@@ -1408,7 +1408,7 @@
             "C) User Data Processing",
             "D) Unified Data Protocol"
         ],
-        "answer": "D) User Datagram Protocol",
+        "answer": "A) User Datagram Protocol",
         "categories": [
             "Abbreviations"
         ]
@@ -1421,7 +1421,7 @@
             "C) Uniform Reference Locator",
             "D) Unified Resource Locator"
         ],
-        "answer": "B) Uniform Resource Locator",
+        "answer": "A) Uniform Resource Locator",
         "categories": [
             "Abbreviations"
         ]
@@ -1447,7 +1447,7 @@
             "C) Virtual Home System",
             "D) Video High Signal"
         ],
-        "answer": "B) Video Home System",
+        "answer": "A) Video Home System",
         "categories": [
             "Abbreviations"
         ]
@@ -1460,7 +1460,7 @@
             "C) Voice Network Optimization",
             "D) Virtual Node Operation"
         ],
-        "answer": "C) Virtual Network Operator",
+        "answer": "A) Virtual Network Operator",
         "categories": [
             "Abbreviations"
         ]
@@ -1473,7 +1473,7 @@
             "C) Virtual Online Internet Protocol",
             "D) Voice over Internal Protocol"
         ],
-        "answer": "B) Voice over IP",
+        "answer": "B) Video over Internet Protocol",
         "categories": [
             "Abbreviations"
         ]
@@ -1486,7 +1486,7 @@
             "C) Virtual Operating LTE",
             "D) Voice Optimized LTE"
         ],
-        "answer": "D) Voice over LTE",
+        "answer": "A) Voice over LTE",
         "categories": [
             "Abbreviations"
         ]
