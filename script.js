@@ -127,10 +127,15 @@ function applyFilter() {
         return;
     }
 
+    if (selectedCategories.includes("All")) {
+        selectedCategories = ["All"];
+    }
+
     askedQuestionIndices = [];
     closeFilterPopup();
     loadNewQuestion();
 }
+
 
 // Only open filter popup if not in exam mode
 filterButton.addEventListener('click', () => {
@@ -151,7 +156,6 @@ function loadNewQuestion() {
     nextButton.disabled = true;
     feedbackLabel.innerText = "";
 
-    // Filter questions based on selected categories
     let filteredQuestions = questions;
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
@@ -159,29 +163,24 @@ function loadNewQuestion() {
         );
     }
 
-    // Check if filtered questions are available
     if (filteredQuestions.length === 0) {
         questionLabel.innerText = "No questions available for the selected categories.";
         optionsContainer.innerHTML = "";
         return;
     }
 
-    // Reset `askedQuestionIndices` if all filtered questions have been asked
     if (askedQuestionIndices.length >= filteredQuestions.length) {
         askedQuestionIndices = [];
     }
 
-    // Select a new question index that hasn't been asked yet
     let questionIndex;
     do {
         questionIndex = Math.floor(Math.random() * filteredQuestions.length);
     } while (askedQuestionIndices.includes(questionIndex));
 
-    // Mark the question as asked
     askedQuestionIndices.push(questionIndex);
     currentQuestion = filteredQuestions[questionIndex];
 
-    // Display the question and options
     document.getElementById('important-marker').style.display = (!isExamMode && isImportantQuestion(currentQuestion)) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
     optionsContainer.innerHTML = "";
