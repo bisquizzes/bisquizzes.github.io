@@ -17,13 +17,7 @@
         <div class="exam-mode-container">
             <button id="exam-mode-button" class="exam-button">Mid-Term Exam Mode</button>
             <button id="exam-info-button" class="info-button">?</button>
-            <button id="filter-button" class="filter-button">Filter Questions</button>
             <p id="exam-mode-label" style="display: none; font-weight: bold;">Mid-Term Exam Mode</p>
-
-            <div id="important-marker" class="important-marker" style="display: none;"
-                title="This question is very important, usually because it's discussed in the lecture or present in the book">
-                Important Question
-            </div>
         </div>
 
         <div id="filter-popup" class="popup-container" style="display: none;">
@@ -36,6 +30,11 @@
         </div>
 
         <div class="score-frame" id="default-score-frame">
+            <div id="important-marker" class="important-marker" style="display: none;"
+                title="This question is very important, usually because it's discussed in the lecture or present in the book">
+                Important Question
+            </div>
+
             <p id="correct-label" style="font-weight: bold;">Correct: 0</p>
             <p id="wrong-label" style="font-weight: bold;">Incorrect: 0</p>
         </div>
@@ -55,6 +54,7 @@
             <div id="default-buttons">
                 <button id="next-button" style="font-weight: bold;" class="button" disabled>Next Question</button>
                 <button id="review-button" class="button">Review Wrong Questions</button>
+                <button id="filter-button" class="button">Filter Questions</button>
             </div>
             <div id="exam-buttons" style="display: none;">
                 <button id="exit-exam-mode-button" class="button">Exit Exam Mode</button>

@@ -56,7 +56,8 @@ body {
 
 .score-frame {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
+    gap: 15px;
     margin: 10px 0;
     flex-wrap: wrap;
 }
@@ -254,9 +255,10 @@ body {
     border-radius: 5px;
     font-weight: bold;
     font-size: 12px;
-    margin-right: 10px;
     cursor: pointer;
     position: relative;
+    order: -1;
+    margin-right: auto;
 }
 
 .important-marker:hover::after {
