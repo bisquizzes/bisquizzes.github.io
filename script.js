@@ -38,15 +38,26 @@ const filterButton = document.getElementById('filter-button');
 filterButton.addEventListener('click', openFilterPopup);
 
 
-function openFilterPopup() {
+async function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
+
+    // Load questions if not already loaded
+    if (!questions.length) {
+        try {
+            const response = await fetch('questions_digitaleconomics_midterm.json');
+            questions = await response.json();
+        } catch (error) {
+            console.error('Error loading questions:', error);
+            return;
+        }
+    }
+
     const allOption = document.createElement('div');
     allOption.innerHTML = `<label><input type="checkbox" id="filter-all" checked> All</label>`;
     allOption.querySelector('input').addEventListener('change', toggleAllOption);
     filterOptionsContainer.appendChild(allOption);
 
     const categories = new Set();
-    const questions = loadQuestions();
     questions.forEach(question => question.categories.forEach(category => categories.add(category)));
 
     categories.forEach(category => {
@@ -58,6 +69,7 @@ function openFilterPopup() {
 
     filterPopup.style.display = 'flex';
 }
+
 
 function closeFilterPopup() {
     filterPopup.style.display = 'none';
