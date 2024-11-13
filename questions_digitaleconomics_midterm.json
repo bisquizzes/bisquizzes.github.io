@@ -138,5 +138,1788 @@
             "General MCQ",
             "Lecture Questions"
         ]
-    }
+    },
+    {
+        "question": "Application servers are usually grouped into two types: page-based and ____.",
+        "options": [
+            "A) script-based",
+            "B) server-based",
+            "C) group-based",
+            "D) component-based"
+        ],
+        "answer": "D) component-based",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A(n) ____ electronic wallet stores a consumer's information on his/her own computer.",
+        "options": [
+            "A) virtual",
+            "B) client-side",
+            "C) server-side",
+            "D) online"
+        ],
+        "answer": "B) client-side",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "One way to be able to trace electronic cash is to attach a(n) ____ to each electronic cash transaction.",
+        "options": [
+            "A) watermark",
+            "B) serial number",
+            "C) name",
+            "D) digital certificate"
+        ],
+        "answer": "B) serial number",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Which of the following provides a connection between e-commerce software and a company's existing accounting system?",
+        "options": [
+            "A) Software",
+            "B) Endware",
+            "C) Firmware",
+            "D) Middleware"
+        ],
+        "answer": "D) Middleware",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A(n) ____ attack occurs when hundreds or even thousands of people each send a message to a particular address.",
+        "options": [
+            "A) mail bomb",
+            "B) nuisance",
+            "C) e-mail",
+            "D) mass mail"
+        ],
+        "answer": "A) mail bomb",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "All of the following are examples of online customer service metrics EXCEPT:",
+        "options": [
+            "A) navigability",
+            "B) response time",
+            "C) product failure rate",
+            "D) site availability"
+        ],
+        "answer": "C) product failure rate",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "B2B purchases involving long-term contracts developed through negotiations are called:",
+        "options": [
+            "A) spot buying",
+            "B) strategic sourcing",
+            "C) supply chain integration",
+            "D) customized buying"
+        ],
+        "answer": "B) strategic sourcing",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "B2B transactions characterized by sharing of information between partners is called:",
+        "options": [
+            "A) sell-side commerce",
+            "B) buy-side commerce",
+            "C) an exchange",
+            "D) collaborative commerce"
+        ],
+        "answer": "D) collaborative commerce",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A marketplace which delivers a Web-based, private-trading sales channel to business customers are called:",
+        "options": [
+            "A) a buy-side marketplace",
+            "B) a demand-based marketplace",
+            "C) a sell-side marketplace",
+            "D) an integrated marketplace"
+        ],
+        "answer": "A) a buy-side marketplace",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "In e-procurement, administrative processing costs per order should:",
+        "options": [
+            "A) decline sharply",
+            "B) increase sharply",
+            "C) not be impacted by the implementation of e-procurement",
+            "D) be totally eliminated"
+        ],
+        "answer": "A) decline sharply",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Most companies begin e-procurement with:",
+        "options": [
+            "A) indirect materials",
+            "B) raw materials",
+            "C) MROs",
+            "D) direct materials"
+        ],
+        "answer": "A) indirect materials",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "General Electric lists the specifications for a kind of wire needed in the manufacture of light bulbs on its TPN site. GE asks potential suppliers to submit the price at which they would be willing to supply the wire. This is an example of:",
+        "options": [
+            "A) a forward auction",
+            "B) a reverse auction",
+            "C) a sell-side marketplace",
+            "D) customization"
+        ],
+        "answer": "B) a reverse auction",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Internet-based EDI:",
+        "options": [
+            "A) significantly limits the accessibility of small companies",
+            "B) should never be viewed as a replacement for traditional EDI",
+            "C) can offer wide accessibility to most companies in the world",
+            "D) is only successful when it replaces traditional EDI"
+        ],
+        "answer": "C) can offer wide accessibility to most companies in the world",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "An exchange charges an annual fee of $10,000 for all parties who want to trade in the exchange. The revenue model in use by this exchange is the:",
+        "options": [
+            "A) transaction fee model",
+            "B) fee for service model",
+            "C) membership fee model",
+            "D) advertising fee model"
+        ],
+        "answer": "C) membership fee model",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A market maker charges a percentage on every buy and sell made in the exchange. The revenue model in place in this exchange is the:",
+        "options": [
+            "A) transaction fee model",
+            "B) fee for service model",
+            "C) membership fee model",
+            "D) advertising fee model"
+        ],
+        "answer": "A) transaction fee model",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A market maker bills a buyer for reviewing several seller contracts and making a recommendation on what to buy and from whom. The revenue model being used in this example is the:",
+        "options": [
+            "A) transaction fee model",
+            "B) fee for service model",
+            "C) membership fee model",
+            "D) advertising fee model"
+        ],
+        "answer": "B) fee for service model",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The concept of liquidity for a B2B exchange is:",
+        "options": [
+            "A) the amount of available cash on hand at any given time",
+            "B) the ease with which information flows between exchange members",
+            "C) the volume of business conducted on the exchange",
+            "D) the ease with which orders can be placed, processed, and shipped using the exchange"
+        ],
+        "answer": "C) the volume of business conducted on the exchange",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Brand building is important in B2B exchanges because:",
+        "options": [
+            "A) It is easy for exchange members to change to another exchange",
+            "B) Exchange members typically buy only the best brands of product",
+            "C) Information flow is poor in most exchanges, making trust of suppliers very important",
+            "D) Brand loyalty toward a given product is usually more important than cost"
+        ],
+        "answer": "C) Information flow is poor in most exchanges, making trust of suppliers very important",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "In e-commerce, the relationship between reach and richness is:",
+        "options": [
+            "A) either reach or richness is possible",
+            "B) e-commerce lends itself to increased reach only",
+            "C) both reach and richness are possible",
+            "D) e-commerce lends itself to increased richness only"
+        ],
+        "answer": "C) both reach and richness are possible",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The risk that an EC strategy will negatively impact existing customers or business processes are considered a:",
+        "options": [
+            "A) competitive risk",
+            "B) transition risk",
+            "C) customer-induced risk",
+            "D) business partner risk"
+        ],
+        "answer": "B) transition risk",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Dividing customers into various categories and offering different prices based on customer segments is the pricing strategy known as:",
+        "options": [
+            "A) competitive pricing",
+            "B) precision",
+            "C) adaptability",
+            "D) segmentation"
+        ],
+        "answer": "D) segmentation",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "An outsourcer that sells access to software applications is called a(n):",
+        "options": [
+            "A) Web sourcer",
+            "B) content developer",
+            "C) application service provider",
+            "D) Internet Service Provider"
+        ],
+        "answer": "C) application service provider",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The highest level of business partnering in strategy implementation is the formation of a(n):",
+        "options": [
+            "A) subsidiary",
+            "B) virtual corporation",
+            "C) SBU",
+            "D) e-partnership"
+        ],
+        "answer": "B) virtual corporation",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "An exact duplicate of the original Web site physically located on a Web server on another continent:",
+        "options": [
+            "A) is called a mirror site",
+            "B) is a standard service of ISP hosting companies",
+            "C) is a standard service of store builder service companies",
+            "D) is a standard component of self-hosting"
+        ],
+        "answer": "A) is called a mirror site",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The Web hosting option under which the business acquires the hardware, software, staff, and dedicated telecommunications services needed to host a Web site is called:",
+        "options": [
+            "A) using a store builder",
+            "B) ISP hosting",
+            "C) self-hosting",
+            "D) mirror hosting"
+        ],
+        "answer": "C) self-hosting",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The page that welcomes a visitor and introduces the site is called the:",
+        "options": [
+            "A) homepage",
+            "B) transaction page",
+            "C) help page",
+            "D) content page"
+        ],
+        "answer": "A) homepage",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A page that assists visitors in using or navigating through the site is called a:",
+        "options": [
+            "A) homepage",
+            "B) transaction page",
+            "C) help page",
+            "D) content page"
+        ],
+        "answer": "C) help page",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A page that leads customers through the purchase process is called a:",
+        "options": [
+            "A) homepage",
+            "B) transaction page",
+            "C) help page",
+            "D) content page"
+        ],
+        "answer": "B) transaction page",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The concept of consistency in Web site design includes:",
+        "options": [
+            "A) making sure all visitors consistently find what they are looking for",
+            "B) making sure Web pages look the same no matter which browser a customer is using",
+            "C) making sure customers are treated consistently when they contact customer service",
+            "D) making sure the messages sent to customers who contact the company are consistent"
+        ],
+        "answer": "B) making sure Web pages look the same no matter which browser a customer is using",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "An HTML element that describes the content of a Web page is called a(n):",
+        "options": [
+            "A) page title",
+            "B) meta tag",
+            "C) ALT tag",
+            "D) keyword"
+        ],
+        "answer": "B) meta tag",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "All of the following are examples of B2E EXCEPT:",
+        "options": [
+            "A) an employee buys her company's products at a discount through the online company store",
+            "B) the announcement of the appointment of a new Chief Financial Officer is disseminated over the company intranet",
+            "C) an employee places an order for materials from a supplier using an extranet",
+            "D) an employee takes a training class over an intranet"
+        ],
+        "answer": "C) an employee places an order for materials from a supplier using an extranet",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A corporate LAN or WAN that uses Internet technology secured behind a corporate firewall is called a(n):",
+        "options": [
+            "A) extranet",
+            "B) ERP",
+            "C) intranet",
+            "D) groupware application"
+        ],
+        "answer": "C) intranet",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "All of the following are potential limitations of e-auctions EXCEPT:",
+        "options": [
+            "A) perceived lack of security",
+            "B) a possibility of fraud",
+            "C) bidders have extraordinarily little time to make bids",
+            "D) limited bidding participation"
+        ],
+        "answer": "D) limited bidding participation",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "All of the following are characteristics of digital products EXCEPT:",
+        "options": [
+            "A) Digitized products are more expensive to deliver than physical products",
+            "B) Cycle time is reduced",
+            "C) There is no need to maintain physical inventory",
+            "D) Digital product cost structures display increasing returns and low marginal reproduction costs"
+        ],
+        "answer": "A) Digitized products are more expensive to deliver than physical products",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The amount of information provided to customers is called:",
+        "options": [
+            "A) richness",
+            "B) efficiency",
+            "C) reach",
+            "D) functionality"
+        ],
+        "answer": "A) richness",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "A marketer that uses email to advertise to potential customers is called a:",
+        "options": [
+            "A) viral marketer",
+            "B) content disseminator",
+            "C) market maker",
+            "D) transaction broker"
+        ],
+        "answer": "B) content disseminator",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "In an e-market, Federal Express is an example of a:",
+        "options": [
+            "A) viral marketer",
+            "B) content disseminator",
+            "C) market maker",
+            "D) service provider"
+        ],
+        "answer": "D) service provider",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The original click-and-mortar strategy employed by Toys R Us failed, as did the original toy venture of Amazon.com. Now, Toys R Us sells toys online through Amazon.com. This is an example of:",
+        "options": [
+            "A) disintermediation",
+            "B) channel conflict",
+            "C) a digital delivery system",
+            "D) an alliance of a pure player with a traditional retailer"
+        ],
+        "answer": "D) an alliance of a pure player with a traditional retailer",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Amazon.com utilizes a wide variety of new types of intermediaries in serving its customers. This is an example of:",
+        "options": [
+            "A) disintermediation",
+            "B) unbundling",
+            "C) cybermediation",
+            "D) hypermediation"
+        ],
+        "answer": "C) cybermediation",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "When its agents learn that an insurer has begun selling policies over the Internet, they threaten to resign unless the insurer stops this practice. This is an example of:",
+        "options": [
+            "A) channel conflict",
+            "B) unbundling",
+            "C) cybermediation",
+            "D) hypermediation"
+        ],
+        "answer": "A) channel conflict",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "What does the abbreviation '3G' stand for?",
+        "options": [
+            "A) Third Generation Mobile System",
+            "B) Third Group of Network Providers",
+            "C) Three-Gigabyte Network",
+            "D) Three-Generation Communication"
+        ],
+        "answer": "A) Third Generation Mobile System",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does '4G' refer to in telecommunications?",
+        "options": [
+            "A) Fourth Group of Network Providers",
+            "B) Fourth Generation Mobile Systems",
+            "C) Four-Gigabyte Network",
+            "D) Four Generation Communication"
+        ],
+        "answer": "B) Fourth Generation Mobile Systems",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does '5G' stand for?",
+        "options": [
+            "A) Fifth Group of Network Providers",
+            "B) Five-Gigabyte Network",
+            "C) Fifth Generation Mobile Systems",
+            "D) Five Generation Communication"
+        ],
+        "answer": "C) Fifth Generation Mobile Systems",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is the full form of 'ADSL'?",
+        "options": [
+            "A) Asymmetric Data Subscriber Line",
+            "B) Asymmetric Digital Subscriber Line",
+            "C) Advanced Digital Subscriber Link",
+            "D) Automated Data Service Line"
+        ],
+        "answer": "B) Asymmetric Digital Subscriber Line",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'ARPU' represent?",
+        "options": [
+            "A) Average Rate Per Unit",
+            "B) Average Revenue Per User",
+            "C) Average Resource Usage",
+            "D) Annual Revenue Per Unit"
+        ],
+        "answer": "B) Average Revenue Per User",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'ASP' stands for:",
+        "options": [
+            "A) Application Service Provider",
+            "B) Asymmetric Service Protocol",
+            "C) Advanced System Process",
+            "D) Authorized Service Platform"
+        ],
+        "answer": "A) Application Service Provider",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In business, what does 'B2B' mean?",
+        "options": [
+            "A) Business to Business",
+            "B) Business to Buyer",
+            "C) Buyer to Buyer",
+            "D) Business for Business"
+        ],
+        "answer": "A) Business to Business",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'B2C' represent?",
+        "options": [
+            "A) Business to Customer",
+            "B) Business to Consumer",
+            "C) Buyer to Consumer",
+            "D) Business for Clients"
+        ],
+        "answer": "B) Business to Consumer",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'BMC' stand for?",
+        "options": [
+            "A) Business Model Canvas",
+            "B) Business Management Center",
+            "C) Buyer Market Collaboration",
+            "D) Business Marketing Campaign"
+        ],
+        "answer": "A) Business Model Canvas",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'BPQ' refers to:",
+        "options": [
+            "A) Business Partner Queue",
+            "B) Buyer-Payer-Quality",
+            "C) Buyer-Player-Quitter",
+            "D) Business Product Quality"
+        ],
+        "answer": "C) Buyer-Player-Quitter",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'C2B' mean?",
+        "options": [
+            "A) Customer to Buyer",
+            "B) Consumer to Business",
+            "C) Client to Brand",
+            "D) Consumer Buying"
+        ],
+        "answer": "B) Consumer to Business",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'C2C' stands for:",
+        "options": [
+            "A) Customer to Consumer",
+            "B) Client to Customer",
+            "C) Consumer to Consumer",
+            "D) Commerce to Consumer"
+        ],
+        "answer": "C) Consumer to Consumer",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is 'CBPP' short for?",
+        "options": [
+            "A) Commons-Based Peer Production",
+            "B) Consumer-Based Product Placement",
+            "C) Collaborative-Based Product Production",
+            "D) Common Brand Product Partnership"
+        ],
+        "answer": "A) Commons-Based Peer Production",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In digital media, 'CP' stands for:",
+        "options": [
+            "A) Creative Production",
+            "B) Content Provider",
+            "C) Customer Platform",
+            "D) Channel Partnership"
+        ],
+        "answer": "B) Content Provider",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'CPU' stand for?",
+        "options": [
+            "A) Central Processing Unit",
+            "B) Core Processing Unit",
+            "C) Computer Processing Unit",
+            "D) Central Performance Unit"
+        ],
+        "answer": "A) Central Processing Unit",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'DAB' refers to:",
+        "options": [
+            "A) Data Access Broadcasting",
+            "B) Digital Audio Broadcasting",
+            "C) Data Analytics Broadcast",
+            "D) Digital Automated Broadcasting"
+        ],
+        "answer": "B) Digital Audio Broadcasting",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'EDGE' stand for in mobile communication?",
+        "options": [
+            "A) Enhanced Data Rates for GSM Evolution",
+            "B) Extended Digital Growth Expansion",
+            "C) Enhanced Digital Generation Evolution",
+            "D) Extended Data Growth Evolution"
+        ],
+        "answer": "A) Enhanced Data Rates for GSM Evolution",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'EEA' stands for:",
+        "options": [
+            "A) European Economic Area",
+            "B) Enhanced Economic Alliance",
+            "C) European Environmental Agreement",
+            "D) Economic European Alliance"
+        ],
+        "answer": "A) European Economic Area",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is 'FinTech' short for?",
+        "options": [
+            "A) Financial Telecommunication",
+            "B) Finance Technician",
+            "C) Financial Technology",
+            "D) Fiscal Technology"
+        ],
+        "answer": "C) Financial Technology",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'FTTH' mean in telecommunications?",
+        "options": [
+            "A) Fiber Telecommunication Tower Hub",
+            "B) Fiber Technology Transfer Hub",
+            "C) Fiber Transmit Through Hub",
+            "D) Fiber to the Home"
+        ],
+        "answer": "D) Fiber to the Home",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In networking, what does 'GPRS' stand for?",
+        "options": [
+            "A) General Packet Radio Service",
+            "B) Global Packet Radio System",
+            "C) General Program Relay Service",
+            "D) Global Positioning Radio System"
+        ],
+        "answer": "A) General Packet Radio Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is the full form of 'GSM'?",
+        "options": [
+            "A) Global Satellite Mobile Network",
+            "B) Global System for Mobile Communications",
+            "C) General System for Messaging",
+            "D) General Subscriber Management"
+        ],
+        "answer": "B) Global System for Mobile Communications",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In web development, what does 'HTML' stand for?",
+        "options": [
+            "A) Hyper Transfer Markup Language",
+            "B) Hypertext Machine Language",
+            "C) Hypertext Markup Language",
+            "D) Hyper Tool Markup Language"
+        ],
+        "answer": "C) Hypertext Markup Language",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The acronym 'HTTP' stands for:",
+        "options": [
+            "A) Hyperlink Transfer Protocol",
+            "B) High Transmission Transfer Protocol",
+            "C) Hypertext Transport Tool Protocol",
+            "D) Hypertext Transfer Protocol"
+        ],
+        "answer": "D) Hypertext Transfer Protocol",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'IaaS' represent in cloud computing?",
+        "options": [
+            "A) Internet-as-a-Service",
+            "B) Infrastructure-as-a-Service",
+            "C) Information-as-a-Service",
+            "D) Integration-as-a-Service"
+        ],
+        "answer": "B) Infrastructure-as-a-Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In technology, 'ICT' stands for:",
+        "options": [
+            "A) International Communication Technology",
+            "B) Information and Communication Technology",
+            "C) Integrated Circuit Technology",
+            "D) Internet and Computing Technology"
+        ],
+        "answer": "B) Information and Communication Technology",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'IoT' mean in the tech industry?",
+        "options": [
+            "A) Internet of Things",
+            "B) Internet of Technology",
+            "C) Integrated Operational Technology",
+            "D) Internal Object Transfer"
+        ],
+        "answer": "A) Internet of Things",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'IP' refers to:",
+        "options": [
+            "A) Integrated Platform",
+            "B) Internet Protocol",
+            "C) Information Path",
+            "D) Internal Processing"
+        ],
+        "answer": "B) Internet Protocol",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'ISP' stand for in networking?",
+        "options": [
+            "A) Internet Service Provider",
+            "B) Internal Service Protocol",
+            "C) Integrated Service Provider",
+            "D) Internet System Protocol"
+        ],
+        "answer": "A) Internet Service Provider",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'ITS' stands for:",
+        "options": [
+            "A) International Telecommunication Systems",
+            "B) Intelligent Transport Systems",
+            "C) Integrated Technology Services",
+            "D) Interactive Telecommunication Systems"
+        ],
+        "answer": "B) Intelligent Transport Systems",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is the meaning of 'ITU'?",
+        "options": [
+            "A) Internet Technical Union",
+            "B) Integrated Technology Unit",
+            "C) International Telecommunication Union",
+            "D) International Technical University"
+        ],
+        "answer": "C) International Telecommunication Union",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'LTE' stands for:",
+        "options": [
+            "A) Long Term Evolution",
+            "B) Low Transmission Energy",
+            "C) Line Transfer Engineering",
+            "D) Local Transmission Entity"
+        ],
+        "answer": "A) Long Term Evolution",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In business, 'M&A' refers to:",
+        "options": [
+            "A) Marketing & Advertising",
+            "B) Mergers & Acquisitions",
+            "C) Management & Allocation",
+            "D) Manufacturing & Assembly"
+        ],
+        "answer": "B) Mergers & Acquisitions",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'MC' stand for in economics?",
+        "options": [
+            "A) Market Capital",
+            "B) Management Cost",
+            "C) Marginal Cost",
+            "D) Manufacturing Charge"
+        ],
+        "answer": "C) Marginal Cost",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'MMOG' represents:",
+        "options": [
+            "A) Massive Messaging Online Game",
+            "B) Mobile Multiplayer Online Game",
+            "C) Multi Mobile Online Game",
+            "D) Massive Multiplayer Online Game"
+        ],
+        "answer": "D) Massive Multiplayer Online Game",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'MMS' refer to in mobile communication?",
+        "options": [
+            "A) Messaging and Media Service",
+            "B) Multimedia Messaging Service",
+            "C) Multi Mobile Service",
+            "D) Mobile Messaging System"
+        ],
+        "answer": "B) Multimedia Messaging Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is 'MOOC' an abbreviation for?",
+        "options": [
+            "A) Multi-Open Online Communication",
+            "B) Massive Open Online Course",
+            "C) Massive Open Organizational Course",
+            "D) Multi-Organizational Online Course"
+        ],
+        "answer": "B) Massive Open Online Course",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In digital business, 'MSP' stands for:",
+        "options": [
+            "A) Market Service Platform",
+            "B) Mobile Service Provider",
+            "C) Mobile Subscription Platform",
+            "D) Multi-sided Platform"
+        ],
+        "answer": "D) Multi-sided Platform",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'MVNO' stand for?",
+        "options": [
+            "A) Multi-Value Network Operation",
+            "B) Mobile Voice Network Organization",
+            "C) Mobile Virtual Network Operator",
+            "D) Multi-Variable Network Operator"
+        ],
+        "answer": "C) Mobile Virtual Network Operator",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'NFV' mean in networking?",
+        "options": [
+            "A) Network Failure Verification",
+            "B) Network Frequency Variation",
+            "C) Network Frame Visualization",
+            "D) Network Function Virtualization"
+        ],
+        "answer": "D) Network Function Virtualization",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In telecommunications, 'NMT' stands for:",
+        "options": [
+            "A) Nordic Mobile Telephone",
+            "B) Network Mobile Technology",
+            "C) New Media Technology",
+            "D) Network Message Transmission"
+        ],
+        "answer": "A) Nordic Mobile Telephone",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'NP' represents:",
+        "options": [
+            "A) Network Provider",
+            "B) Network Platform",
+            "C) New Protocol",
+            "D) Network Performance"
+        ],
+        "answer": "B) Network Provider",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does the abbreviation 'O-T' stand for?",
+        "options": [
+            "A) Open Transmission",
+            "B) Optimal Technology",
+            "C) Odlyzko-Tilly",
+            "D) Online Transaction"
+        ],
+        "answer": "C) Odlyzko-Tilly",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'OTT' mean in digital services?",
+        "options": [
+            "A) Over-the-Top Services",
+            "B) On-Time Transmission",
+            "C) Online Text Transmission",
+            "D) Over-Time Technology"
+        ],
+        "answer": "A) Over-the-Top Services",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The acronym 'PaaS' stands for:",
+        "options": [
+            "A) Platform-as-a-Service",
+            "B) Protocol-as-a-Service",
+            "C) Platform and Software",
+            "D) Process-as-a-Service"
+        ],
+        "answer": "D) Platform-as-a-Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In computing, 'PC' stands for:",
+        "options": [
+            "A) Personal Computer",
+            "B) Private Computer",
+            "C) Public Computer",
+            "D) Portable Computer"
+        ],
+        "answer": "C) Personal Computer",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What is 'PDF' short for?",
+        "options": [
+            "A) Portable Document Format",
+            "B) Public Document File",
+            "C) Print Document Format",
+            "D) Protected Data File"
+        ],
+        "answer": "A) Portable Document Format",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'PSTN' refers to:",
+        "options": [
+            "A) Public Switched Telephone Network",
+            "B) Private Secure Telephone Network",
+            "C) Public Satellite Transmission Network",
+            "D) Personal Satellite Telephone Network"
+        ],
+        "answer": "A) Public Switched Telephone Network",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In cloud computing, what does 'SaaS' mean?",
+        "options": [
+            "A) Software-as-a-Service",
+            "B) System-as-a-Service",
+            "C) Security-as-a-Service",
+            "D) Storage-as-a-Service"
+        ],
+        "answer": "C) Software-as-a-Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'SCTP' stand for in networking?",
+        "options": [
+            "A) Stream Control Transmission Protocol",
+            "B) Secure Communication Transfer Protocol",
+            "C) Simple Channel Transmission Protocol",
+            "D) System Communication Transport Protocol"
+        ],
+        "answer": "A) Stream Control Transmission Protocol",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In networking, 'SDN' stands for:",
+        "options": [
+            "A) Software Defined Networking",
+            "B) System Data Network",
+            "C) Secure Data Network",
+            "D) Standard Digital Network"
+        ],
+        "answer": "D) Software Defined Networking",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'SIR' is short for:",
+        "options": [
+            "A) Susceptible-Infectious-Recovered",
+            "B) System Integrated Relay",
+            "C) Secure Internet Relay",
+            "D) Susceptible-Infection-Response"
+        ],
+        "answer": "A) Susceptible-Infectious-Recovered",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'SLA' refer to in business agreements?",
+        "options": [
+            "A) Service Level Agreement",
+            "B) Service Legal Agreement",
+            "C) System Level Agreement",
+            "D) Standard Legal Agreement"
+        ],
+        "answer": "B) Service Level Agreement",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'SMS' stands for:",
+        "options": [
+            "A) Short Message Service",
+            "B) Standard Messaging System",
+            "C) Secure Messaging Service",
+            "D) System Message Service"
+        ],
+        "answer": "A) Short Message Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In computing, 'SOA' stands for:",
+        "options": [
+            "A) Service Oriented Architecture",
+            "B) System Operated Application",
+            "C) Secure Operational Architecture",
+            "D) Standard Operating Architecture"
+        ],
+        "answer": "B) Service Oriented Architecture",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'SRM' refers to:",
+        "options": [
+            "A) Stakeholder Relationship Model",
+            "B) Standard Resource Management",
+            "C) Secure Resource Model",
+            "D) System Relationship Management"
+        ],
+        "answer": "D) Stakeholder Relationship Model",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'TCP' stand for in networking?",
+        "options": [
+            "A) Transmission Control Protocol",
+            "B) Transfer Communication Protocol",
+            "C) Telecommunication Process",
+            "D) Transmission Communication Process"
+        ],
+        "answer": "C) Transmission Control Protocol",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In networking, 'UDP' means:",
+        "options": [
+            "A) User Datagram Protocol",
+            "B) Universal Data Process",
+            "C) User Data Processing",
+            "D) Unified Data Protocol"
+        ],
+        "answer": "D) User Datagram Protocol",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The acronym 'URL' represents:",
+        "options": [
+            "A) Uniform Resource Locator",
+            "B) Universal Resource Link",
+            "C) Uniform Reference Locator",
+            "D) Unified Resource Locator"
+        ],
+        "answer": "B) Uniform Resource Locator",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In media, what does 'VCR' stand for?",
+        "options": [
+            "A) Videocassette Recorder",
+            "B) Video Communication Receiver",
+            "C) Virtual Content Recorder",
+            "D) Video Channel Recorder"
+        ],
+        "answer": "A) Videocassette Recorder",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'VHS' represent?",
+        "options": [
+            "A) Video Home System",
+            "B) Visual High Standard",
+            "C) Virtual Home System",
+            "D) Video High Signal"
+        ],
+        "answer": "B) Video Home System",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The abbreviation 'VNO' stands for:",
+        "options": [
+            "A) Virtual Network Operator",
+            "B) Video Network Operation",
+            "C) Voice Network Optimization",
+            "D) Virtual Node Operation"
+        ],
+        "answer": "C) Virtual Network Operator",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'VoIP' stand for?",
+        "options": [
+            "A) Voice over IP",
+            "B) Video over Internet Protocol",
+            "C) Virtual Online Internet Protocol",
+            "D) Voice over Internal Protocol"
+        ],
+        "answer": "B) Voice over IP",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In mobile networks, 'VoLTE' stands for:",
+        "options": [
+            "A) Voice over LTE",
+            "B) Video over LTE",
+            "C) Virtual Operating LTE",
+            "D) Voice Optimized LTE"
+        ],
+        "answer": "D) Voice over LTE",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does the abbreviation 'WOW' stand for?",
+        "options": [
+            "A) World of Widgets",
+            "B) World of Warcraft",
+            "C) Window on the Web",
+            "D) Wireless Over Web"
+        ],
+        "answer": "B) World of Warcraft",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "What does 'WWW' stand for?",
+        "options": [
+            "A) World Wide Web",
+            "B) Wireless Web World",
+            "C) Web Wide World",
+            "D) World Wide Wireless"
+        ],
+        "answer": "A) World Wide Web",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "The term 'XaaS' refers to:",
+        "options": [
+            "A) Anything as a Service",
+            "B) X-ray as a Service",
+            "C) Xcelerated Application as a Service",
+            "D) XML as a Service"
+        ],
+        "answer": "C) Anything as a Service",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    {
+        "question": "In electronics, 'DP' commonly refers to:",
+        "options": [
+            "A) Device Providers",
+            "B) Data Processing",
+            "C) Digital Providers",
+            "D) Display Panel"
+        ],
+        "answer": "D) Device Providers",
+        "categories": [
+            "Abbreviations"
+        ]
+    },
+    [
+        {
+            "question": "An economy based on information and communication technology (ICT). What does this define?",
+            "options": [
+                "A) Digital economy",
+                "B) Internet economy",
+                "C) Data economy",
+                "D) Platform economy"
+            ],
+            "answer": "A) Digital economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The branch of economics studying digital goods and services. What does this define?",
+            "options": [
+                "A) Data economy",
+                "B) Digital economics",
+                "C) Abundance economy",
+                "D) Virtual economy"
+            ],
+            "answer": "B) Digital economics",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The use of new and emerging technologies to replace traditional financial services. Examples include mobile payment services. What does this define?",
+            "options": [
+                "A) Financial Technologies (FinTech)",
+                "B) Network economy",
+                "C) Industry 4.0",
+                "D) Information economy"
+            ],
+            "answer": "A) Financial Technologies (FinTech)",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A form of business process automation based on using software robots as workers instead of humans. What does this define?",
+            "options": [
+                "A) Intelligent Transport Systems (ITS)",
+                "B) Robotic Process Automation (RPA)",
+                "C) Abundance economy",
+                "D) Digital economy"
+            ],
+            "answer": "B) Robotic Process Automation (RPA)",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The use of ICT to create smart factories based on industrial robots. What does this define?",
+            "options": [
+                "A) Network economy",
+                "B) Industry 4.0",
+                "C) Digital service",
+                "D) Virtual economy"
+            ],
+            "answer": "B) Industry 4.0",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The use of ICT to automate the road and transportation sector. What does this define?",
+            "options": [
+                "A) Intelligent Transport Systems (ITS)",
+                "B) Platform economy",
+                "C) Internet economy",
+                "D) Mixed bundling"
+            ],
+            "answer": "A) Intelligent Transport Systems (ITS)",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Focuses on businesses in which much of the economic value is generated by network effects. What does this define?",
+            "options": [
+                "A) Information economy",
+                "B) Data economy",
+                "C) Network economy",
+                "D) Platform economy"
+            ],
+            "answer": "C) Network economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Focuses on businesses that act as platforms, connecting two or more user groups (two-sided or multisided markets). What does this define?",
+            "options": [
+                "A) Network economy",
+                "B) Platform economy",
+                "C) Abundance economy",
+                "D) Virtual economy"
+            ],
+            "answer": "B) Platform economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Focuses on information products and how they are produced and traded. What does this define?",
+            "options": [
+                "A) Digital economics",
+                "B) Data economy",
+                "C) Internet economy",
+                "D) Information economy"
+            ],
+            "answer": "D) Information economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Focuses on harvesting and analyzing data business, where data is gathered from users and stored in large databases. What does this define?",
+            "options": [
+                "A) Data economy",
+                "B) Abundance economy",
+                "C) Network economy",
+                "D) Platform economy"
+            ],
+            "answer": "A) Data economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The economy of virtual worlds, such as World of Warcraft and Second Life. What does this define?",
+            "options": [
+                "A) Virtual economy",
+                "B) Platform economy",
+                "C) Information economy",
+                "D) Digital economy"
+            ],
+            "answer": "A) Virtual economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Covers the economics of Internet goods and services. What does this define?",
+            "options": [
+                "A) Platform economy",
+                "B) Internet economy",
+                "C) Network economy",
+                "D) Data economy"
+            ],
+            "answer": "B) Internet economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The economy of goods and services that are abundant, meaning they are close to unlimited in supply. What does this define?",
+            "options": [
+                "A) Abundance economy",
+                "B) Information economy",
+                "C) Network economy",
+                "D) Internet economy"
+            ],
+            "answer": "A) Abundance economy",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Encompasses all or parts of digital economy concepts, emphasizing that it is a young academic field of study. What does this define?",
+            "options": [
+                "A) Data economy",
+                "B) Digital economics",
+                "C) Virtual economy",
+                "D) Abundance economy"
+            ],
+            "answer": "B) Digital economics",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A networked zero marginal cost virtual object having value for some individuals or organizations. What does this define?",
+            "options": [
+                "A) Digital service",
+                "B) Data economy",
+                "C) Digital good",
+                "D) Information economy"
+            ],
+            "answer": "C) Digital good",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A networked zero marginal cost service that has value for individuals or organizations. What does this define?",
+            "options": [
+                "A) Digital good",
+                "B) Data economy",
+                "C) Digital service",
+                "D) Internet economy"
+            ],
+            "answer": "C) Digital service",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The cost of producing one additional unit of a good or service. Digital goods and services often have this at zero. What does this define?",
+            "options": [
+                "A) Marginal cost",
+                "B) Policing costs",
+                "C) Information economy",
+                "D) Search costs"
+            ],
+            "answer": "A) Marginal cost",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The costs of searching for a particular good and determining its price and properties. What does this define?",
+            "options": [
+                "A) Bargaining costs",
+                "B) Policing costs",
+                "C) Search and information costs",
+                "D) Digital economics"
+            ],
+            "answer": "C) Search and information costs",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The collective costs for the consumer and provider to agree on contract terms, including price and delivery. What does this define?",
+            "options": [
+                "A) Policing costs",
+                "B) Enforcement costs",
+                "C) Bargaining costs",
+                "D) Network economy"
+            ],
+            "answer": "C) Bargaining costs",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The costs of sticking to an agreement and taking appropriate action if it is not upheld by either party. What does this define?",
+            "options": [
+                "A) Policing and enforcement costs",
+                "B) Bargaining costs",
+                "C) Search costs",
+                "D) Marginal cost"
+            ],
+            "answer": "A) Policing and enforcement costs",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "The combination of several products or services offered for sale as a single package. What does this define?",
+            "options": [
+                "A) Mixed bundling",
+                "B) Pure bundling",
+                "C) Product or service bundling",
+                "D) Network economy"
+            ],
+            "answer": "C) Product or service bundling",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "Consumers can only buy the bundled package without the option to buy individual items in the package. What does this define?",
+            "options": [
+                "A) Product bundling",
+                "B) Mixed bundling",
+                "C) Pure bundling",
+                "D) Network economy"
+            ],
+            "answer": "C) Pure bundling",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A consumer has the option to buy the package as well as single products within it. What does this define?",
+            "options": [
+                "A) Mixed bundling",
+                "B) Pure bundling",
+                "C) Product bundling",
+                "D) Digital service"
+            ],
+            "answer": "A) Mixed bundling",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market with only one seller and no substitutes for buyers, allowing the seller to set prices and maximize revenue. What does this define?",
+            "options": [
+                "A) Oligopoly",
+                "B) Monopoly",
+                "C) Monopsony",
+                "D) Oligopsony"
+            ],
+            "answer": "B) Monopoly",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market with a few sellers of the same product, where actions by one can change market composition. What does this define?",
+            "options": [
+                "A) Perfect competition",
+                "B) Oligopoly",
+                "C) Monopsony",
+                "D) Monopoly"
+            ],
+            "answer": "B) Oligopoly",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market with many sellers offering differentiated products, such as shoes with different designs and quality. What does this define?",
+            "options": [
+                "A) Monopolistic competition",
+                "B) Oligopoly",
+                "C) Monopoly",
+                "D) Perfect competition"
+            ],
+            "answer": "A) Monopolistic competition",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market with many sellers and buyers with perfect information about prices and preferences. What does this define?",
+            "options": [
+                "A) Monopoly",
+                "B) Oligopsony",
+                "C) Perfect competition",
+                "D) Monopolistic competition"
+            ],
+            "answer": "C) Perfect competition",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market with many sellers and one buyer. What does this define?",
+            "options": [
+                "A) Oligopoly",
+                "B) Monopsony",
+                "C) Monopoly",
+                "D) Oligopsony"
+            ],
+            "answer": "B) Monopsony",
+            "categories": [
+                "Definitions"
+            ]
+        },
+        {
+            "question": "A market similar to monopsony, but with a few buyers. What does this define?",
+            "options": [
+                "A) Monopoly",
+                "B) Oligopoly",
+                "C) Oligopsony",
+                "D) Perfect competition"
+            ],
+            "answer": "C) Oligopsony",
+            "categories": [
+                "Definitions"
+            ]
+        }
+    ]
 ]
