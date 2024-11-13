@@ -25,19 +25,24 @@ const examInfoButton = document.getElementById('exam-info-button');
 const exitExamModeButton = document.getElementById('exit-exam-mode-button');
 const questionCounter = document.getElementById('question-counter');
 const timerLabel = document.getElementById('timer-label');
+const importantCategories = ["Lecture Questions"];
 
 correctLabel.style.color = "green";
 wrongLabel.style.color = "red";
 
 async function loadQuestions() {
     try {
-        const response = await fetch('questions_eaccounting_midterm.json');
+        const response = await fetch('questions_finance_midterm.json');
         const questions = await response.json();
         return questions;
     } catch (error) {
         console.error('Error loading questions:', error);
         return [];
     }
+}
+
+function isImportantQuestion(question) {
+    return question.categories.some(category => importantCategories.includes(category));
 }
 
 function loadNewQuestion(questions) {
@@ -58,6 +63,14 @@ function loadNewQuestion(questions) {
     }
 
     currentQuestion = questions[questionIndex];
+
+    // Check if the question is important and display the marker if it is
+    const importantMarker = document.getElementById('important-marker');
+    if (isImportantQuestion(currentQuestion)) {
+        importantMarker.style.display = 'inline-block';
+    } else {
+        importantMarker.style.display = 'none';
+    }
 
     questionLabel.innerText = currentQuestion.question;
     feedbackLabel.innerText = "";
@@ -205,7 +218,7 @@ function updateTimerLabel() {
     const minutes = Math.floor((examTimeLeft % 3600) / 60);
     const seconds = examTimeLeft % 60;
 
-    timerLabel.innerText = `Time Left: ${hours}:${minutes.toString().padStart(2,'0')}:${seconds.toString().padStart(2,'0')}`;
+    timerLabel.innerText = `Time Left: ${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
 }
 
 function loadExamQuestion() {

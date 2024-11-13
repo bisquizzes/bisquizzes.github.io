@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Electronic Accounting Quiz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="container">
         <header class="header">
@@ -16,6 +18,11 @@
             <button id="exam-mode-button" class="exam-button">Mid-Term Exam Mode</button>
             <button id="exam-info-button" class="info-button">?</button>
             <p id="exam-mode-label" style="display: none; font-weight: bold;">Mid-Term Exam Mode</p>
+
+            <div id="important-marker" class="important-marker" style="display: none;"
+                title="This question is very important, usually because it's discussed in the lecture or present in the book">
+                Important Question
+            </div>
         </div>
 
         <div class="score-frame" id="default-score-frame">
@@ -35,12 +42,10 @@
         </div>
 
         <div class="button-frame">
-            <!-- Default mode buttons -->
             <div id="default-buttons">
                 <button id="next-button" style="font-weight: bold;" class="button" disabled>Next Question</button>
                 <button id="review-button" class="button">Review Wrong Questions</button>
             </div>
-            <!-- Exam mode buttons -->
             <div id="exam-buttons" style="display: none;">
                 <button id="exit-exam-mode-button" class="button">Exit Exam Mode</button>
             </div>
@@ -48,13 +53,14 @@
 
         <footer class="footer">
             <p>
-                Created during a late-night study procrastination by <strong>Zeyad Salama</strong> &mdash; Best of luck on the exam! 💖
+                Created during a late-night study procrastination by <strong>Zeyad Salama</strong> &mdash; Best of luck
+                on the exam! 💖
             </p>
             <p style="margin-top: 10px;">
-                Found a website bug, typo, or incorrect question/answer? Let me know on 
+                Found a website bug, typo, or incorrect question/answer? Let me know on
                 <a href="https://wa.me/201202006936" target="_blank" style="color: #25D366; text-decoration: none;">
                     <strong>WhatsApp</strong>
-                </a> or 
+                </a> or
                 <a href="https://t.me/xslizemoon" target="_blank" style="color: #0088cc; text-decoration: none;">
                     <strong>Telegram</strong>
                 </a>
@@ -65,4 +71,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>

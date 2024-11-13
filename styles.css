@@ -132,7 +132,7 @@ body {
         padding: 10px;
         margin: 10px auto;
     }
-    
+
     .header {
         font-size: 18px;
     }
@@ -244,4 +244,32 @@ body {
 
 .options-container .button:hover {
     background-color: #e0e0e0;
+}
+
+.important-marker {
+    display: inline-block;
+    background-color: #ff9800;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 10px;
+    cursor: pointer;
+    position: relative;
+}
+
+.important-marker:hover::after {
+    content: "This question is very important, usually because it's discussed in the lecture or present in the book";
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+    z-index: 10;
 }
