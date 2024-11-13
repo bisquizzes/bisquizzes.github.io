@@ -26,9 +26,73 @@ const exitExamModeButton = document.getElementById('exit-exam-mode-button');
 const questionCounter = document.getElementById('question-counter');
 const timerLabel = document.getElementById('timer-label');
 const importantCategories = ["Lecture Questions"];
+const filterButton = document.getElementById('filter-button');
+const filterPopup = document.getElementById('filter-popup');
+const filterOptionsContainer = document.getElementById('filter-options');
+let selectedCategories = ["All"];
 
 correctLabel.style.color = "green";
 wrongLabel.style.color = "red";
+
+filterButton.addEventListener('click', openFilterPopup);
+
+function openFilterPopup() {
+    filterOptionsContainer.innerHTML = '';
+    const allOption = document.createElement('div');
+    allOption.innerHTML = `<label><input type="checkbox" id="filter-all" checked> All</label>`;
+    allOption.querySelector('input').addEventListener('change', toggleAllOption);
+    filterOptionsContainer.appendChild(allOption);
+
+    const categories = new Set();
+    questions.forEach(question => question.categories.forEach(category => categories.add(category)));
+
+    categories.forEach(category => {
+        const categoryOption = document.createElement('div');
+        categoryOption.innerHTML = `<label><input type="checkbox" class="filter-category" value="${category}"> ${category}</label>`;
+        categoryOption.querySelector('input').addEventListener('change', toggleCategoryOption);
+        filterOptionsContainer.appendChild(categoryOption);
+    });
+
+    filterPopup.style.display = 'flex';
+}
+
+function closeFilterPopup() {
+    filterPopup.style.display = 'none';
+}
+
+function toggleAllOption() {
+    const isAllSelected = document.getElementById('filter-all').checked;
+    document.querySelectorAll('.filter-category').forEach(checkbox => {
+        checkbox.checked = false;
+        checkbox.disabled = isAllSelected;
+    });
+    selectedCategories = isAllSelected ? ["All"] : [];
+}
+
+function toggleCategoryOption(event) {
+    const allCheckbox = document.getElementById('filter-all');
+    if (allCheckbox.checked) {
+        allCheckbox.checked = false;
+        selectedCategories = [];
+    }
+
+    const category = event.target.value;
+    if (event.target.checked) {
+        selectedCategories.push(category);
+    } else {
+        selectedCategories = selectedCategories.filter(cat => cat !== category);
+    }
+
+    if (selectedCategories.length === 0) {
+        allCheckbox.checked = true;
+        selectedCategories = ["All"];
+    }
+}
+
+function applyFilter() {
+    closeFilterPopup();
+    loadNewQuestion(questions);
+}
 
 async function loadQuestions() {
     try {
@@ -53,18 +117,30 @@ function loadNewQuestion(questions) {
         askedQuestionIndices = [];
     }
 
+    let filteredQuestions = questions;
+    if (!selectedCategories.includes("All")) {
+        filteredQuestions = questions.filter(question =>
+            question.categories.some(category => selectedCategories.includes(category))
+        );
+    }
+
+    if (filteredQuestions.length === 0) {
+        questionLabel.innerText = "No questions available for the selected categories.";
+        optionsContainer.innerHTML = "";
+        return;
+    }
+
     let questionIndex;
     while (true) {
-        questionIndex = Math.floor(Math.random() * questions.length);
+        questionIndex = Math.floor(Math.random() * filteredQuestions.length);
         if (!askedQuestionIndices.includes(questionIndex)) {
             askedQuestionIndices.push(questionIndex);
             break;
         }
     }
 
-    currentQuestion = questions[questionIndex];
+    currentQuestion = filteredQuestions[questionIndex];
 
-    // Check if the question is important and display the marker if it is
     const importantMarker = document.getElementById('important-marker');
     if (isImportantQuestion(currentQuestion)) {
         importantMarker.style.display = 'inline-block';
@@ -87,7 +163,7 @@ function loadNewQuestion(questions) {
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
 
-    currentQuestion.userAnswer = selectedOption; // Capture the user's answer
+    currentQuestion.userAnswer = selectedOption;
 
     if (selectedOption === currentQuestion.answer) {
         correctScore++;

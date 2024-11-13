@@ -273,3 +273,18 @@ body {
     white-space: nowrap;
     z-index: 10;
 }
+
+.filter-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.filter-button:hover {
+    background-color: #218838;
+}

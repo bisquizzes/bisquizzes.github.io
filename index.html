@@ -17,11 +17,21 @@
         <div class="exam-mode-container">
             <button id="exam-mode-button" class="exam-button">Mid-Term Exam Mode</button>
             <button id="exam-info-button" class="info-button">?</button>
+            <button id="filter-button" class="filter-button">Filter Questions</button>
             <p id="exam-mode-label" style="display: none; font-weight: bold;">Mid-Term Exam Mode</p>
 
             <div id="important-marker" class="important-marker" style="display: none;"
                 title="This question is very important, usually because it's discussed in the lecture or present in the book">
                 Important Question
+            </div>
+        </div>
+
+        <div id="filter-popup" class="popup-container" style="display: none;">
+            <div class="popup">
+                <h2>Select Categories</h2>
+                <div id="filter-options"></div>
+                <button onclick="applyFilter()">Apply Filter</button>
+                <button onclick="closeFilterPopup()">Cancel</button>
             </div>
         </div>
 
