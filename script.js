@@ -46,6 +46,7 @@ function openFilterPopup() {
     filterOptionsContainer.appendChild(allOption);
 
     const categories = new Set();
+    const questions = loadQuestions();
     questions.forEach(question => question.categories.forEach(category => categories.add(category)));
 
     categories.forEach(category => {
