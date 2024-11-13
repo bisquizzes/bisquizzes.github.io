@@ -245,19 +245,17 @@ function showWrongQuestions() {
 
     document.body.appendChild(popupContainer);
 
-    // Add event listener for closing the popup
     document.getElementById('close-button').addEventListener('click', closePopup);
 }
 
 function closePopup() {
+    console.log("Test1");
     const popup = document.querySelector('.popup-container');
     if (popup) {
+        console.log("Test2");
         popup.remove();
     }
 }
-
-
-
 
 nextButton.addEventListener('click', async () => {
     if (isExamMode) return;
