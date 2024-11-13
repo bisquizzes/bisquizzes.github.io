@@ -48,7 +48,6 @@ async function loadQuestions() {
     }
 }
 
-// Open Filter Popup
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = '';
     filterPopup.style.display = 'flex';
@@ -56,15 +55,12 @@ async function openFilterPopup() {
     if (!questions.length) await loadQuestions();
 
     const allOption = document.createElement('div');
-    allOption.innerHTML = `<label><input type="checkbox" id="filter-all" checked> All</label>`;
-    allOption.querySelector('input').addEventListener('change', toggleAllOption);
+    allOption.innerHTML = `<label><input type="checkbox" id="filter-all"> All</label>`;
     filterOptionsContainer.appendChild(allOption);
 
-    if (questions.length === 0) {
-        console.error("No questions available to load filter options.");
-        filterPopup.style.display = 'none';
-        return;
-    }
+    const allCheckbox = document.getElementById('filter-all');
+    allCheckbox.checked = selectedCategories.includes("All");
+    allCheckbox.addEventListener('change', toggleAllOption);
 
     const categories = new Set();
     questions.forEach(question => {
@@ -76,7 +72,12 @@ async function openFilterPopup() {
     categories.forEach(category => {
         const categoryOption = document.createElement('div');
         categoryOption.innerHTML = `<label><input type="checkbox" class="filter-category" value="${category}"> ${category}</label>`;
-        categoryOption.querySelector('input').addEventListener('change', toggleCategoryOption);
+        const categoryCheckbox = categoryOption.querySelector('input');
+
+        categoryCheckbox.checked = selectedCategories.includes(category);
+        categoryCheckbox.disabled = selectedCategories.includes("All");
+
+        categoryCheckbox.addEventListener('change', toggleCategoryOption);
         filterOptionsContainer.appendChild(categoryOption);
     });
 
