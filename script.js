@@ -229,28 +229,29 @@ function checkAnswer(selectedOption) {
 
 // Show Wrong Questions for Review
 function showWrongQuestions() {
-    const popupContainer = document.createElement('div');
-    popupContainer.className = 'popup-container';
+    const reviewPopup = document.getElementById('review-popup');
+    const wrongQuestionsList = document.getElementById('wrong-questions-list');
+
+    wrongQuestionsList.innerHTML = '';
 
     if (wrongQuestions.length === 0) {
-        popupContainer.innerHTML = '<div class="popup"><p>No wrong questions to review.</p><button id="close-button">Close</button></div>';
+        wrongQuestionsList.innerHTML = '<p>No wrong questions to review.</p>';
     } else {
         const questionList = wrongQuestions.map((q, index) => {
             const isCorrect = q.userAnswer === q.answer;
             return `<li><strong>Question ${index + 1}:</strong> ${q.question}<br><strong>Your Answer:</strong> ${q.userAnswer} ${isCorrect ? '✅' : '❌'}<br>${!isCorrect ? `<strong>Correct Answer:</strong> ${q.answer}` : ''}</li><br>`;
         }).join('');
 
-        popupContainer.innerHTML = `<div class="popup"><h2>Review Wrong Questions</h2><ul>${questionList}</ul><button id="close-button">Close</button></div>`;
+        wrongQuestionsList.innerHTML = `<ul>${questionList}</ul>`;
     }
 
-    document.body.appendChild(popupContainer);
-
-    document.getElementById('close-button').addEventListener('click', closePopup);
+    reviewPopup.style.display = 'flex';
 }
 
-function closePopup(event) {
-    const popup = document.querySelector('.popup-container');
-    if (popup) popup.remove();
+// Close Review Popup
+function closeReviewPopup() {
+    const reviewPopup = document.getElementById('review-popup');
+    reviewPopup.style.display = 'none';
 }
 
 nextButton.addEventListener('click', async () => {
