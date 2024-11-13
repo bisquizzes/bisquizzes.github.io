@@ -56,10 +56,10 @@ body {
 
 .score-frame {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 20px;
     margin: 10px 0;
-    flex-wrap: nowrap;
 }
 
 .content-frame {
@@ -290,4 +290,10 @@ body {
 
 .filter-button:hover {
     background-color: #218838;
+}
+
+#correct-label,
+#wrong-label {
+    margin: 0;
+    font-weight: bold;
 }
