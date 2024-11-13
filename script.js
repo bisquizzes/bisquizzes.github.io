@@ -247,7 +247,6 @@ function showWrongQuestions() {
 }
 
 function closePopup(event) {
-    event.stopPropagation();
     const popup = document.querySelector('.popup-container');
     if (popup) popup.remove();
 }
