@@ -15,7 +15,7 @@ let examTimer;
 let examTimeLeft = 3600;
 let examEnded = false;
 let selectedCategories = ["All"];
-const importantCategories = ["Lecture Questions"];
+const importantCategories = ["2020 Midterm Exam", "2022 Midterm Exam", "2023 Midterm Exam"];
 
 // DOM Elements
 const questionLabel = document.getElementById('question-label');
@@ -38,10 +38,35 @@ const filterOptionsContainer = document.getElementById('filter-options');
 correctLabel.style.color = "green";
 wrongLabel.style.color = "red";
 
+function renderSnippet() {
+    const snippetContainer = document.getElementById('snippet-container');
+    snippetContainer.innerHTML = '';
+
+    if (currentQuestion.snippet) {
+        const snippetElement = document.createElement('div');
+        snippetElement.style.border = '1px solid #ccc';
+        snippetElement.style.backgroundColor = '#f9f9f9';
+        snippetElement.style.padding = '10px';
+        snippetElement.style.marginTop = '15px';
+        snippetElement.style.borderRadius = '5px';
+
+        if (currentQuestion.renderSnippet) {
+            snippetElement.innerHTML = currentQuestion.snippet;
+        } else {
+            snippetElement.innerText = currentQuestion.snippet;
+            snippetElement.style.fontFamily = 'monospace';
+            snippetElement.style.whiteSpace = 'pre-wrap';
+        }
+
+        snippetContainer.appendChild(snippetElement);
+    }
+}
+
+
 // Function to Load Questions
 async function loadQuestions() {
     try {
-        const response = await fetch('questions_digitaleconomics_midterm.json');
+        const response = await fetch('questions_webdev_midterm.json');
         questions = await response.json();
     } catch (error) {
         console.error('Error loading questions:', error);
@@ -185,15 +210,23 @@ function loadNewQuestion() {
     document.getElementById('important-marker').style.display = (!isExamMode && isImportantQuestion(currentQuestion)) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
     optionsContainer.innerHTML = "";
-    currentQuestion.options.forEach(option => {
+
+    currentQuestion.options.forEach((option, index) => {
         const button = document.createElement('button');
-        button.innerText = option;
+        const optionLetter = String.fromCharCode(65 + index);
+        button.innerText = `${optionLetter}) ${option}`;
         button.className = 'button';
+
+        button.style.textAlign = 'center';
+        button.style.display = 'block';
+        button.style.margin = '5px 0';
+
         button.onclick = () => checkAnswer(option);
         optionsContainer.appendChild(button);
     });
-}
 
+    renderSnippet();
+}
 
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
@@ -204,28 +237,42 @@ function checkAnswer(selectedOption) {
         correctScore++;
         correctLabel.innerText = `Correct: ${correctScore}`;
         feedbackLabel.innerText = "Correct! Well done.";
-        feedbackLabel.style.color = "#28a745";
+        feedbackLabel.style.color = "#28a745"; // Green for correct
         feedbackLabel.style.fontWeight = "bold";
     } else {
         wrongScore++;
         wrongLabel.innerText = `Incorrect: ${wrongScore}`;
         feedbackLabel.innerText = `Wrong! The correct answer was: ${currentQuestion.answer}`;
-        feedbackLabel.style.color = "#dc3545";
+        feedbackLabel.style.color = "#dc3545"; // Red for incorrect
         feedbackLabel.style.fontWeight = "bold";
 
+        // Add the wrong question to the review list
         if (!wrongQuestions.some(q => q.question === currentQuestion.question)) {
             wrongQuestions.push({ ...currentQuestion, userAnswer: selectedOption });
         }
     }
 
+    // Disable all buttons and apply appropriate styles
     Array.from(optionsContainer.children).forEach(button => {
-        button.onclick = null;
-        button.style.backgroundColor = button.innerText === currentQuestion.answer ? "#28a745" : button.innerText === selectedOption ? "#dc3545" : "";
-        button.style.color = "white";
+        const optionText = button.innerText.split(") ")[1]; // Extract the actual text (after "A)", "B)", etc.)
+
+        button.onclick = null; // Disable the button
+        if (optionText === currentQuestion.answer) {
+            button.style.backgroundColor = "#28a745"; // Green for correct answer
+            button.style.color = "white";
+        } else if (optionText === selectedOption) {
+            button.style.backgroundColor = "#dc3545"; // Red for incorrect selected option
+            button.style.color = "white";
+        } else {
+            button.style.backgroundColor = "#e0e0e0"; // Grey out other options
+            button.style.color = "#6c757d";
+        }
     });
 
-    nextButton.disabled = false;
+    nextButton.disabled = false; // Enable the next button
 }
+
+
 
 // Show Wrong Questions for Review
 function showWrongQuestions() {

@@ -265,7 +265,7 @@ body {
 }
 
 .important-marker::after {
-    content: "This question is very important, usually because it's discussed in the lecture or present in the book";
+    content: "This question is very important, usually because it's discussed in the lecture, present in the book, or being a repetitive exam question.";
     position: absolute;
     top: -40px;
     left: 50%;

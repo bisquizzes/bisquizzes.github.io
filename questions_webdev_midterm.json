@@ -1,0 +1,1147 @@
+[
+    {
+        "question": "What is is the standard markup language used to create web pages?",
+        "options": [
+            "CSS",
+            "Java Script",
+            "HTML",
+            "Python"
+        ],
+        "answer": "HTML",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "What can read HTML files and render them into visible or audible web pages?",
+        "options": [
+            "Web browser",
+            "Compiler",
+            "Server",
+            "All of above"
+        ],
+        "answer": "Web browser",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "Who is mainly in charge of the user interface and the style of the website?",
+        "options": [
+            "Back-end web developer",
+            "Front-end web developer"
+        ],
+        "answer": "Front-end web developer",
+        "categories": [
+            "General MCQ",
+            "2020 Midterm Exam",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "Who is mainly in charge of how the website works?",
+        "options": [
+            "Back-end web developer",
+            "Front-end web developer"
+        ],
+        "answer": "Back-end web developer",
+        "categories": [
+            "General MCQ",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "The HTML code is made up of characters that live inside ........ ?",
+        "options": [
+            "Square brackets []",
+            "Parentheses ()",
+            "Curly brackets {}",
+            "Angle brackets <>"
+        ],
+        "answer": "Angle brackets <>",
+        "categories": [
+            "General MCQ",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "There are opening closing tags and also self-closing tags in HTML",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "[/p] is an example of closing tag in HTML",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<h1> is an example of closing tag in HTML",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<p> is an example of opening tag in HTML",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "We can add attributes to tags or element",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "Attributes are added to HTML element in closing tag",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "Attributes are added to html element in opening tag with two parts as key = value",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "What html element or tag is used to declare header?",
+        "options": [
+            "<br>",
+            "<p> </p>",
+            "<a> </a>",
+            "<h1> </h1>"
+        ],
+        "answer": "<h1> </h1>",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "<b> is an example of inline elements.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "Inside the <dl> element you will usually see pairs of <dt> and <dd> elements.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "The <th> element is used to represent the heading for a column.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "Examples of block elements are <h1>, <p>, <ul>, and <li>.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "HTML has three levels of headings.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "The <list> element is used to create a drop down list box. It contains two or more <option> elements",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "The <div> element allows you to group a set of elements together in one block-level box.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "Which of the following not html element?",
+        "options": [
+            "<h1> </h1>",
+            "<h2> </h2>",
+            "<h3> </h3>",
+            "<h8> </h8>"
+        ],
+        "answer": "<h8> </h8>",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "All HTML documents must start with a <!DOCTYPE> declaration",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "<img src='myimage.jpg'/> is used to embed an image in an HTML page",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2022 Midterm Exam",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "alt in html image tag determines the alternative displayed text in the case of the current image does not load correctly.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "alt in html image tag determines the alternative displayed image in the case of the current image does not load correctly.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<br> and <img>. are opening closing tags?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "<p> can be used in HTML to display text in a bold fashion.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<b> and <strong> can be used in HTML to display text in a bold fashion.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<i> can be used in HTML to display text in an italic fashion",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "The <br> element is most often displayed as a horizontal rule that is used to separate content.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "We can use which tag to define a hyperlink?",
+        "options": [
+            "<b> </b>",
+            "<h2> </h2>",
+            "<a> </a>",
+            "<small> </small>"
+        ],
+        "answer": "<a> </a>",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "We can use link attribute inside <a> tag to define the url of the page",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "<ul> </ul> tag is used to define unordered list",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "To define item inside list (ordered or unordered) we can use",
+        "options": [
+            "<b> </b>",
+            "<li> </li>",
+            "<dt> </dt>",
+            "<dd> </dd>"
+        ],
+        "answer": "<li> </li>",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "<ol> </ol> tag is used to define ordered or numbered list",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "<ol> html tag is used to create a numbered list.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2023 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<ul> tag is used to create a numbered list",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<dl> </dl> tag is used to define description list",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "To define list as shown in the following figure we can use",
+        "options": [
+            "<ul> </ul>",
+            "<dl> </dl>",
+            "<ol> </ol>",
+            "<dd> </dd>"
+        ],
+        "answer": "<dl> </dl>",
+        "categories": [
+            "General MCQ"
+        ],
+        "snippet": "<dl><dt>Coffee</dt><dd>Black hot drink</dd><dt>Milk</dt><dd>White cold drink</dd></dl>",
+        "renderSnippet": true
+    },
+    {
+        "question": "In the following figure, to define items (coffee, milk) we can use ------ tag inside <dl> </dl>",
+        "options": [
+            "<dt> </dt>",
+            "<dl> </dl>",
+            "<dd> </dd>",
+            "None of above"
+        ],
+        "answer": "<dt> </dt>",
+        "categories": [
+            "General MCQ"
+        ],
+        "snippet": "<dl><dt>Coffee</dt><dd>Black hot drink</dd><dt>Milk</dt><dd>White cold drink</dd></dl>",
+        "renderSnippet": true
+    },
+    {
+        "question": "In the following figure, to define description such as (black hot drink, white cold drink) we can use ----- tag inside <dl> </dl>",
+        "options": [
+            "<dt> </dt>",
+            "<dl> </dl>",
+            "<dd> </dd>",
+            "Non of above"
+        ],
+        "answer": "<dd> </dd>",
+        "categories": [
+            "General MCQ"
+        ],
+        "snippet": "<dl><dt>Coffee</dt><dd>Black hot drink</dd><dt>Milk</dt><dd>White cold drink</dd></dl>",
+        "renderSnippet": true
+    },
+    {
+        "question": "To define the following table in html the word \"mohammed\" can be written inside --------- tag",
+        "options": [
+            "<td> mohammed </td>",
+            "<table> mohammed </table>",
+            "<th> mohammed </th>",
+            "<tr> mohammed </tr>"
+        ],
+        "answer": "<td> mohammed </td>",
+        "categories": [
+            "General MCQ",
+            "2020 Midterm Exam"
+        ],
+        "snippet": "<table><tr><th>Name</th><th>city</th><th>age</th></tr><tr><td>mohammed</td><td>tanta</td><td>22</td></tr><tr><td>ahmed</td><td>alex</td><td>27</td></tr><tr><td>mohammed</td><td>cairo</td><td>28</td></tr></table>",
+        "renderSnippet": true
+    },
+    {
+        "question": "According to the following table, to define new row contains (Yasser,tanta 30) we can use",
+        "options": [
+            "<table><td> Yasser </td><td> tanta </td><td> 30</td></table>",
+            "<row> (Yasser,tanta 30 )</row>",
+            "<tr><td> Yasser </td><td> tanta </td><td> 30</td></tr>",
+            "None of above"
+        ],
+        "answer": "<tr><td> Yasser </td><td> tanta </td><td> 30</td></tr>",
+        "categories": [
+            "General MCQ"
+        ],
+        "snippet": "<table><tr><th>Name</th><th>city</th><th>age</th></tr><tr><td>mohammed</td><td>tanta</td><td>22</td></tr><tr><td>ahmed</td><td>alex</td><td>27</td></tr><tr><td>mohammed</td><td>cairo</td><td>28</td></tr></table>",
+        "renderSnippet": true
+    },
+    {
+        "question": "According to the following table, to define the first row which considered the heading of the table (name,city,age) we can use",
+        "options": [
+            "<table><td> name </td><td> city </td><td> age </td></table>",
+            "<row> (nam,city age )</row>",
+            "<tr><th> name </th><th> city </th><th> age </th></tr>",
+            "None of the above"
+        ],
+        "answer": "<tr><th> name </th><th> city </th><th> age </th></tr>",
+        "categories": [
+            "General MCQ",
+            "Test"
+        ],
+        "snippet": "<table><tr><th>Name</th><th>city</th><th>age</th></tr><tr><td>mohammed</td><td>tanta</td><td>22</td></tr><tr><td>ahmed</td><td>alex</td><td>27</td></tr><tr><td>mohammed</td><td>cairo</td><td>28</td></tr></table>",
+        "renderSnippet": true
+    },
+    {
+        "question": "Which selector is used to create the outside border of the following table in CSS style format?",
+        "options": [
+            "Table { }",
+            "Th { }",
+            "Td { }",
+            "Table,th,td { }"
+        ],
+        "answer": "Table { }",
+        "categories": [
+            "General MCQ",
+            "2020 Midterm Exam"
+        ],
+        "snippet": "<table><tr><th>Name</th><th>city</th><th>age</th></tr><tr><td>mohammed</td><td>tanta</td><td>22</td></tr><tr><td>ahmed</td><td>alex</td><td>27</td></tr><tr><td>mohammed</td><td>cairo</td><td>28</td></tr></table>",
+        "renderSnippet": true
+    },
+    {
+        "question": "To define comment in html we can use",
+        "options": [
+            "<!-- -->",
+            "//",
+            "#",
+            "/* */"
+        ],
+        "answer": "<!-- -->",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "------ is used to uniquely identify the HTML element from other elements on the page.",
+        "options": [
+            "Selector",
+            "id",
+            "class",
+            "None of the above"
+        ],
+        "answer": "id",
+        "categories": [
+            "General MCQ",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To define id and class you must write them CSS code",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "To define id with name my_id we must write",
+        "options": [
+            "# my_id { }",
+            ". my_id { }",
+            "Id my_id { }",
+            "None of the above"
+        ],
+        "answer": "# my_id { }",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To use id we must pass its name to element as a value to ------ attribute",
+        "options": [
+            "id",
+            "dot",
+            "#",
+            "None of the above"
+        ],
+        "answer": "id",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To use class we must pass its name to element as a value to ------ attribute",
+        "options": [
+            "class",
+            "dot",
+            "#",
+            "None of the above"
+        ],
+        "answer": "class",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "------ elements always appear to start on a new line on a browser window",
+        "options": [
+            "inline",
+            "selectors",
+            "block level",
+            "none of above"
+        ],
+        "answer": "block level",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "------ elements appear to continue on the same line as their neighboring elements.",
+        "options": [
+            "inline",
+            "selectors",
+            "block level",
+            "none of above"
+        ],
+        "answer": "inline",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To define label named first_name which of the following is correct",
+        "options": [
+            "<p> first_name </p>",
+            "<label> first_name </label>",
+            "A and B",
+            "None of above"
+        ],
+        "answer": "A and B",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To define radio button, we can use -------- tag",
+        "options": [
+            "Radio button",
+            "button",
+            "input",
+            "None of above"
+        ],
+        "answer": "input",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To define radio button we must set the value of ----- attribute inside input tag by --------",
+        "options": [
+            "Radio , radio",
+            "Placeholder , radio",
+            "type , radio",
+            "name , radio"
+        ],
+        "answer": "type , radio",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "<input type=\"text\" name=\"first-name\" placeholder=\"Enter Your First Name\" required> this html code will generate a blank text field.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<input type=\"radio\" name=\"gender-choice\" value=\"choice-1\"> will generate a checkbox in your web page.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "<em> is an example of inline elements",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "In the following code user can select both male and female at the same time",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "snippet": "<label for=\"m\">male:</label>\n<input id=\"m\" type=\"radio\">\n<label for=\"f\">female:</label>\n<input id=\"f\" type=\"radio\">",
+        "renderSnippet": false,
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "In the following code user can select both male and female at the same time",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "snippet": "<label for=\"m\">male:</label>\n<input id=\"m\" type=\"radio\" name=\"gender\">\n<label for=\"f\">female:</label>\n<input id=\"f\" type=\"radio\" name=\"gender\">",
+        "renderSnippet": false,
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "In the following code, server is able to differentiate if user select \"Male\" or \"Female\"",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "snippet": "<label for=\"m\">male:</label>\n<input id=\"m\" type=\"radio\" name=\"gender\">\n<label for=\"f\">female:</label>\n<input id=\"f\" type=\"radio\" name=\"gender\">",
+        "renderSnippet": false,
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "In the following code server is able to differentiate if user select \"Male\" or \"Female\"",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "snippet": "<label for=\"m\">male:</label>\n<input id=\"m\" type=\"radio\" name=\"gender\" value=\"male\">\n<label for=\"f\">female:</label>\n<input id=\"f\" type=\"radio\" name=\"gender\" value=\"female\">",
+        "renderSnippet": true,
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "To define drop down menu we must use input tag",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "To define button, we can use input or button tag?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "In html forms action attribute Its value is the URL for the page on the server that will receive the information in the form when it is submitted.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "In html forms if we deal with sensitive data or send data to database we should put the value of method attribute with ------",
+        "options": [
+            "get",
+            "post"
+        ],
+        "answer": "post",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "In html forms if we need to search about something in search engine i.e google we should put the value of method attribute with ------",
+        "options": [
+            "get",
+            "post"
+        ],
+        "answer": "get",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To define password fill the missing",
+        "options": [
+            "radio",
+            "password",
+            "text",
+            "post"
+        ],
+        "answer": "password",
+        "snippet": "<label for=\"password\"> Password: </label>\n<input type=\"--------\" name=\"password\">",
+        "renderSnippet": false,
+        "categories": [
+            "General MCQ",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "We can write css code to our html page with one of three ways",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "<h1 style=\"color:blue;text-align:center;\"> This is a heading </h1> this form is called inline CSS styling.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To define internal css style you must write css code inside style attribute inside head tag",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "Internal styles are defined within the <style> element, inside the <body> section of an HTML page.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2020 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To use external css style sheet in html we must define <link> tag inside the <head>",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "The declaration in css consists from two parts property and value separated by -------",
+        "options": [
+            "comma",
+            "=",
+            ":",
+            "None of above"
+        ],
+        "answer": ":",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The following style causes all elements in the web page will be red",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "snippet": "*{\ncolor: red;\n}",
+        "renderSnippet": false,
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "If you wrote a style like div#regform>label {}, then the div section has a class name called regform and label element is a child of this class.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "If you wrote a style like div.regform>label {}, then the div section has a class name called regform and label element is a child of this class.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "* {font-size: 12px} means that all text on the designed web page has a size of 12px.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To style a first letter on a paragraph, we can use pseudo element p::first-line",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "CSS allows you to create rules that specify how the content of an element should appear on the web page",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "font-family property allows you to specify the typeface that should be used for any text inside the element to which a CSS rule applies.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "You can specify a list of fonts separated by dot.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "True or False"
+        ]
+    },
+    {
+        "question": "The value of font-size property can by",
+        "options": [
+            "pixels",
+            "percentage",
+            "em",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The ------- property is used to add rounded borders to an element:",
+        "options": [
+            "border-radius",
+            "border-image",
+            "border-style",
+            "border"
+        ],
+        "answer": "border-radius",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The missing part here border-image: -------(\"myimage.png\")",
+        "options": [
+            "link",
+            "image",
+            "url",
+            "none of above"
+        ],
+        "answer": "url",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To style only first line of paragraph with red color you must use",
+        "options": [
+            "pseudo-element",
+            "pseudo-class"
+        ],
+        "answer": "pseudo-element",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "The ------- property is used with the ::before and ::after pseudo-elements, to insert generated content.",
+        "options": [
+            "border-radius",
+            "first-letter",
+            "first-line",
+            "content"
+        ],
+        "answer": "content",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "To style the state of the hyperlink such as {visited, unvisited, hover, active} we must use",
+        "options": [
+            "pseudo-element",
+            "pseudo-class"
+        ],
+        "answer": "pseudo-class",
+        "categories": [
+            "General MCQ"
+        ]
+    },
+    {
+        "question": "When you specify CSS styles inside the @keyframes rule, the animation will gradually change from the current style to the new style at certain times.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True or False",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To use an external style sheet, add a ---- tag to it in the <head> section of the HTML page.",
+        "options": [
+            "link",
+            "style",
+            "script",
+            "url"
+        ],
+        "answer": "link",
+        "categories": [
+            "General MCQ",
+            "2022 Midterm Exam"
+        ]
+    },
+    {
+        "question": "To bind between html element and animation we must write ------- property with value equal to @keyframes name inside the element",
+        "options": [
+            "Animation name",
+            "Animation duration"
+        ],
+        "answer": "Animation name",
+        "categories": [
+            "General MCQ"
+        ]
+    }
+]
