@@ -952,7 +952,7 @@
         ]
     },
     {
-        "question": "If you wrote a style like div#regform>lable {}, then the div section has a id name called regform and label element is a child of this class.",
+        "question": "If you wrote a style like div#regform>lable {}, then the div section has a class name called regform and label element is a child of this class.",
         "options": [
             "True",
             "False"
