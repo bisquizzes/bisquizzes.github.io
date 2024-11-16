@@ -792,7 +792,7 @@
         ],
         "answer": "True",
         "snippet": "<label for=\"m\">male:</label>\n<input id=\"m\" type=\"radio\" name=\"gender\" value=\"male\">\n<label for=\"f\">female:</label>\n<input id=\"f\" type=\"radio\" name=\"gender\" value=\"female\">",
-        "renderSnippet": true,
+        "renderSnippet": false,
         "categories": [
             "True or False"
         ]
