@@ -185,7 +185,8 @@ function loadNewQuestion() {
     // Filter based on selected categories
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
-            question.categories && question.categories.some(category => selectedCategories.includes(category))
+            question.categories &&
+            selectedCategories.every(category => question.categories.includes(category)) // Ensure all selected categories are matched
         );
     }
 
@@ -221,6 +222,7 @@ function loadNewQuestion() {
 
     renderSnippet();
 }
+
 
 function checkAnswer(selectedOption) {
     if (isExamMode) return;
