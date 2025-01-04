@@ -74,7 +74,7 @@ async function loadQuestions() {
 }
 
 async function openFilterPopup() {
-    filterOptionsContainer.innerHTML = '';
+    filterOptionsContainer.innerHTML = ''; // Clear existing options
     filterPopup.style.display = 'flex';
 
     if (!questions.length) await loadQuestions();
@@ -105,8 +105,6 @@ async function openFilterPopup() {
         categoryCheckbox.addEventListener('change', toggleCategoryOption);
         filterOptionsContainer.appendChild(categoryOption);
     });
-
-    filterPopup.style.display = 'flex';
 }
 
 // Close Filter Popup
@@ -154,7 +152,7 @@ function applyFilter() {
     }
 
     if (selectedCategories.includes("All")) {
-        selectedCategories = ["All"];
+        selectedCategories = ["All"]; // Reset to show all questions
     }
 
     askedQuestionIndices = [];
@@ -183,6 +181,8 @@ function loadNewQuestion() {
     feedbackLabel.innerText = "";
 
     let filteredQuestions = questions;
+
+    // Filter based on selected categories
     if (!selectedCategories.includes("All")) {
         filteredQuestions = questions.filter(question =>
             question.categories && question.categories.some(category => selectedCategories.includes(category))
@@ -195,6 +195,7 @@ function loadNewQuestion() {
         return;
     }
 
+    // Prevent duplicate questions
     if (askedQuestionIndices.length >= filteredQuestions.length) {
         askedQuestionIndices = [];
     }
@@ -207,20 +208,13 @@ function loadNewQuestion() {
     askedQuestionIndices.push(questionIndex);
     currentQuestion = filteredQuestions[questionIndex];
 
-    document.getElementById('important-marker').style.display = (!isExamMode && isImportantQuestion(currentQuestion)) ? 'inline-block' : 'none';
     questionLabel.innerText = currentQuestion.question;
     optionsContainer.innerHTML = "";
 
     currentQuestion.options.forEach((option, index) => {
         const button = document.createElement('button');
-        const optionLetter = String.fromCharCode(65 + index);
-        button.innerText = `${optionLetter}) ${option}`;
+        button.innerText = `${String.fromCharCode(65 + index)}) ${option}`;
         button.className = 'button';
-
-        button.style.textAlign = 'center';
-        button.style.display = 'block';
-        button.style.margin = '5px 0';
-
         button.onclick = () => checkAnswer(option);
         optionsContainer.appendChild(button);
     });
