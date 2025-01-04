@@ -1,964 +1,964 @@
 [
-  {
-    "question": "Rules for creating an Odoo database:",
-    "options": [
-      "Database name cannot contain spaces",
-      "Must start with a number or letter",
-      "Need to avoid commas, periods, and quotes",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To install sales module, you open:",
-    "options": [
-      "Interface",
-      "E-mail",
-      "CRM",
-      "None of the above"
-    ],
-    "answer": "None of the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To create new customer, you must install:",
-    "options": [
-      "CRM module",
-      "Purchasing module",
-      "Invoicing module",
-      "None of the above"
-    ],
-    "answer": "None of the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To create new customer, you must have the following data:",
-    "options": [
-      "Individual or company",
-      "Name and address",
-      "Website and job position",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "When choosing the function of accounting from customer page, the relevant information you need are:",
-    "options": [
-      "Customer payment terms",
-      "Degree of trust you have in this debtor",
-      "Fiscal information",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "When choosing the function of sales and purchases from customer page, the relevant information you need are:",
-    "options": [
-      "Customer/vendor",
-      "Salesperson",
-      "MISC information",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To create a new product, you need the following information:",
-    "options": [
-      "Product type and internal reference",
-      "Barcode and internal category",
-      "Sales price and cost",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "When choosing the function of invoicing from product page, the relevant information you need are:",
-    "options": [
-      "Customer taxes",
-      "Vendor taxes",
-      "Invoicing policy",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "The product can be sold or purchased related to:",
-    "options": [
-      "New customer",
-      "New sales order",
-      "New pipeline",
-      "None of the above"
-    ],
-    "answer": "None of the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To set your company information, you need the following information:",
-    "options": [
-      "Company tagline",
-      "Address and website",
-      "Phone and email",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
-  {
-    "question": "To create new sales order, you need the following information:",
-    "options": [
-      "Customer name",
-      "Order date and expiration date",
-      "Payment terms",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
-            "M.C.Q.",
-            "Midterm Questions"
-        ]
-  },
     {
-    "question": "When choosing the function of other information from sales order page, the relevant information you need are:",
-    "options": [
-      "Sales person and tags",
-      "Sales team and customer reference",
-      "Fiscal position",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+        "question": "Rules for creating an Odoo database:",
+        "options": [
+            "Database name cannot contain spaces",
+            "Must start with a number or letter",
+            "Need to avoid commas, periods, and quotes",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To create new quotation, you need the following information:",
-    "options": [
-      "Customer name",
-      "Order date and expiration date",
-      "Payment terms",
-      "None of the above"
-    ],
-    "answer": "None of the above",
-    "categories": [
+    },
+    {
+        "question": "To install sales module, you open:",
+        "options": [
+            "Interface",
+            "E-mail",
+            "CRM",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The dashboard of sales module is:",
-    "options": [
-      "Customer",
-      "Sales order",
-      "Products",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "To create new customer, you must install:",
+        "options": [
+            "CRM module",
+            "Purchasing module",
+            "Invoicing module",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The dashboard of CRM module is:",
-    "options": [
-      "Customer and sales order",
-      "Products and quotations",
-      "Pipeline",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "To create new customer, you must have the following data:",
+        "options": [
+            "Individual or company",
+            "Name and address",
+            "Website and job position",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Assigning the sales representative or account manager using CRM modules, you need the following information:",
-    "options": [
-      "Name and email address",
-      "Sales and project",
-      "Accounting and finance",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "When choosing the function of accounting from customer page, the relevant information you need are:",
+        "options": [
+            "Customer payment terms",
+            "Degree of trust you have in this debtor",
+            "Fiscal information",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "When choosing the function of preferences from sales representative page, the relevant information you need are:",
-    "options": [
-      "Language",
-      "Time zone",
-      "Alias and signature",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "When choosing the function of sales and purchases from customer page, the relevant information you need are:",
+        "options": [
+            "Customer/vendor",
+            "Salesperson",
+            "MISC information",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The main function of pipeline is:",
-    "options": [
-      "New pipeline",
-      "Qualified",
-      "Proposition",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "To create a new product, you need the following information:",
+        "options": [
+            "Product type and internal reference",
+            "Barcode and internal category",
+            "Sales price and cost",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To create new pipeline, you need the following information:",
-    "options": [
-      "Opportunity title",
-      "Customer",
-      "Expected revenue",
-      "All the above"
-    ],
-    "answer": "All the above",
-    "categories": [
+    },
+    {
+        "question": "When choosing the function of invoicing from product page, the relevant information you need are:",
+        "options": [
+            "Customer taxes",
+            "Vendor taxes",
+            "Invoicing policy",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The percent of probability is related to:",
-    "options": [
-      "Customer",
-      "Product",
-      "Sales order",
-      "None of the above"
-    ],
-    "answer": "None of the above",
-    "categories": [
+    },
+    {
+        "question": "The product can be sold or purchased related to:",
+        "options": [
+            "New customer",
+            "New sales order",
+            "New pipeline",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "categories": [
             "M.C.Q.",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "When you set up a vendor the first step you determine:",
-    "options": [
-      "Individuals",
-      "Warehouse",
-      "Product",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "categories": [
+    },
+    {
+        "question": "To set your company information, you need the following information:",
+        "options": [
+            "Company tagline",
+            "Address and website",
+            "Phone and email",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "To create new sales order, you need the following information:",
+        "options": [
+            "Customer name",
+            "Order date and expiration date",
+            "Payment terms",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "When choosing the function of other information from sales order page, the relevant information you need are:",
+        "options": [
+            "Sales person and tags",
+            "Sales team and customer reference",
+            "Fiscal position",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "To create new quotation, you need the following information:",
+        "options": [
+            "Customer name",
+            "Order date and expiration date",
+            "Payment terms",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The dashboard of sales module is:",
+        "options": [
+            "Customer",
+            "Sales order",
+            "Products",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The dashboard of CRM module is:",
+        "options": [
+            "Customer and sales order",
+            "Products and quotations",
+            "Pipeline",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Assigning the sales representative or account manager using CRM modules, you need the following information:",
+        "options": [
+            "Name and email address",
+            "Sales and project",
+            "Accounting and finance",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "When choosing the function of preferences from sales representative page, the relevant information you need are:",
+        "options": [
+            "Language",
+            "Time zone",
+            "Alias and signature",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The main function of pipeline is:",
+        "options": [
+            "New pipeline",
+            "Qualified",
+            "Proposition",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "To create new pipeline, you need the following information:",
+        "options": [
+            "Opportunity title",
+            "Customer",
+            "Expected revenue",
+            "All the above"
+        ],
+        "answer": "All the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The percent of probability is related to:",
+        "options": [
+            "Customer",
+            "Product",
+            "Sales order",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "When you set up a vendor the first step you determine:",
+        "options": [
+            "Individuals",
+            "Warehouse",
+            "Product",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
             "M.C.Q.",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "When the product has been received you are ready to create:",
-    "options": [
-      "Manufacture Order",
-      "Warehouse",
-      "Product",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "categories": [
+    },
+    {
+        "question": "When the product has been received you are ready to create:",
+        "options": [
+            "Manufacture Order",
+            "Warehouse",
+            "Product",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
             "M.C.Q.",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "When you install the purchasing application you will get two new:",
-    "options": [
-      "Purchase and inventory",
-      "New vendor",
-      "New Warehouse",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "categories": [
+    },
+    {
+        "question": "When you install the purchasing application you will get two new:",
+        "options": [
+            "Purchase and inventory",
+            "New vendor",
+            "New Warehouse",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
             "M.C.Q.",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "When opening accounting option from vendor page the information variable:",
-    "options": [
-      "Vendor payment term",
-      "Address",
-      "Job position",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "categories": [
+    },
+    {
+        "question": "When opening accounting option from vendor page the information variable:",
+        "options": [
+            "Vendor payment term",
+            "Address",
+            "Job position",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
             "M.C.Q.",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "To create incoming products, you need:",
-    "options": [
-      "Source document transfer reference and procurement",
-      "Bill date and due date",
-      "Vendor name and reference name",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "categories": [
+    },
+    {
+        "question": "To create incoming products, you need:",
+        "options": [
+            "Source document transfer reference and procurement",
+            "Bill date and due date",
+            "Vendor name and reference name",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "categories": [
             "M.C.Q.",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "Sales allow you to begin collecting information about the scope and potential outcomes for a sale.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your purchase process.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-          ]
-  },
-  {
-    "question": "The customer setting helps the user to see all Leads as well as access the configuration options of the sales application.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "The manager with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "To create a new salesperson by going to the Settings menu, selecting customer, and then clicking the Create button.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "The manager representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "Sales allow you to begin collecting information about the scope and potential outcomes for a sale.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To manage the customer experience, the customer must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage user information and interactions.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
-            "True & False",
-            "Midterm Questions",
-        ]
-  },
-  {
-    "question": "Send by Email, print, confirm sale, and cancel are examples of actions for CRM.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your purchase process.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "On the purchase order you have the option to override the customer's payment terms for the specific sales order.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "The customer setting helps the user to see all Leads as well as access the configuration options of the sales application.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The steps to set the customer information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "The manager with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To set the company information you must enter both a user and a product.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "To create a new salesperson by going to the Settings menu, selecting customer, and then clicking the Create button.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a customer form.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "The manager representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Customer Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "To manage the customer experience, the customer must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To create or edit a customer, you must first create some products.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage user information and interactions.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "You must click on the edit button to add your new customer record to the database.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "Send by Email, print, confirm sale, and cancel are examples of actions for CRM.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "User Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "On the purchase order you have the option to override the customer's payment terms for the specific sales order.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "User Payment Term and Fiscal Position are the available options in the customer accounting page.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "The steps to set the customer information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The available options in the customer Sales & Purchases page are: Is a customer? and is a Salesperson?",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "To set the company information you must enter both a user and a product.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The main function of the search box is allowing you to quickly search for records in the CRM application.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a customer form.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Checking the 'Loading demonstration data' checkbox may include right customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "Customer Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The rules you need to create a database are name can contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "To create or edit a customer, you must first create some products.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "CRM is an open-source program to manage the corporation resources.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "You must click on the edit button to add your new customer record to the database.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "If you have installed CRM on your own server, you will need to first create a database.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "User Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Your database name can contain spaces and must start with a number or letter.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "User Payment Term and Fiscal Position are the available options in the customer accounting page.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "An opportunity allows you to begin collecting information about the scope and potential outcomes for a sale.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The available options in the customer Sales & Purchases page are: Is a customer? and is a Salesperson?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your sales process.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The main function of the search box is allowing you to quickly search for records in the CRM application.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The Manager setting helps the user to see all Leads as well as access the configuration options of the sales application.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Checking the 'Loading demonstration data' checkbox may include right customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The user with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The rules you need to create a database are name can contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To create a new salesperson by going to the Settings menu, selecting Users, and then clicking the Create button.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "CRM is an open-source program to manage the corporation resources.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The sales representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "If you have installed CRM on your own server, you will need to first create a database.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To manage the customer experience, manager must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Your database name can contain spaces and must start with a number or letter.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage customer information and interactions.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "An opportunity allows you to begin collecting information about the scope and potential outcomes for a sale.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Send by Email, print, confirm sale, and cancel are examples of actions for an Odoo quotation.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The main objective of Pipeline is to organize your opportunities by what stage they are within your sales process.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "On the sales order you have the option to override the customer's payment terms for the specific sales order.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The Manager setting helps the user to see all Leads as well as access the configuration options of the sales application.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The steps to set the company information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The user with the Own Documents Only is only allowed to see the documents they have entered themselves or which have been assigned to them.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To set the company information you must enter both a customer and a product.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "To create a new salesperson by going to the Settings menu, selecting Users, and then clicking the Create button.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a Product form.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The sales representative is the person who will be responsible for the customer account and a satisfactory customer experience.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Product Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "To manage the customer experience, manager must put himself in the role of your customer and develop a consistent strategy to improve their overall customer experience.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "To create or edit a customer, you must first create some products.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
-    "categories": [
+    },
+    {
+        "question": "A Customer Relationship Management (CRM) system provides the tools and reporting necessary to manage customer information and interactions.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "You must click on the save button to add your new customer record to the database.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Send by Email, print, confirm sale, and cancel are examples of actions for an Odoo quotation.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Customer Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "On the sales order you have the option to override the customer's payment terms for the specific sales order.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Customer Payment Term and Fiscal Position are the available options in the customer accounting page.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "The steps to set the company information are choosing Settings from the top menu and then choosing General Settings from the sub-menu.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The available options in the customer Sales & Purchases page are: Is a Customer? and is a vendor?",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "To set the company information you must enter both a customer and a product.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The main function of search box is allowing you to quickly search for records in the Odoo application.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Internal Reference, Sale price, and Cost price are examples of information necessary to create a Product form.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Checking the 'Loading demonstration data' checkbox may include fake customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Product Name, can be Sold, and Can be Purchased are examples of information necessary to create a product form.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "The rules you need to create a database are name cannot contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "To create or edit a customer, you must first create some products.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "Odoo is an open-source program to manage the corporation resources.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "You must click on the save button to add your new customer record to the database.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Midterm Questions"
         ]
-  },
-  {
-    "question": "When an invoice is received, it is essential to compare it to the purchase order for accuracy.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Customer Payment Term contain: Immediate Payment, 15 Days, and 30 Net Days.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Customer Payment Term and Fiscal Position are the available options in the customer accounting page.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The available options in the customer Sales & Purchases page are: Is a Customer? and is a vendor?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The main function of search box is allowing you to quickly search for records in the Odoo application.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Checking the 'Loading demonstration data' checkbox may include fake customers, suppliers, sales orders, invoices, inbox messages, stock moves, and products.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The rules you need to create a database are name cannot contain spaces and must start with a number or letter, avoid commas, periods, and quotes, and underscores and hyphens are allowed.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Odoo is an open-source program to manage the corporation resources.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "True & False",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "When an invoice is received, it is essential to compare it to the purchase order for accuracy.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "Any differences between the purchase order and invoice must be resolved before the invoice is paid.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "Any differences between the purchase order and invoice must be resolved before the invoice is paid.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Final Exam Questions"
         ]
-  },
-  {
-    "question": "when setting up the first vendor, you will select purchase then create new vendor.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "True",
-    "categories": [
+    },
+    {
+        "question": "when setting up the first vendor, you will select purchase then create new vendor.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
             "True & False",
             "Final Exam Questions"
         ]
-  },
+    }
 ]
