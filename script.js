@@ -80,14 +80,6 @@ async function openFilterPopup() {
 
     if (!questions.length) await loadQuestions();
 
-    const allOption = document.createElement('div');
-    allOption.innerHTML = `<label><input type="checkbox" id="filter-all"> All</label>`;
-    filterOptionsContainer.appendChild(allOption);
-
-    const allCheckbox = document.getElementById('filter-all');
-    allCheckbox.checked = selectedCategories.includes("All");
-    allCheckbox.addEventListener('change', toggleAllOption);
-
     const categories = new Set();
     questions.forEach(question => {
         if (question.categories && Array.isArray(question.categories)) {
@@ -95,15 +87,30 @@ async function openFilterPopup() {
         }
     });
 
-    categories.forEach(category => {
+    // Convert to array and sort alphabetically
+    const sortedCategories = Array.from(categories).sort();
+    sortedCategories.unshift("All"); // Ensure "All" is always on top
+
+    sortedCategories.forEach(category => {
         const categoryOption = document.createElement('div');
         categoryOption.innerHTML = `<label><input type="checkbox" class="filter-category" value="${category}"> ${category}</label>`;
         const categoryCheckbox = categoryOption.querySelector('input');
 
-        categoryCheckbox.checked = selectedCategories.includes(category);
-        categoryCheckbox.disabled = selectedCategories.includes("All");
+        if (category === "All") {
+            categoryCheckbox.id = 'filter-all';
+            categoryCheckbox.checked = selectedCategories.includes("All");
+            categoryCheckbox.addEventListener('change', () => {
+                toggleAllOption();
+                if (categoryCheckbox.checked) {
+                    alert("Uncheck 'All' to select specific categories.");
+                }
+            });
+        } else {
+            categoryCheckbox.checked = selectedCategories.includes(category);
+            categoryCheckbox.disabled = selectedCategories.includes("All");
+            categoryCheckbox.addEventListener('change', toggleCategoryOption);
+        }
 
-        categoryCheckbox.addEventListener('change', toggleCategoryOption);
         filterOptionsContainer.appendChild(categoryOption);
     });
 }
