@@ -80,6 +80,16 @@ async function openFilterPopup() {
 
     if (!questions.length) await loadQuestions();
 
+    // Text alert element
+    let textAlert = document.getElementById('filter-text-alert');
+    if (!textAlert) {
+        textAlert = document.createElement('div');
+        textAlert.id = 'filter-text-alert';
+        textAlert.className = 'text-alert';
+        filterPopup.appendChild(textAlert);
+    }
+    textAlert.innerText = ''; // Clear any previous message
+
     const categories = new Set();
     questions.forEach(question => {
         if (question.categories && Array.isArray(question.categories)) {
@@ -87,13 +97,21 @@ async function openFilterPopup() {
         }
     });
 
-    // Convert to array and sort alphabetically
+    // Convert to array, sort alphabetically, and ensure "All" is on top
     const sortedCategories = Array.from(categories).sort();
-    sortedCategories.unshift("All"); // Ensure "All" is always on top
+    sortedCategories.unshift("All");
 
     sortedCategories.forEach(category => {
         const categoryOption = document.createElement('div');
-        categoryOption.innerHTML = `<label><input type="checkbox" class="filter-category" value="${category}"> ${category}</label>`;
+        categoryOption.className = 'filter-option'; // Add a consistent class for styling
+
+        categoryOption.innerHTML = `
+            <label>
+                <input type="checkbox" class="filter-category" value="${category}">
+                <span>${category}</span>
+            </label>
+        `;
+
         const categoryCheckbox = categoryOption.querySelector('input');
 
         if (category === "All") {
@@ -102,8 +120,11 @@ async function openFilterPopup() {
             categoryCheckbox.addEventListener('change', () => {
                 toggleAllOption();
                 if (categoryCheckbox.checked) {
-                    alert("Uncheck 'All' to select specific categories.");
+                    textAlert.innerText = "Uncheck 'All' to select specific categories.";
+                } else {
+                    textAlert.innerText = '';
                 }
+                updateCheckboxStates();
             });
         } else {
             categoryCheckbox.checked = selectedCategories.includes(category);
@@ -113,7 +134,18 @@ async function openFilterPopup() {
 
         filterOptionsContainer.appendChild(categoryOption);
     });
+
+    // Function to update the disabled state of category checkboxes
+    function updateCheckboxStates() {
+        const categoryCheckboxes = filterOptionsContainer.querySelectorAll('.filter-category');
+        categoryCheckboxes.forEach(checkbox => {
+            if (checkbox.value !== "All") {
+                checkbox.disabled = document.getElementById('filter-all').checked;
+            }
+        });
+    }
 }
+
 
 // Close Filter Popup
 function closeFilterPopup() {
