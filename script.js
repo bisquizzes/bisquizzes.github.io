@@ -15,7 +15,7 @@ let examTimer;
 let examTimeLeft = 3600;
 let examEnded = false;
 let selectedCategories = ["All"];
-const importantCategories = [];
+const importantCategories = ["Important"];
 
 // DOM Elements
 const questionLabel = document.getElementById('question-label');
