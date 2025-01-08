@@ -76,7 +76,8 @@ async function loadQuestions() {
 
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = ''; // Clear existing options
-    filterPopup.style.display = 'flex';
+    filterPopup.style.display = 'flex'; // Show popup
+    document.body.classList.add('popup-active'); // Add class to darken background
 
     if (!questions.length) await loadQuestions();
 
@@ -118,10 +119,11 @@ async function openFilterPopup() {
             categoryCheckbox.id = 'filter-all';
             categoryCheckbox.checked = selectedCategories.includes("All");
             categoryCheckbox.addEventListener('change', () => {
-                toggleAllOption();
                 if (categoryCheckbox.checked) {
+                    selectedCategories = ["All"];
                     textAlert.innerText = "Uncheck 'All' to select specific categories.";
                 } else {
+                    selectedCategories = [];
                     textAlert.innerText = '';
                 }
                 updateCheckboxStates();
@@ -129,7 +131,14 @@ async function openFilterPopup() {
         } else {
             categoryCheckbox.checked = selectedCategories.includes(category);
             categoryCheckbox.disabled = selectedCategories.includes("All");
-            categoryCheckbox.addEventListener('change', toggleCategoryOption);
+            categoryCheckbox.addEventListener('change', (event) => {
+                const isChecked = event.target.checked;
+                if (isChecked) {
+                    selectedCategories.push(category);
+                } else {
+                    selectedCategories = selectedCategories.filter(c => c !== category);
+                }
+            });
         }
 
         filterOptionsContainer.appendChild(categoryOption);
@@ -138,9 +147,10 @@ async function openFilterPopup() {
     // Function to update the disabled state of category checkboxes
     function updateCheckboxStates() {
         const categoryCheckboxes = filterOptionsContainer.querySelectorAll('.filter-category');
+        const allCheckbox = document.getElementById('filter-all');
         categoryCheckboxes.forEach(checkbox => {
             if (checkbox.value !== "All") {
-                checkbox.disabled = document.getElementById('filter-all').checked;
+                checkbox.disabled = allCheckbox.checked;
             }
         });
     }

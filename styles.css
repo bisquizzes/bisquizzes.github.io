@@ -303,37 +303,43 @@ body {
     font-weight: bold;
 }
 
-/* General popup styling */
+body.popup-active::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+/* Popup styling */
 #filter-popup {
-    display: flex;
+    display: none;
     flex-direction: column;
-    align-items: center;
+    position: fixed;
+    top: 50%;
+    right: 10px; /* Align to the right */
+    transform: translateY(-50%);
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1001; /* Above the darkened background */
     max-width: 400px;
-    margin: 0 auto;
+    min-width: 300px;
 }
 
-/* Styling for the text alert */
-.text-alert {
-    color: #ff5722;
-    font-size: 14px;
-    margin-bottom: 15px;
-    text-align: center;
-    font-weight: bold;
-}
-
-/* Filter options container */
+/* Spacing between buttons and categories */
 #filter-options-container {
+    margin-top: 15px;
     display: flex;
     flex-direction: column;
     gap: 10px;
-    width: 100%;
 }
 
-/* Individual filter options */
+/* Filter options */
 .filter-option {
     display: flex;
     align-items: center;
@@ -367,4 +373,21 @@ body {
 .filter-option:hover {
     background-color: #f0f8ff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Text alert */
+.text-alert {
+    color: #ff5722;
+    font-size: 14px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Responsive design for phone screens */
+@media screen and (max-width: 600px) {
+    #filter-popup {
+        right: 5%;
+        width: 90%;
+    }
 }
