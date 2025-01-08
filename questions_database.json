@@ -2611,7 +2611,7 @@
       "The average salary itself"
     ],
     "answer": "Employees earning more than the average salary",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8", "SQL Snippet"]
   },
   {
     "question": "Which type of Subquery can return more than one row?",
@@ -3433,7 +3433,7 @@
       "The database crashes"
     ],
     "answer": "The balance remains unchanged",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11", "SQL Snippet"]
   },
   {
     "question": "What is a transaction in the context of a database management system (DBMS)?",
@@ -3713,7 +3713,7 @@
       "None of These"
     ],
     "answer": "SELECT name, course_id FROM instructor natural join teaches",
-    "categories": ["Final Questions", "M.C.Q.", "Important"]
+    "categories": ["Final Questions", "M.C.Q.", "Important", "SQL Snippet"]
   },
   {
     "question": "Which of the following has the 'all-or-none' property?",
