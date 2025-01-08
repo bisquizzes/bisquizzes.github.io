@@ -77,6 +77,7 @@ async function loadQuestions() {
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = ''; // Clear existing options
     filterPopup.style.display = 'flex'; // Show popup
+    filterOptionsContainer.style.marginBottom = '20px';
     document.body.classList.add('popup-active'); // Add class to darken background
 
     if (!questions.length) await loadQuestions();
@@ -156,10 +157,9 @@ async function openFilterPopup() {
     }
 }
 
-
-// Close Filter Popup
 function closeFilterPopup() {
     filterPopup.style.display = 'none';
+    document.body.classList.remove('popup-active'); // Remove overlay
 }
 
 // Toggle All Option

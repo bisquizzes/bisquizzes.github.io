@@ -303,6 +303,24 @@ body {
     font-weight: bold;
 }
 
+/* Popup styling */
+#filter-popup {
+    display: none;
+    flex-direction: column;
+    position: fixed;
+    top: 50%;
+    right: 0; /* Aligns the popup to the right */
+    transform: translateY(-50%);
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px 0 0 8px; /* Rounded left corners */
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 1001;
+    max-width: 350px;
+    width: 90%; /* Default width */
+    box-sizing: border-box;
+}
+
 body.popup-active::before {
     content: "";
     position: fixed;
@@ -314,37 +332,19 @@ body.popup-active::before {
     z-index: 1000;
 }
 
-/* Popup styling */
-#filter-popup {
-    display: none;
-    flex-direction: column;
-    position: fixed;
-    top: 50%;
-    right: 10px; /* Aligns the popup to the right */
-    transform: translateY(-50%);
-    background-color: #f9f9f9;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    z-index: 1001; /* Ensures it appears above the background overlay */
-    max-width: 400px;
-    min-width: 300px;
-    box-sizing: border-box;
-}
-
-#filter-popup h2 {
-    margin-top: 0;
-    font-size: 18px;
-    text-align: center;
-}
-
-
 /* Spacing between buttons and categories */
 #filter-options-container {
     margin-top: 15px;
     display: flex;
     flex-direction: column;
-    gap: 10px; /* Ensures consistent spacing between categories */
+    gap: 15px; /* Increased spacing between categories */
+}
+
+
+#filter-popup h2 {
+    margin-top: 0;
+    font-size: 18px;
+    text-align: center;
 }
 
 
@@ -394,10 +394,10 @@ body.popup-active::before {
 }
 
 #filter-popup .popup-buttons {
-    margin-top: 20px; /* Adds space between categories and buttons */
+    margin-top: 20px; /* Space between categories and buttons */
     display: flex;
-    justify-content: space-between; /* Ensures buttons are spaced out */
-    gap: 10px; /* Adds space between individual buttons */
+    justify-content: space-between;
+    gap: 15px; /* Adds spacing between buttons */
 }
 
 #filter-popup .popup-buttons button {
@@ -415,12 +415,9 @@ body.popup-active::before {
     background-color: #0056b3;
 }
 
-
-
-/* Responsive design for mobile */
 @media screen and (max-width: 600px) {
     #filter-popup {
-        right: 5%; /* Adjusts to fit smaller screens */
-        width: 90%; /* Makes the popup fill most of the screen width */
+        width: 80%; /* Smaller popup for small screens */
+        right: 10px; /* Adjust position */
     }
 }
