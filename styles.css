@@ -307,19 +307,28 @@ body {
 
 /* Popup styling */
 #filter-popup {
-    display: none; /* Hidden by default */
+    display: none;
     position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%); /* Center horizontally and vertically */
-    z-index: 1001; /* Ensure it's above other elements */
+    transform: translate(-50%, -50%);
+    z-index: 1001;
 }
 
 /* Prevent Body Scrolling When Popup is Active */
 body.popup-active {
     overflow: hidden;
-    position: fixed; /* Prevent scrolling on main page */
-    width: 100%; /* Prevent body shift due to scrollbar removal */
+    position: fixed;
+    width: 100%;
+}
+
+#filter-options {
+    max-height: calc(80vh - 120px);
+    overflow-y: auto; /* Enable scrolling if content overflows */
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Increased spacing between categories */
 }
 
 body.popup-active::before {
@@ -332,15 +341,6 @@ body.popup-active::before {
     background: rgba(0, 0, 0, 0.5);
     z-index: 1000;
 }
-
-/* Spacing between buttons and categories */
-#filter-options-container {
-    margin-top: 15px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px; /* Increased spacing between categories */
-}
-
 
 #filter-popup h2 {
     margin-top: 0;
