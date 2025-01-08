@@ -49,6 +49,7 @@ function renderSnippet() {
         snippetElement.style.padding = '10px';
         snippetElement.style.marginTop = '15px';
         snippetElement.style.borderRadius = '5px';
+        snippetElement.style.textAlign = "left";
 
         if (currentQuestion.renderSnippet) {
             snippetElement.innerHTML = currentQuestion.snippet;
