@@ -77,8 +77,6 @@ async function loadQuestions() {
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = ''; // Clear existing options
     filterPopup.style.display = 'flex'; // Show popup
-    filterPopup.style.right = '0'; // Explicitly align to the right
-    filterOptionsContainer.style.marginBottom = '20px';
     document.body.classList.add('popup-active'); // Add class to darken background
 
     if (!questions.length) await loadQuestions();
@@ -89,9 +87,17 @@ async function openFilterPopup() {
         textAlert = document.createElement('div');
         textAlert.id = 'filter-text-alert';
         textAlert.className = 'text-alert';
-        filterPopup.appendChild(textAlert);
+        const popupContent = filterPopup.querySelector('.popup'); // Target the `.popup` container
+        popupContent.insertBefore(textAlert, filterOptionsContainer); // Insert above filter options
     }
-    textAlert.innerText = ''; // Clear any previous message
+
+    // Initialize text alert based on the state of "All" checkbox
+    const allCheckbox = document.getElementById('filter-all');
+    if (selectedCategories.includes("All")) {
+        textAlert.innerText = "Uncheck 'All' to select specific categories.";
+    } else {
+        textAlert.innerText = ''; // Clear any previous message
+    }
 
     const categories = new Set();
     questions.forEach(question => {
@@ -156,7 +162,11 @@ async function openFilterPopup() {
             }
         });
     }
+
+    // Call updateCheckboxStates to ensure the initial state is correct
+    updateCheckboxStates();
 }
+
 
 function closeFilterPopup() {
     filterPopup.style.display = 'none';
