@@ -320,24 +320,33 @@ body.popup-active::before {
     flex-direction: column;
     position: fixed;
     top: 50%;
-    right: 10px; /* Align to the right */
+    right: 10px; /* Aligns the popup to the right */
     transform: translateY(-50%);
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    z-index: 1001; /* Above the darkened background */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1001; /* Ensures it appears above the background overlay */
     max-width: 400px;
     min-width: 300px;
+    box-sizing: border-box;
 }
+
+#filter-popup h2 {
+    margin-top: 0;
+    font-size: 18px;
+    text-align: center;
+}
+
 
 /* Spacing between buttons and categories */
 #filter-options-container {
     margin-top: 15px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 10px; /* Ensures consistent spacing between categories */
 }
+
 
 /* Filter options */
 .filter-option {
@@ -379,15 +388,39 @@ body.popup-active::before {
 .text-alert {
     color: #ff5722;
     font-size: 14px;
-    margin-bottom: 15px;
+    margin: 10px 0 20px; /* Adds space below the alert */
     text-align: center;
     font-weight: bold;
 }
 
-/* Responsive design for phone screens */
+#filter-popup .popup-buttons {
+    margin-top: 20px; /* Adds space between categories and buttons */
+    display: flex;
+    justify-content: space-between; /* Ensures buttons are spaced out */
+    gap: 10px; /* Adds space between individual buttons */
+}
+
+#filter-popup .popup-buttons button {
+    padding: 10px 20px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#filter-popup .popup-buttons button:hover {
+    background-color: #0056b3;
+}
+
+
+
+/* Responsive design for mobile */
 @media screen and (max-width: 600px) {
     #filter-popup {
-        right: 5%;
-        width: 90%;
+        right: 5%; /* Adjusts to fit smaller screens */
+        width: 90%; /* Makes the popup fill most of the screen width */
     }
 }
