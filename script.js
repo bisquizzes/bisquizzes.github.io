@@ -220,6 +220,13 @@ function loadNewQuestion() {
         optionsContainer.appendChild(button);
     });
 
+    const importantMarker = document.getElementById('important-marker');
+    if (isImportantQuestion(currentQuestion)) {
+        importantMarker.style.display = 'block';
+    } else {
+        importantMarker.style.display = 'none';
+    }
+
     renderSnippet();
 }
 
