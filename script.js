@@ -77,6 +77,7 @@ async function loadQuestions() {
 async function openFilterPopup() {
     filterOptionsContainer.innerHTML = ''; // Clear existing options
     filterPopup.style.display = 'flex'; // Show popup
+    filterPopup.style.right = '0'; // Explicitly align to the right
     filterOptionsContainer.style.marginBottom = '20px';
     document.body.classList.add('popup-active'); // Add class to darken background
 
