@@ -2611,7 +2611,7 @@
       "The average salary itself"
     ],
     "answer": "Employees earning more than the average salary",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 8", "Test"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
   },
   {
     "question": "Which type of Subquery can return more than one row?",
@@ -3433,7 +3433,7 @@
       "The database crashes"
     ],
     "answer": "The balance remains unchanged",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 11", "Test"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
   },
   {
     "question": "What is a transaction in the context of a database management system (DBMS)?",
@@ -3478,5 +3478,493 @@
     ],
     "answer": "ROLLBACK",
     "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is the purpose of the ACID properties in transaction management?",
+    "options": [
+      "To ensure the database is always available",
+      "To manage user access and security",
+      "To ensure that transactions are processed reliably",
+      "To optimize query performance"
+    ],
+    "answer": "To ensure that transactions are processed reliably",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which ACID property ensures that once a transaction is committed, its changes are permanent even in the case of a system failure?",
+    "options": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
+    "answer": "Durability",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What does the Isolation property of ACID ensure?",
+    "options": [
+      "Transactions are isolated from system failures",
+      "Each transaction is executed independently of others",
+      "Transactions are completed within a specific time frame",
+      "All transactions are executed in a serial manner"
+    ],
+    "answer": "Each transaction is executed independently of others",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is the purpose of the BEGIN TRANSACTION statement in SQL?",
+    "options": [
+      "To start a new transaction and establish a transaction context",
+      "To end an ongoing transaction",
+      "To create a save point within a transaction",
+      "To automatically commit changes made during a transaction"
+    ],
+    "answer": "To start a new transaction and establish a transaction context",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which of the following describes the 'Atomicity' property of a transaction?",
+    "options": [
+      "Ensures that all parts of a transaction are executed in a complete and accurate manner",
+      "Ensures that changes made in a transaction are permanent and not lost",
+      "Ensures that a transaction does not interfere with other transactions",
+      "Ensures that all changes within a transaction are treated as a single unit of work"
+    ],
+    "answer": "Ensures that all changes within a transaction are treated as a single unit of work",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What does the 'Consistency' property of a transaction ensure?",
+    "options": [
+      "Each transaction can only read data that has been committed",
+      "All transactions execute in isolation from one another",
+      "The database remains in a valid state before and after a transaction",
+      "Transactions are completed quickly and efficiently"
+    ],
+    "answer": "The database remains in a valid state before and after a transaction",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Triggers can be manually executed by the user.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "Logon triggers execute when a user logs into the SQL server instance.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "INSTEAD OF triggers are useful for maintaining cross-database referential integrity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "Transactions cannot be rolled back once a COMMIT statement is issued.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "Triggers can include parameters in their definition.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "A DML trigger fires on commands like CREATE and DROP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "BEGIN TRANSACTION starts a transaction and groups commands into a single unit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "DML triggers cannot be created for DELETE operations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "If an error occurs during a transaction, the database automatically rolls back changes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "A transaction ensures that either all commands succeed or none of them do.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "AFTER triggers execute after the firing statement completes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "The ROLLBACK command can only be used for syntax errors.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "Logon triggers enhance login security by executing specific logic on logon events.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "Transactions follow the ACID properties for data integrity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "COMMIT can be used to save changes after any DDL command.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "What is an Instance of a Database?",
+    "options": [
+      "The logical design of the database system",
+      "The entire set of attributes of the Database put together in a single relation",
+      "The state of the database system at any given point of time",
+      "The initial values inserted into the Database immediately after its creation"
+    ],
+    "answer": "The state of the database system at any given point of time",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Choose the correct statement regarding superkeys.",
+    "options": [
+      "A superkey is an attribute or a group of multiple attributes that can uniquely identify a tuple",
+      "A superkey is a tuple or a set of multiple tuples that can uniquely identify an attribute",
+      "Every superkey is a candidate key",
+      "A superkey is an attribute or a set of attributes that distinguish the relation from other relations"
+    ],
+    "answer": "A superkey is an attribute or a group of multiple attributes that can uniquely identify a tuple",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which of the following can replace the below query?",
+    "snippet": "SELECT name, course_id\nFROM Instructor, teaches\nWHERE instructor_ID = teaches_ID;",
+    "renderSnippet": false,
+    "options": [
+      "SELECT name, course_id FROM instructor natural join teaches",
+      "SELECT name, course_id FROM Instructor, teaches WHERE instructor_ID = course_ID",
+      "SELECT name, course_id FROM instructor",
+      "None of These"
+    ],
+    "answer": "SELECT name, course_id FROM instructor natural join teaches",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which of the following has the 'all-or-none' property?",
+    "options": [
+      "Atomicity",
+      "Durability",
+      "Isolation",
+      "All of the mentioned"
+    ],
+    "answer": "Atomicity",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "__ means that the data used during the execution of a transaction cannot be used by a second transaction until the first one is completed.",
+    "options": [
+      "Consistency",
+      "Atomicity",
+      "Durability",
+      "Isolation"
+    ],
+    "answer": "Isolation",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "The variables in the triggers are declared using",
+    "options": [
+      "@",
+      "@@",
+      "/",
+      "@/@@"
+    ],
+    "answer": "@",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "DML triggers in SQL Server are applicable to",
+    "options": [
+      "Insert",
+      "Update",
+      "Delete",
+      "All of the mentioned"
+    ],
+    "answer": "All of the mentioned",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which statement(s) is/are incorrect?",
+    "options": [
+      "Stored procedure can be shared by multiple programs",
+      "Stored procedures are in compiled form.",
+      "Stored procedure is a group of SQL statements",
+      "None of These."
+    ],
+    "answer": "Stored procedure can be shared by multiple programs",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "What is a view?",
+    "options": [
+      "A view is a special stored procedure executed when a certain event occurs",
+      "A view is a virtual table which results from executing a pre-compiled query",
+      "A view is a database diagram",
+      "None of the Mentioned"
+    ],
+    "answer": "A view is a virtual table which results from executing a pre-compiled query",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "What is a foreign key?",
+    "options": [
+      "A foreign key is a primary key of a relation which is an attribute in another relation",
+      "A foreign key is a superkey of a relation which is an attribute in more than one other relations",
+      "A foreign key is an attribute of a relation that is a primary key of another relation",
+      "A foreign key is the primary key of a relation that does not occur anywhere else in the schema"
+    ],
+    "answer": "A foreign key is an attribute of a relation that is a primary key of another relation",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "What is the method of specifying a primary key in a schema description?",
+    "options": [
+      "By writing it in bold letters",
+      "By underlining it using a dashed line",
+      "By writing it in capital letters",
+      "By underlining it using a bold line"
+    ],
+    "answer": "By underlining it using a bold line",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "In the relational model, cardinality is termed as:",
+    "options": [
+      "Number of tuples",
+      "Number of attributes",
+      "Number of tables",
+      "Number of constraints"
+    ],
+    "answer": "Number of tuples",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "An advantage of the database management approach is:",
+    "options": [
+      "Data is dependent on programs",
+      "Data redundancy increases",
+      "Data is integrated and can be accessed by multiple programs",
+      "None of the above"
+    ],
+    "answer": "Data is integrated and can be accessed by multiple programs",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "The statement in SQL which allows to change the definition of a table is:",
+    "options": [
+      "Alter",
+      "Update",
+      "Create",
+      "Select"
+    ],
+    "answer": "Alter",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which of the following operation is used if we are interested in only certain columns of a table?",
+    "options": [
+      "Projection",
+      "Selection",
+      "Union",
+      "Join"
+    ],
+    "answer": "Projection",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "A table joined with itself is called:",
+    "options": [
+      "Join",
+      "Self Join",
+      "Outer Join",
+      "Equi Join"
+    ],
+    "answer": "Self Join",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "The result of the UNION operation between R1 and R2 is a relation that includes:",
+    "options": [
+      "All the tuples of R1",
+      "All the tuples of R2",
+      "All the tuples of R1 and R2",
+      "All the tuples of R1 and R2 which have common columns"
+    ],
+    "answer": "All the tuples of R1 and R2",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which of the following is a comparison operator in SQL?",
+    "options": [
+      "LIKE",
+      "BETWEEN",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which type of entity cannot exist in the database unless another type of entity also exists in the database?",
+    "options": [
+      "Weak entity",
+      "Strong entity",
+      "ID-dependent entity",
+      "ID-independent entity"
+    ],
+    "answer": "Weak entity",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Which of the following statements are true?\n1. Each superkey is a superset of some candidate key.\n2. Each primary key is also a candidate key, but there may be candidate keys that are not primary keys.",
+    "options": [
+      "Only 1 is true",
+      "Only 2 is true",
+      "Both 1 and 2 are true",
+      "Neither 1 nor 2 are true"
+    ],
+    "answer": "Both 1 and 2 are true",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Suppose that there are two entity sets A and B with attributes a1, a2, a3 and b1, b2, b3 respectively. Here, a1 is the key for A and b2 is the key for B. If there exists a many-to-many relationship R from A to B with an attribute r1, what would be the schema for R after converting the ER diagram into schemas?",
+    "options": [
+      "R(a1, a2)",
+      "R(a1, b2)",
+      "R(a1, b1, b2)",
+      "R(a1, b2, r1)"
+    ],
+    "answer": "R(a1, b2, r1)",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Let M and N be two entities in an E-R diagram with simple single value attributes. R1 and R2 are two relationships between M and N, where R1 is one-to-many and R2 is many-to-many. The minimum number of tables required to represent M, N, R1, and R2 in the relational model are:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "4",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Using UPDATE without the WHERE clause will:",
+    "options": [
+      "Result in a syntax error",
+      "Update all the records in a table",
+      "Update the first record only",
+      "Not update any records"
+    ],
+    "answer": "Update all the records in a table",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "The ___ of a database relation is the number of attributes.",
+    "options": [
+      "Domain",
+      "Degree",
+      "Cardinality",
+      "Primary key"
+    ],
+    "answer": "Degree",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Using Relational Algebra, the query that finds customer names, who have a balance of over 1000 is:",
+    "options": [
+      "Π Customer_name (σ balance >1000(Deposit))",
+      "σ Customer_name (Π balance >1000(Deposit))",
+      "σ balance >1000 (Π Customer_name (Deposit))",
+      "Π Customer_name (σ balance >1000) e) σ Customer_name (Π balance >1000(Deposit))"
+    ],
+    "answer": "Π Customer_name (σ balance >1000(Deposit))",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
+  },
+  {
+    "question": "Relational Algebra does not have:",
+    "options": [
+      "Selection operator",
+      "Projection operator",
+      "Aggregation operator",
+      "Division operator"
+    ],
+    "answer": "Aggregation operator",
+    "categories": ["Final Questions", "M.C.Q.", "Important"]
   }
 ]
