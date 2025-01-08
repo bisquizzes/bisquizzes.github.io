@@ -1,0 +1,3482 @@
+[
+  {
+    "question": "What is a database?",
+    "options": [
+      "A collection of data organized for quick search and retrieval",
+      "A set of disconnected tables",
+      "A programming language",
+      "A type of hardware"
+    ],
+    "answer": "A collection of data organized for quick search and retrieval",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Why are databases widely used in e-commerce?",
+    "options": [
+      "To enhance user experience",
+      "To securely manage a large amount of transaction data",
+      "To reduce costs associated with storage",
+      "To replace websites"
+    ],
+    "answer": "To securely manage a large amount of transaction data",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of database organizes data in tables and is based on a relational model?",
+    "options": [
+      "Object-oriented database",
+      "Graph database",
+      "Relational database",
+      "Hierarchical database"
+    ],
+    "answer": "Relational database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the primary role of a DBMS?",
+    "options": [
+      "To program database applications",
+      "To create spreadsheets",
+      "To manage and control access to databases",
+      "To enhance computer processing speed"
+    ],
+    "answer": "To manage and control access to databases",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What function does a database administrator (DBperform?",
+    "options": [
+      "Design application interfaces",
+      "Oversee the DBMS environment and authorize access",
+      "Update operating systems",
+      "Write end-user queries"
+    ],
+    "answer": "Oversee the DBMS environment and authorize access",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which security strategy involves verifying the identity of database users?",
+    "options": [
+      "Encryption",
+      "Authentication",
+      "Authorization",
+      "Concurrency"
+    ],
+    "answer": "Authentication",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is a key advantage of using a DBMS over a file system?",
+    "options": [
+      "Direct data access only by single users",
+      "Structured and managed data sharing across multiple applications",
+      "Requires more manual query writing",
+      "No need for security protocols"
+    ],
+    "answer": "Structured and managed data sharing across multiple applications",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What kind of database is best suited for handling complex relationships like those in social networks?",
+    "options": [
+      "Graph database",
+      "Relational database",
+      "Hierarchical database",
+      "Object-oriented database"
+    ],
+    "answer": "Graph database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In DBMS terminology, what does 'data independence' mean?",
+    "options": [
+      "Data is protected from simultaneous access",
+      "Changes in data storage do not affect applications",
+      "DBMS doesn’t require security protocols",
+      "Data is physically independent from storage devices"
+    ],
+    "answer": "Changes in data storage do not affect applications",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of design in database modeling involves creating ER diagrams?",
+    "options": [
+      "Conceptual design",
+      "Logical design",
+      "Physical design",
+      "User interface design"
+    ],
+    "answer": "Conceptual design",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of the following databases organizes data in a tree-like structure?",
+    "options": [
+      "Relational database",
+      "Hierarchical database",
+      "Graph database",
+      "Object-oriented database"
+    ],
+    "answer": "Hierarchical database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the process of storing data on a storage medium controlled by the DBMS called?",
+    "options": [
+      "Defining the database",
+      "Constructing the database",
+      "Manipulating the database",
+      "Backup"
+    ],
+    "answer": "Constructing the database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which level of DBMS abstraction describes how users see the data?",
+    "options": [
+      "Physical schema",
+      "Conceptual schema",
+      "External schema",
+      "Logical schema"
+    ],
+    "answer": "External schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is logical data independence?",
+    "options": [
+      "Protection from physical changes in storage",
+      "Protection from changes in logical data structure",
+      "Multi-user support",
+      "Data encryption"
+    ],
+    "answer": "Protection from changes in logical data structure",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the purpose of the DBMS layer architecture?",
+    "options": [
+      "To allow a direct interface with hardware",
+      "To organize DBMS components for efficiency",
+      "To prevent multi-user access",
+      "To store redundant data"
+    ],
+    "answer": "To organize DBMS components for efficiency",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which database role involves implementing programs for database access?",
+    "options": [
+      "Database administrator",
+      "Database designer",
+      "Application developer",
+      "End user"
+    ],
+    "answer": "Application developer",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of database stores data as objects similar to object-oriented programming?",
+    "options": [
+      "Relational database",
+      "Hierarchical database",
+      "Object-oriented database",
+      "Graph database"
+    ],
+    "answer": "Object-oriented database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does data encryption in DBMS security ensure?",
+    "options": [
+      "Data is viewable without decryption",
+      "Only authorized access to data",
+      "Conversion of data to an unreadable format",
+      "Data is accessible without keys"
+    ],
+    "answer": "Conversion of data to an unreadable format",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "A DBMS that handles spatial data applications is used for:",
+    "options": [
+      "Text editing",
+      "Maps and geographic information",
+      "Financial transactions",
+      "Video processing"
+    ],
+    "answer": "Maps and geographic information",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which function of DBMS allows multiple users to access data simultaneously?",
+    "options": [
+      "Concurrency control",
+      "Backup and recovery",
+      "Data encryption",
+      "File management"
+    ],
+    "answer": "Concurrency control",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is a key benefit of using indexes in DBMS?",
+    "options": [
+      "Increases redundancy",
+      "Speeds up data retrieval",
+      "Reduces data security",
+      "Increases data size"
+    ],
+    "answer": "Speeds up data retrieval",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Why is backup important in DBMS?",
+    "options": [
+      "It speeds up queries",
+      "It increases storage",
+      "It protects against data loss",
+      "It limits user access"
+    ],
+    "answer": "It protects against data loss",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In a university database, which attribute would likely be a primary key?",
+    "options": [
+      "Student name",
+      "Student ID",
+      "Age",
+      "GPA"
+    ],
+    "answer": "Student ID",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of DBMS is often used for analyzing social networks?",
+    "options": [
+      "Relational DBMS",
+      "Hierarchical DBMS",
+      "Graph DBMS",
+      "Object-oriented DBMS"
+    ],
+    "answer": "Graph DBMS",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What does DBMS concurrency control prevent?",
+    "options": [
+      "Unauthorized access",
+      "Data inconsistency",
+      "Index creation",
+      "Metadata management"
+    ],
+    "answer": "Data inconsistency",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which concept represents the overall logical structure of a database?",
+    "options": [
+      "Physical schema",
+      "Conceptual schema",
+      "Metadata",
+      "Data independence"
+    ],
+    "answer": "Conceptual schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is meant by 'data sharing' in DBMS?",
+    "options": [
+      "Using duplicate databases",
+      "Allowing multiple applications to access data",
+      "Backing up data",
+      "Limiting access to a single user"
+    ],
+    "answer": "Allowing multiple applications to access data",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of these describes 'data redundancy' in a database context?",
+    "options": [
+      "Having multiple copies of data for security",
+      "Storing the same data in multiple places",
+      "Limited data accessibility",
+      "Data stored only in one place"
+    ],
+    "answer": "Storing the same data in multiple places",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the main function of a 'view' in DBMS?",
+    "options": [
+      "Store data directly",
+      "Optimize storage space",
+      "Provide a customized representation of data",
+      "Create new databases"
+    ],
+    "answer": "Provide a customized representation of data",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In the DBMS context, what is 'query optimization'?",
+    "options": [
+      "Simplifying data models",
+      "Enhancing security",
+      "Improving the performance of data retrieval",
+      "Encrypting data"
+    ],
+    "answer": "Improving the performance of data retrieval",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is 'physical data independence'?",
+    "options": [
+      "Changing physical storage without affecting applications",
+      "Separating data from end users",
+      "Allowing only single-user access",
+      "Encrypting data on disks"
+    ],
+    "answer": "Changing physical storage without affecting applications",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of schema is closest to how data is actually stored on disk?",
+    "options": [
+      "Logical schema",
+      "Physical schema",
+      "Conceptual schema",
+      "External schema"
+    ],
+    "answer": "Physical schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What is 'data inconsistency' in DBMS?",
+    "options": [
+      "Redundant data that is inaccurate",
+      "Different data types in a single table",
+      "Mismatched data from concurrent access",
+      "Lack of unique keys"
+    ],
+    "answer": "Mismatched data from concurrent access",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the main purpose of a data model in a database?",
+    "options": [
+      "To store physical data",
+      "To define data structure and relationships",
+      "To analyze user queries",
+      "To handle memory allocation"
+    ],
+    "answer": "To define data structure and relationships",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of data model focuses on entities and relationships at a high level?",
+    "options": [
+      "Physical modeling",
+      "Logical modeling",
+      "Conceptual modeling",
+      "Internal modeling"
+    ],
+    "answer": "Conceptual modeling",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In a three-schema architecture, what does the external schema describe?",
+    "options": [
+      "The entire database structure",
+      "User-specific views",
+      "The physical storage of data",
+      "Data retrieval speed"
+    ],
+    "answer": "User-specific views",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which model is primarily used for database design during the conceptual design phase?",
+    "options": [
+      "Network model",
+      "Relational model",
+      "ER model",
+      "Object-oriented model"
+    ],
+    "answer": "ER model",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is an entity set?",
+    "options": [
+      "A specific instance of an entity",
+      "A collection of similar entities",
+      "A single attribute",
+      "A type of database relationship"
+    ],
+    "answer": "A collection of similar entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What term is used to describe a collection of related entities that share attributes?",
+    "options": [
+      "Attribute set",
+      "Entity set",
+      "Relationship set",
+      "Composite set"
+    ],
+    "answer": "Entity set",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of relationship is defined between two entities?",
+    "options": [
+      "Unary",
+      "Binary",
+      "Ternary",
+      "N-ary"
+    ],
+    "answer": "Binary",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What type of attribute can be divided into smaller parts, such as an address?",
+    "options": [
+      "Simple",
+      "Composite",
+      "Derived",
+      "Multi-valued"
+    ],
+    "answer": "Composite",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is a weak entity?",
+    "options": [
+      "An entity that does not require a primary key",
+      "An entity uniquely identified by a foreign key",
+      "An entity identified only by the key of another entity",
+      "A single-attribute entity"
+    ],
+    "answer": "An entity identified only by the key of another entity",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In ER diagrams, what is an 'ISA hierarchy' used for?",
+    "options": [
+      "Defining physical data storage",
+      "Organizing entities into sub-classes",
+      "Setting data constraints",
+      "Creating relationships among relationships"
+    ],
+    "answer": "Organizing entities into sub-classes",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of relationship involves a single entity related to itself?",
+    "options": [
+      "Binary",
+      "Unary",
+      "Ternary",
+      "N-ary"
+    ],
+    "answer": "Unary",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What are derived attributes?",
+    "options": [
+      "Attributes that store direct data values",
+      "Attributes whose values can be derived from other attributes",
+      "Primary key attributes",
+      "Attributes that represent multiple values"
+    ],
+    "answer": "Attributes whose values can be derived from other attributes",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In the three-schema architecture, what does the conceptual schema represent?",
+    "options": [
+      "User views",
+      "Internal storage structure",
+      "Logical database structure",
+      "Disk partitions"
+    ],
+    "answer": "Logical database structure",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the purpose of a 'relationship set' in an ER model?",
+    "options": [
+      "To group attributes",
+      "To store physical data",
+      "To represent associations between entities",
+      "To define indexes"
+    ],
+    "answer": "To represent associations between entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does a ternary relationship involve?",
+    "options": [
+      "A relationship with three entities",
+      "Three attributes in a single entity",
+      "Multiple foreign keys",
+      "Entities with more than two attributes"
+    ],
+    "answer": "A relationship with three entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What is a multi-valued attribute?",
+    "options": [
+      "An attribute that has only one value",
+      "An attribute that can have multiple values",
+      "An attribute used only in indexing",
+      "An attribute representing a foreign key"
+    ],
+    "answer": "An attribute that can have multiple values",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which type of ER model attribute cannot be divided further?",
+    "options": [
+      "Composite",
+      "Simple",
+      "Multi-valued",
+      "Derived"
+    ],
+    "answer": "Simple",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the purpose of a 'domain' in a database?",
+    "options": [
+      "To store unique keys",
+      "To define permitted values for an attribute",
+      "To create ER diagrams",
+      "To optimize storage"
+    ],
+    "answer": "To define permitted values for an attribute",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "When is a participation constraint said to be total?",
+    "options": [
+      "When it includes at least three entities",
+      "When each entity in a set participates in the relationship",
+      "When only a few entities participate",
+      "When no keys are needed"
+    ],
+    "answer": "When each entity in a set participates in the relationship",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does an ER diagram help to visualize?",
+    "options": [
+      "Data storage partitions",
+      "Relationships and entities",
+      "File formats",
+      "User interfaces"
+    ],
+    "answer": "Relationships and entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which attribute type represents a combination of multiple attributes?",
+    "options": [
+      "Simple",
+      "Derived",
+      "Composite",
+      "Multi-valued"
+    ],
+    "answer": "Composite",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does a 1:1 relationship indicate?",
+    "options": [
+      "One instance of entity A can be associated with multiple instances of entity B",
+      "Each instance of entity A is associated with one instance of entity B and vice versa",
+      "One instance of entity A can be associated with none or many instances of entity B",
+      "There is no relationship between entities A and B"
+    ],
+    "answer": "Each instance of entity A is associated with one instance of entity B and vice versa",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of the following represents a many-to-many relationship?",
+    "options": [
+      "Each student can enroll in multiple courses, and each course can have multiple students",
+      "Each employee works in one department, and each department has multiple employees",
+      "Each product is sold by one supplier, and each supplier can supply multiple products",
+      "Each book is written by one author, and each author can write multiple books"
+    ],
+    "answer": "Each student can enroll in multiple courses, and each course can have multiple students",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "Which of the following is a characteristic of a strong entity?",
+    "options": [
+      "It cannot exist independently",
+      "It has its own primary key",
+      "It is represented by a dashed rectangle",
+      "It has no attributes"
+    ],
+    "answer": "It has its own primary key",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of the following is true about a weak entity?",
+    "options": [
+      "It has its own primary key",
+      "It can exist independently of other entities",
+      "It relies on a strong entity for its identification",
+      "It is not represented in an ERD"
+    ],
+    "answer": "It relies on a strong entity for its identification",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "In an ERD, a diamond shape represents:",
+    "options": [
+      "Entity",
+      "Attribute",
+      "Relationship",
+      "Weak entity"
+    ],
+    "answer": "Relationship",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which cardinality indicates that an entity can be associated with at most one instance of another entity?",
+    "options": [
+      "1:1",
+      "1:N",
+      "N:N",
+      "N:1"
+    ],
+    "answer": "1:1",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of the following is an example of a 1:1 relationship?",
+    "options": [
+      "A person can have multiple phone numbers",
+      "Each country has one capital city",
+      "Students enrolled in various classes",
+      "A library holding multiple copies of a book"
+    ],
+    "answer": "Each country has one capital city",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does the term 'participation' refer to in ERDs?",
+    "options": [
+      "The number of entities involved in a relationship",
+      "Whether all instances of an entity are involved in a relationship",
+      "The total number of relationships in the diagram",
+      "The attributes of an entity"
+    ],
+    "answer": "Whether all instances of an entity are involved in a relationship",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What are total participation constraints?",
+    "options": [
+      "They require all entities in a relationship to participate in the related entities",
+      "They indicate that some entities in the relationship may or may not participate",
+      "There is no relationship between the entities",
+      "They refer only to the subordinate entities"
+    ],
+    "answer": "They require all entities in a relationship to participate in the related entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What are partial participation constraints?",
+    "options": [
+      "They require all entities in a relationship to be linked",
+      "They allow some entities to not participate in the relationship",
+      "They denote an equal relationship among all entities",
+      "They do not allow any linkages"
+    ],
+    "answer": "They allow some entities to not participate in the relationship",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "DBMS contains not only the data itself, but a complete definition and description of the data structure and constraints. What is this called?",
+    "options": [
+      "Data",
+      "Meta data",
+      "Schema",
+      "None of the above"
+    ],
+    "answer": "Meta data",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What includes descriptions of the database structure, data types, and the constraints on the database?",
+    "options": [
+      "Data",
+      "Meta data",
+      "Database schema",
+      "None of the above"
+    ],
+    "answer": "Database schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which diagram is commonly used to represent the conceptual design of a database?",
+    "options": [
+      "Entity-Relationship Diagram (ERD)",
+      "Class Diagram",
+      "Flowchart",
+      "Use Case Diagram"
+    ],
+    "answer": "Entity-Relationship Diagram (ERD)",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the primary purpose of authentication in a security system?",
+    "options": [
+      "To encrypt data during transmission",
+      "To verify the identity of users",
+      "To authorize access to specific resources",
+      "To ensure data integrity"
+    ],
+    "answer": "To verify the identity of users",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "The operations on the data model may include basic model operations such as insert, delete, and update. Which other operation can be included?",
+    "options": [
+      "Compute specific queries",
+      "Compute_student_gpa",
+      "Generate reports",
+      "Backup data"
+    ],
+    "answer": "Compute_student_gpa",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "Which schema describes the physical storage of data in the database, focusing on how data is stored on disk and includes file organization and storage allocation?",
+    "options": [
+      "Conceptual schema",
+      "Internal schema",
+      "External schema",
+      "None of the above"
+    ],
+    "answer": "Internal schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which schema provides a unified view of the entire database and describes data in terms of structure, constraints, and relationships without concerning itself with physical storage details?",
+    "options": [
+      "Conceptual schema",
+      "Internal schema",
+      "External schema",
+      "None of the above"
+    ],
+    "answer": "Conceptual schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which schema defines how individual users or applications interact with the data, describing various user views?",
+    "options": [
+      "Conceptual schema",
+      "Internal schema",
+      "External schema",
+      "None of the above"
+    ],
+    "answer": "External schema",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Objects or concepts that are represented in the database (e.g., Customer, Order) are referred to as:",
+    "options": [
+      "Attributes",
+      "Relationship",
+      "Entities",
+      "None of the above"
+    ],
+    "answer": "Entities",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Properties or characteristics of entities (e.g., Customer Name, Order Date) are known as:",
+    "options": [
+      "Attributes",
+      "Relationship",
+      "Entities",
+      "None of the above"
+    ],
+    "answer": "Attributes",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Associations between entities that define how they interact with each other are called:",
+    "options": [
+      "Attributes",
+      "Relationship",
+      "Entities",
+      "None of the above"
+    ],
+    "answer": "Relationship",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "A collection of similar entities that share common attributes is called:",
+    "options": [
+      "Attributes",
+      "Relationship",
+      "Entity",
+      "Entity Set"
+    ],
+    "answer": "Entity Set",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What defines the category that a particular entity belongs to?",
+    "options": [
+      "Attributes",
+      "Entity Type",
+      "Entity",
+      "Entity Set"
+    ],
+    "answer": "Entity Type",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is an entity that cannot be uniquely identified by its own attributes alone and depends on another entity for identification?",
+    "options": [
+      "Strong Entity",
+      "Weak Entity",
+      "Bad Entity",
+      "Good Entity"
+    ],
+    "answer": "Weak Entity",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+{
+    "question": "Which are properties or characteristics of entites? They describe the entity and hold data related to it",
+    "options": [
+      "Attributes",
+      "Relationship",
+      "Entities",
+      "None of the above"
+    ],
+    "answer": "Attributes",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What is the primary purpose of a data model in a database system?",
+    "options": [
+      "To describe the physical storage of data",
+      "To define the structure of data and relationships among data",
+      "To manage user permissions and access",
+      "To enforce security protocols"
+    ],
+    "answer": "To define the structure of data and relationships among data",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does the term 'schema' refer to in the context of a database?",
+    "options": [
+      "The actual data stored in the database",
+      "The physical implementation of the database",
+      "The logical structure and design of the database",
+      "The set of permissions and access controls"
+    ],
+    "answer": "The logical structure and design of the database",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What is the main purpose of a foreign key?",
+    "options": [
+      "To uniquely identify a tuple within its own table",
+      "To establish a relationship between two tables",
+      "To store null values only",
+      "To enforce domain constraints"
+    ],
+    "answer": "To establish a relationship between two tables",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a primary key?",
+    "options": [
+      "Must be unique",
+      "Can contain null values",
+      "Identifies a tuple",
+      "Is a minimal super key"
+    ],
+    "answer": "Can contain null values",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which constraint ensures that data in a foreign key field matches primary key data in the referenced table?",
+    "options": [
+      "Domain Constraint",
+      "Key Constraint",
+      "Referential Integrity",
+      "Entity Integrity"
+    ],
+    "answer": "Referential Integrity",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Which key can contain one or more attributes that uniquely identify a row in a table?",
+    "options": [
+      "Primary Key",
+      "Super Key",
+      "Candidate Key",
+      "Foreign Key"
+    ],
+    "answer": "Super Key",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the purpose of the UNIQUE constraint in a table?",
+    "options": [
+      "To enforce referential integrity",
+      "To ensure no duplicate values in a column",
+      "To restrict data types",
+      "To allow only non-null values"
+    ],
+    "answer": "To ensure no duplicate values in a column",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What does a legal instance of a relation imply?",
+    "options": [
+      "It contains only foreign keys",
+      "It satisfies all specified integrity constraints",
+      "It only has primary key columns",
+      "It allows duplicate rows"
+    ],
+    "answer": "It satisfies all specified integrity constraints",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "A logical pointer in the context of relational databases refers to:",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Super Key",
+      "Candidate Key"
+    ],
+    "answer": "Foreign Key",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "The combination of Emp_ID and Emp_Name as a unique identifier is an example of what?",
+    "options": [
+      "Primary Key",
+      "Composite Key",
+      "Foreign Key",
+      "Super Key"
+    ],
+    "answer": "Super Key",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+    {
+    "question": "What happens if a foreign key constraint is violated?",
+    "options": [
+      "The record is added",
+      "The DBMS rejects the operation",
+      "It creates an orphan record",
+      "It updates related records"
+    ],
+    "answer": "The DBMS rejects the operation",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "The cascading action on deletion is defined to:",
+    "options": [
+      "Restrict deletion",
+      "Automatically delete related records",
+      "Update values to default",
+      "Allow orphan records"
+    ],
+    "answer": "Automatically delete related records",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "Participation constraints may be:",
+    "options": [
+      "Total",
+      "Partial",
+      "A and B",
+      "None of the above"
+    ],
+    "answer": "A and B",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the difference between a 'conceptual schema' and a 'physical schema'?",
+    "options": [
+      "A conceptual schema defines how data is physically stored, while a physical schema defines the logical structure",
+      "A conceptual schema defines the logical structure of the database, while a physical schema defines the actual storage and organization of data on disk",
+      "A conceptual schema is used for security, while a physical schema is used for performance optimization",
+      "A conceptual schema and a physical schema are the same and used interchangeably"
+    ],
+    "answer": "A conceptual schema defines the logical structure of the database, while a physical schema defines the actual storage and organization of data on disk",
+    "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+  },
+  {
+    "question": "What is the result of the Projection (π) operation?",
+    "options": [
+      "Removes specific rows",
+      "Removes specific columns",
+      "Combines all rows from two relations",
+      "Filters rows based on conditions"
+    ],
+    "answer": "Removes specific columns",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation in Relational Algebra is used to select rows based on a condition?",
+    "options": [
+      "Projection",
+      "Selection",
+      "Union",
+      "Cartesian Product"
+    ],
+    "answer": "Selection",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "What does the Natural Join operation do?",
+    "options": [
+      "Combines all rows from two relations",
+      "Filters rows based on a condition",
+      "Combines rows with matching values in common fields",
+      "Removes duplicate rows"
+    ],
+    "answer": "Combines rows with matching values in common fields",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "What must be true for two relations to be union-compatible?",
+    "options": [
+      "They have the same number of rows",
+      "They have the same number and type of fields",
+      "They have the same primary key",
+      "They have matching field names"
+    ],
+    "answer": "They have the same number and type of fields",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which of the following operations can generate a very large result set?",
+    "options": [
+      "Natural Join",
+      "Cartesian Product",
+      "Set-Difference",
+      "Projection"
+    ],
+    "answer": "Cartesian Product",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "What does the Set-Difference operation return?",
+    "options": [
+      "Rows present in the first relation but not in the second",
+      "Rows present in both relations",
+      "All rows from both relations",
+      "Rows present only in the second relation"
+    ],
+    "answer": "Rows present in the first relation but not in the second",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which aggregation operator is used to calculate the average of a column?",
+    "options": [
+      "MIN",
+      "MAX",
+      "SUM",
+      "AVG"
+    ],
+    "answer": "AVG",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Algebra is considered:",
+    "options": [
+      "Declarative",
+      "Operational",
+      "Complex",
+      "None of the above"
+    ],
+    "answer": "Operational",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which of the following is a binary operation in Relational Algebra?",
+    "options": [
+      "Projection",
+      "Selection",
+      "Union",
+      "Aggregation"
+    ],
+    "answer": "Union",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "EquiJoin is a special case of which operation?",
+    "options": [
+      "Condition Join",
+      "Cartesian Product",
+      "Natural Join",
+      "Projection"
+    ],
+    "answer": "Condition Join",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation is NOT essential in Relational Algebra but still very useful?",
+    "options": [
+      "Natural Join",
+      "Cartesian Product",
+      "Selection",
+      "Projection"
+    ],
+    "answer": "Natural Join",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The result of an Intersection operation contains:",
+    "options": [
+      "Tuples present in both relations",
+      "Tuples from the first relation only",
+      "Tuples from the second relation only",
+      "All unique tuples from both relations"
+    ],
+    "answer": "Tuples present in both relations",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation removes duplicates from the result by default?",
+    "options": [
+      "Union",
+      "Projection",
+      "Intersection",
+      "Cartesian Product"
+    ],
+    "answer": "Projection",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Aggregation operators like MIN and MAX work on:",
+    "options": [
+      "Multiple columns simultaneously",
+      "Non-NULL values only",
+      "NULL values only",
+      "All rows including NULLs"
+    ],
+    "answer": "Non-NULL values only",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation combines all rows from two relations, regardless of any condition?",
+    "options": [
+      "Union",
+      "Cartesian Product",
+      "Natural Join",
+      "Selection"
+    ],
+    "answer": "Cartesian Product",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which relational algebra operation is used to select specific rows from a table based on a condition?",
+    "options": [
+      "Projection",
+      "Union",
+      "Selection",
+      "Difference"
+    ],
+    "answer": "Selection",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which relational algebra operation is used to choose specific columns from a table?",
+    "options": [
+      "Selection",
+      "Projection",
+      "Union",
+      "Join"
+    ],
+    "answer": "Projection",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation in relational algebra combines the tuples of two relations, eliminating duplicates?",
+    "options": [
+      "Intersection",
+      "Difference",
+      "Union",
+      "Cartesian Product"
+    ],
+    "answer": "Union",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which relational algebra operation finds the common tuples between two relations?",
+    "options": [
+      "Union",
+      "Difference",
+      "Intersection",
+      "Cartesian Product"
+    ],
+    "answer": "Intersection",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "What does the Cartesian Product operation in relational algebra produce?",
+    "options": [
+      "A relation with tuples that are in either of the two relations.",
+      "A relation with tuples that are in both relations.",
+      "A relation with every combination of tuples from two relations.",
+      "A relation with tuples in the first relation but not in the second."
+    ],
+    "answer": "A relation with every combination of tuples from two relations.",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which operation in relational algebra returns tuples that are in one relation but not in another?",
+    "options": [
+      "Intersection",
+      "Difference",
+      "Union",
+      "Cartesian Product"
+    ],
+    "answer": "Difference",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which of the following is not a basic operation in relational algebra?",
+    "options": [
+      "Selection",
+      "Projection",
+      "Join",
+      "Aggregation"
+    ],
+    "answer": "Aggregation",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The Join operation in relational algebra combines tuples from two relations based on:",
+    "options": [
+      "A common attribute",
+      "The size of the relations",
+      "Random tuples",
+      "The order of tuples"
+    ],
+    "answer": "A common attribute",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which relational algebra operation is used to combine the result of a relational algebra expression with another relation?",
+    "options": [
+      "Selection",
+      "Projection",
+      "Union",
+      "Difference"
+    ],
+    "answer": "Union",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "In relational algebra, what does the 'Rename' operation do?",
+    "options": [
+      "Changes the values of attributes",
+      "Changes the names of attributes or relations",
+      "Deletes tuples from a relation",
+      "Adds new attributes to a relation"
+    ],
+    "answer": "Changes the names of attributes or relations",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Algebra is used to define how data is stored in a database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "A query in Relational Algebra always returns a relation as its result.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Selection operation filters rows based on specified conditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Projection removes specific rows from a relation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Cartesian Product produces all possible combinations of rows from two relations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Union operation requires the two relations to be union-compatible.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Set-Difference outputs tuples present in both relations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Natural Join results in duplicate columns being included in the output.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Aggregation operators like SUM ignore NULL values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "EquiJoin is used when the join condition includes only equality comparisons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The schema of the result of a query depends on the input relations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Union operation includes duplicate rows in the result.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Calculus focuses on describing 'how' to retrieve data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Projection eliminates duplicate columns in the result by default.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Intersection requires the two relations to have the same schema.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Condition Join is a combination of Selection, Projection, and Cartesian Product.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Algebra is more declarative than SQL.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The result of a Selection operation has the same schema as the input relation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Aggregation operators can work on multiple attributes simultaneously.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Algebra supports operations like MIN and MAX directly on tuples.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The schema of the Cartesian Product contains all fields from both relations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Relational Query Languages are meant to replace programming languages.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Set-Difference can be applied to relations with different schemas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Natural Join is more efficient than Cartesian Product when conditions are applied.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "The result of a Union operation includes only unique tuples.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 6: Part of Relational Algebra"]
+  },
+  {
+    "question": "Which clause in an SQL query is mandatory?",
+    "options": [
+      "WHERE",
+      "GROUP BY",
+      "SELECT and FROM",
+      "ORDER BY"
+    ],
+    "answer": "SELECT and FROM",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What does the % character do in a string-matching operation?",
+    "options": [
+      "Matches any single character",
+      "Matches any substring",
+      "Represents a NULL value",
+      "Matches a numeric value"
+    ],
+    "answer": "Matches any substring",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL function returns the average of a numeric column?",
+    "options": [
+      "MAX()",
+      "SUM()",
+      "AVG()",
+      "MIN()"
+    ],
+    "answer": "AVG()",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What does the HAVING clause do?",
+    "options": [
+      "Filters rows before aggregation",
+      "Groups rows into categories",
+      "Filters groups after aggregation",
+      "Orders the result set"
+    ],
+    "answer": "Filters groups after aggregation",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which type of join returns only matched rows?",
+    "options": [
+      "INNER JOIN",
+      "LEFT OUTER JOIN",
+      "RIGHT OUTER JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "INNER JOIN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What does the AS keyword do in SQL?",
+    "options": [
+      "Filters rows",
+      "Renames attributes or tables",
+      "Joins tables",
+      "Groups rows into categories"
+    ],
+    "answer": "Renames attributes or tables",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "How do you retain duplicate rows in a UNION operation?",
+    "options": [
+      "Use UNION DISTINCT",
+      "Use UNION ALL",
+      "Use EXCEPT",
+      "Use INTERSECT"
+    ],
+    "answer": "Use UNION ALL",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which aggregate function finds the highest value in a column?",
+    "options": [
+      "MIN()",
+      "COUNT()",
+      "MAX()",
+      "AVG()"
+    ],
+    "answer": "MAX()",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What is returned by a FULL OUTER JOIN?",
+    "options": [
+      "Only matched rows",
+      "Matched rows and unmatched rows from both tables",
+      "Only unmatched rows",
+      "Rows from the left table only"
+    ],
+    "answer": "Matched rows and unmatched rows from both tables",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL statement is used to retrieve data from a database?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "answer": "SELECT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What is the default sorting order of the ORDER BY clause in SQL?",
+    "options": [
+      "Descending",
+      "Ascending",
+      "Random",
+      "Alphabetical"
+    ],
+    "answer": "Ascending",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL clause is used to filter records?",
+    "options": [
+      "ORDER BY",
+      "GROUP BY",
+      "WHERE",
+      "HAVING"
+    ],
+    "answer": "WHERE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL keyword is used to prevent duplicate records from being included in the results?",
+    "options": [
+      "DISTINCT",
+      "UNIQUE",
+      "DIFFERENT",
+      "NO_DUPLICATE"
+    ],
+    "answer": "DISTINCT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What is the purpose of the GROUP BY clause in SQL?",
+    "options": [
+      "To filter records",
+      "To sort records",
+      "To group rows that have the same values into summary rows",
+      "To combine rows from multiple tables"
+    ],
+    "answer": "To group rows that have the same values into summary rows",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which function is used to find the average value of a numeric column in SQL?",
+    "options": [
+      "SUM",
+      "COUNT",
+      "AVG",
+      "MAX"
+    ],
+    "answer": "AVG",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL command is used to modify existing records in a table?",
+    "options": [
+      "UPDATE",
+      "INSERT",
+      "DELETE",
+      "ALTER"
+    ],
+    "answer": "UPDATE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "In SQL, which of the following is used to create a new table?",
+    "options": [
+      "CREATE TABLE",
+      "ADD TABLE",
+      "MAKE TABLE",
+      "NEW TABLE"
+    ],
+    "answer": "CREATE TABLE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What is a stored procedure in SQL?",
+    "options": [
+      "A command used to retrieve data from a table",
+      "A precompiled collection of one or more SQL statements",
+      "A command used to create a table",
+      "A function that returns a single value"
+    ],
+    "answer": "A precompiled collection of one or more SQL statements",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL keyword is used to create a new stored procedure?",
+    "options": [
+      "CREATE PROCEDURE",
+      "NEW PROCEDURE",
+      "DEFINE PROCEDURE",
+      "MAKE PROCEDURE"
+    ],
+    "answer": "CREATE PROCEDURE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "How do you execute a stored procedure in SQL?",
+    "options": [
+      "EXECUTE procedure_name;",
+      "RUN procedure_name;",
+      "CALL procedure_name;",
+      "APPLY procedure_name;"
+    ],
+    "answer": "EXECUTE procedure_name;",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which SQL command is used to modify an existing stored procedure?",
+    "options": [
+      "ALTER PROCEDURE",
+      "MODIFY PROCEDURE",
+      "UPDATE PROCEDURE",
+      "CHANGE PROCEDURE"
+    ],
+    "answer": "ALTER PROCEDURE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "What is a common benefit of using stored procedures?",
+    "options": [
+      "They ensure data integrity automatically.",
+      "They improve performance by reducing network traffic and enabling reuse of execution plans.",
+      "They automatically generate indexes for tables.",
+      "They provide real-time data synchronization across different servers."
+    ],
+    "answer": "They improve performance by reducing network traffic and enabling reuse of execution plans.",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which clause is used to define an input parameter for a stored procedure in SQL Server?",
+    "options": [
+      "IN",
+      "INPUT",
+      "PARAMETER",
+      "ARGUMENT"
+    ],
+    "answer": "IN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which clause is used to define an output parameter for a stored procedure in SQL Server?",
+    "options": [
+      "OUT",
+      "OUTPUT",
+      "RETURN",
+      "RESULT"
+    ],
+    "answer": "OUT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Can a stored procedure call another stored procedure?",
+    "options": [
+      "No, stored procedures cannot call other stored procedures.",
+      "Yes, a stored procedure can call another stored procedure.",
+      "Yes, but only if they are in the same schema.",
+      "No, this is restricted by database management systems."
+    ],
+    "answer": "Yes, a stored procedure can call another stored procedure.",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The GROUP BY clause can only be used with aggregate functions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The ORDER BY clause sorts results in ascending order by default.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The LIKE operator is used for numeric comparisons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Using UNION automatically eliminates duplicate rows from the result.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The COUNT(*) function ignores NULL values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The FROM clause specifies the tables to be used in a query.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "SUM() can be used on columns with string data types.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The HAVING clause can filter rows before they are grouped.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "A NATURAL JOIN automatically matches columns with the same name in the joined tables.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The INTERSECT operation includes all rows from both queries, even if they don't match.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "In a LEFT OUTER JOIN, unmatched rows from the left table are included with NULL values for missing data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The DISTINCT keyword removes duplicate rows from a result set.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The MIN() function can be used to find the smallest value in a column.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "The FULL OUTER JOIN excludes unmatched rows.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "A self-join requires table aliases to distinguish between instances of the same table.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 7: SQL"]
+  },
+  {
+    "question": "Which type of join includes unmatched rows from the left table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT OUTER JOIN",
+      "RIGHT OUTER JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "LEFT OUTER JOIN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What does a NATURAL JOIN do?",
+    "options": [
+      "Matches rows based on specified conditions",
+      "Matches rows automatically using common column names",
+      "Includes all rows from both tables",
+      "Returns only unmatched rows"
+    ],
+    "answer": "Matches rows automatically using common column names",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "In a FULL OUTER JOIN, unmatched rows:",
+    "options": [
+      "Are excluded from the result set",
+      "Appear only from the left table",
+      "Appear from both tables with NULLs for missing values",
+      "Appear only from the right table"
+    ],
+    "answer": "Appear from both tables with NULLs for missing values",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which query finds all employees in the CS department?",
+    "options": [
+      "SELECT * FROM EMP WHERE Dept = 'CS';",
+      "SELECT * FROM EMP WHERE Dept = 'CS';",
+      "SELECT Dept FROM EMP WHERE Dept = 'CS';",
+      "SELECT COUNT(*) FROM EMP WHERE Dept = 'CS';"
+    ],
+    "answer": "SELECT * FROM EMP WHERE Dept = 'CS';",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What is required for a self-join?",
+    "options": [
+      "A FULL OUTER JOIN",
+      "Table aliases",
+      "Aggregate functions",
+      "DISTINCT keyword"
+    ],
+    "answer": "Table aliases",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which aggregate function is used to count unique, non-NULL values?",
+    "options": [
+      "COUNT(*)",
+      "COUNT(ALL)",
+      "COUNT(DISTINCT)",
+      "COUNT(NULL)"
+    ],
+    "answer": "COUNT(DISTINCT)",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What does the HAVING clause do in an SQL query?",
+    "options": [
+      "Filters rows before aggregation",
+      "Filters groups after aggregation",
+      "Groups rows into categories",
+      "Orders the result set"
+    ],
+    "answer": "Filters groups after aggregation",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which keyword is used to eliminate duplicate rows in a query result?",
+    "options": [
+      "UNIQUE",
+      "DISTINCT",
+      "FILTER",
+      "GROUP BY"
+    ],
+    "answer": "DISTINCT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What is the default sorting order of the ORDER BY clause?",
+    "options": [
+      "Descending",
+      "Ascending",
+      "Random",
+      "Grouped"
+    ],
+    "answer": "Ascending",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which SQL keyword is used to combine rows from two or more tables based on a related column?",
+    "options": [
+      "COMBINE",
+      "JOIN",
+      "UNION",
+      "CONNECT"
+    ],
+    "answer": "JOIN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What is the purpose of the ON clause in a join?",
+    "options": [
+      "To filter groups of data",
+      "To specify conditions for joining tables",
+      "To sort query results",
+      "To calculate aggregate values"
+    ],
+    "answer": "To specify conditions for joining tables",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which type of join returns only the matching rows from both tables?",
+    "options": [
+      "FULL OUTER JOIN",
+      "INNER JOIN",
+      "LEFT OUTER JOIN",
+      "CROSS JOIN"
+    ],
+    "answer": "INNER JOIN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which SQL clause is used to group rows sharing a property?",
+    "options": [
+      "GROUP BY",
+      "HAVING",
+      "ORDER BY",
+      "DISTINCT"
+    ],
+    "answer": "GROUP BY",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What does the LIKE operator with % signify in a condition?",
+    "options": [
+      "Match exactly one character",
+      "Match a substring",
+      "Match numeric values only",
+      "Match NULL values"
+    ],
+    "answer": "Match a substring",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which SQL operation removes duplicates from combined results of multiple queries?",
+    "options": [
+      "UNION ALL",
+      "UNION",
+      "INTERSECT",
+      "EXCEPT"
+    ],
+    "answer": "UNION",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What does the SQL JOIN operation do?",
+    "options": [
+      "Combines rows from two or more tables based on a related column",
+      "Inserts rows into a table",
+      "Updates data in a table",
+      "Deletes rows from a table"
+    ],
+    "answer": "Combines rows from two or more tables based on a related column",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "A LEFT OUTER JOIN returns only rows that match the condition.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A RIGHT OUTER JOIN includes unmatched rows from the right table.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A FULL OUTER JOIN includes unmatched rows from both tables.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A self-join cannot use aliases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The SUM() function can be used to calculate the total salary for a department.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A NATURAL JOIN matches rows based on common column names without specifying conditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The WHERE clause is used to filter groups after aggregation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "COUNT(*) counts only non-NULL values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The ON clause is mandatory in all joins.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "Using DISTINCT removes duplicate rows from the result set.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "Aggregate functions like AVG() and SUM() can be used without a GROUP BY clause.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The LIKE operator is used for pattern matching in string comparisons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A UNION operation includes duplicate rows by default.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The HAVING clause can be used without a GROUP BY clause.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A RIGHT OUTER JOIN includes unmatched rows from the left table with NULL values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The GROUP BY clause groups rows based on unique values in specified columns.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The HAVING clause cannot filter rows without aggregation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The ORDER BY clause can sort data based on multiple columns.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A CROSS JOIN combines all rows from two tables, creating a Cartesian product.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A DISTINCT keyword can be used in aggregate functions like COUNT.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "What is the primary purpose of a Subquery?",
+    "options": [
+      "To improve database performance",
+      "To create new tables",
+      "To provide a condition based on data within the table itself",
+      "To improve query readability"
+    ],
+    "answer": "To provide a condition based on data within the table itself",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Where can Subqueries be used in SQL?",
+    "options": [
+      "In the SELECT statement only",
+      "In the INSERT statement only",
+      "In WHERE, HAVING, and FROM clauses",
+      "Subqueries cannot be used in SQL"
+    ],
+    "answer": "In WHERE, HAVING, and FROM clauses",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which of the following statements about Subqueries is true?",
+    "options": [
+      "Subqueries always return a single value",
+      "Subqueries can replace JOINs in some cases",
+      "Subqueries cannot be nested",
+      "Subqueries always execute last"
+    ],
+    "answer": "Subqueries can replace JOINs in some cases",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What will the following query return?",
+    "snippet": "SELECT name\nFROM employees\nWHERE salary > (SELECT AVG(salary) FROM employees);",
+    "renderSnippet": false,
+    "options": [
+      "All employees with the highest salary",
+      "Employees earning more than the average salary",
+      "Employees earning less than the average salary",
+      "The average salary itself"
+    ],
+    "answer": "Employees earning more than the average salary",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which type of Subquery can return more than one row?",
+    "options": [
+      "Scalar Subquery",
+      "Correlated Subquery",
+      "Multi-row Subquery",
+      "Inline Subquery"
+    ],
+    "answer": "Multi-row Subquery",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which operator is commonly used with multi-row Subqueries?",
+    "options": [
+      "IN",
+      "LIKE",
+      "BETWEEN",
+      "AND"
+    ],
+    "answer": "IN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What will happen if a Subquery returns NULL in a comparison?",
+    "options": [
+      "The condition evaluates to TRUE",
+      "The condition evaluates to FALSE",
+      "The condition evaluates to UNKNOWN",
+      "An error will occur"
+    ],
+    "answer": "The condition evaluates to UNKNOWN",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which of the following is true about Correlated Subqueries?",
+    "options": [
+      "They execute independently of the outer query",
+      "They are executed once for each row in the outer query",
+      "They cannot be used in the SELECT clause",
+      "They must always return a single value"
+    ],
+    "answer": "They are executed once for each row in the outer query",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "In which clause can a Subquery NOT be used?",
+    "options": [
+      "SELECT",
+      "WHERE",
+      "GROUP BY",
+      "HAVING"
+    ],
+    "answer": "GROUP BY",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What will the following query return?\nSELECT name\nFROM employees\nWHERE department_id = (SELECT department_id FROM departments WHERE department_name = 'HR');",
+    "options": [
+      "Names of employees in all departments",
+      "Names of employees in the HR department",
+      "All employee names regardless of department",
+      "Nothing, because Subqueries cannot be used with WHERE"
+    ],
+    "answer": "Names of employees in the HR department",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which keyword is required to use a Subquery in the FROM clause?",
+    "options": [
+      "WHERE",
+      "AS",
+      "BY",
+      "HAVING"
+    ],
+    "answer": "AS",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What does the following query do?\nSELECT *\nFROM employees\nWHERE salary > ALL (SELECT salary FROM employees WHERE department_id = 1);",
+    "options": [
+      "Selects employees earning less than everyone in department 1",
+      "Selects employees earning more than everyone in department 1",
+      "Selects employees with the highest salary in department 1",
+      "Returns an error because ALL cannot be used here"
+    ],
+    "answer": "Selects employees earning more than everyone in department 1",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "What will a Subquery with EXISTS return?",
+    "options": [
+      "TRUE if the Subquery returns any rows",
+      "The first value of the Subquery",
+      "All rows from the Subquery",
+      "An error if no rows are returned"
+    ],
+    "answer": "TRUE if the Subquery returns any rows",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "Which of the following is NOT a valid Subquery type?",
+    "options": [
+      "Scalar Subquery",
+      "Inline Subquery",
+      "Correlated Subquery",
+      "Aggregate Subquery"
+    ],
+    "answer": "Aggregate Subquery",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery inside a SELECT statement must always:",
+    "options": [
+      "Return a single value",
+      "Return multiple values",
+      "Be used with aggregate functions",
+      "Be placed inside parentheses"
+    ],
+    "answer": "Be placed inside parentheses",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery can return multiple rows in a SELECT clause.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery must always use the keyword AS.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "You can use a Subquery inside a JOIN clause.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Correlated Subquery depends on the outer query for its values.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Scalar Subquery can return multiple rows.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The IN operator can be used with multi-row Subqueries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Correlated Subquery executes only once regardless of the outer query.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The EXISTS operator is faster than the IN operator in all cases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery inside the WHERE clause must always be enclosed in parentheses.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "You cannot use aggregate functions like SUM() or AVG() inside a Subquery.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery can replace a JOIN in some cases.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "The ANY and ALL operators can be used with comparison operators in Subqueries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "Using a Subquery in the FROM clause is also known as an Inline View.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "A Subquery cannot return NULL as a result.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 8"]
+  },
+  {
+    "question": "What happens when a view is created?",
+    "options": [
+      "A physical table is created in the database",
+      "Only the query definition is stored",
+      "Data is permanently stored in the view",
+      "The database is updated"
+    ],
+    "answer": "Only the query definition is stored",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What is the correct syntax for deleting a view?",
+    "options": [
+      "DELETE VIEW view_name",
+      "DROP TABLE view_name",
+      "DROP VIEW view_name",
+      "REMOVE VIEW view_name"
+    ],
+    "answer": "DROP VIEW view_name",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Why are views important for database security?",
+    "options": [
+      "They encrypt the data in tables",
+      "They allow selective data access",
+      "They physically hide tables",
+      "They modify user permissions automatically"
+    ],
+    "answer": "They allow selective data access",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which SQL clause is essential in creating a view?",
+    "options": [
+      "WHERE",
+      "FROM",
+      "AS",
+      "GROUP BY"
+    ],
+    "answer": "AS",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What is a major benefit of stored procedures?",
+    "options": [
+      "They create new tables automatically",
+      "They reduce the need for database indexing",
+      "They improve data security and reuse",
+      "They allow direct data modification without SQL"
+    ],
+    "answer": "They improve data security and reuse",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What is the maximum number of parameters a stored procedure can have?",
+    "options": [
+      "None",
+      "One",
+      "Unlimited",
+      "Depends on the database"
+    ],
+    "answer": "Unlimited",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "How do you call a stored procedure with parameters?",
+    "options": [
+      "EXEC procedure_name(param1, param2)",
+      "CALL procedure_name(param1, param2)",
+      "RUN procedure_name(param1, param2)",
+      "SELECT procedure_name(param1, param2)"
+    ],
+    "answer": "EXEC procedure_name(param1, param2)",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which part of a stored procedure contains variable declarations?",
+    "options": [
+      "Header",
+      "Body",
+      "Parameter list",
+      "BEGIN block"
+    ],
+    "answer": "Parameter list",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What keyword is used to define the executable statements in a stored procedure?",
+    "options": [
+      "EXEC",
+      "AS",
+      "BEGIN",
+      "RUN"
+    ],
+    "answer": "AS",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "A stored procedure can:",
+    "options": [
+      "Be shared among multiple users",
+      "Only execute SELECT statements",
+      "Be slower than inline SQL queries",
+      "Never have parameters"
+    ],
+    "answer": "Be shared among multiple users",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "If you want to create a view showing only students who are enrolled in a course, what should your query include?",
+    "options": [
+      "A JOIN between Students and Courses tables",
+      "A GROUP BY clause",
+      "An INSERT INTO statement",
+      "A HAVING clause"
+    ],
+    "answer": "A JOIN between Students and Courses tables",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which of the following is an example of calling a stored procedure with a parameter?",
+    "options": [
+      "EXEC view_name(param)",
+      "EXEC procedure_name 'USA'",
+      "SELECT procedure_name 'USA'",
+      "CALL procedure_name USA"
+    ],
+    "answer": "EXEC procedure_name 'USA'",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What will happen if you try to create a view with invalid table names?",
+    "options": [
+      "The view will be created without errors",
+      "An error will occur",
+      "The view will automatically fix table names",
+      "The view will store only valid columns"
+    ],
+    "answer": "An error will occur",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which keyword is mandatory in both views and stored procedures?",
+    "options": [
+      "SELECT",
+      "DROP",
+      "DELETE",
+      "UPDATE"
+    ],
+    "answer": "SELECT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "A stored procedure that calculates total sales for a specific country is called using:",
+    "options": [
+      "SELECT procedure_name(country)",
+      "EXEC procedure_name 'country'",
+      "EXEC sales_total(country)",
+      "EXEC calculate_sales 'country'"
+    ],
+    "answer": "EXEC procedure_name 'country'",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What does the CREATE VIEW command do?",
+    "options": [
+      "Modifies the existing database table",
+      "Creates a virtual table based on a query",
+      "Deletes data from a table",
+      "Merges data from multiple databases"
+    ],
+    "answer": "Creates a virtual table based on a query",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which of the following statements is true about stored procedures?",
+    "options": [
+      "They can return values to the caller",
+      "They cannot include parameters",
+      "They are not reusable",
+      "They do not improve security"
+    ],
+    "answer": "They can return values to the caller",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "What is the advantage of using views?",
+    "options": [
+      "Faster query execution",
+      "Customizable data access for users",
+      "Permanent data storage",
+      "Simplified database maintenance"
+    ],
+    "answer": "Customizable data access for users",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Stored procedures can include:",
+    "options": [
+      "Data encryption logic",
+      "Control-of-flow statements like loops",
+      "Physical table modifications",
+      "Automated backups"
+    ],
+    "answer": "Control-of-flow statements like loops",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "Which part of the view definition allows filtering of data?",
+    "options": [
+      "SELECT statement",
+      "FROM clause",
+      "WHERE condition",
+      "GROUP BY clause"
+    ],
+    "answer": "WHERE condition",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 10"]
+  },
+  {
+    "question": "A view is stored as a permanent table in the database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "The CREATE VIEW statement can include filtering conditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Views can only be used for SELECT queries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Stored procedures enhance security by reducing direct table access.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "A stored procedure cannot return data.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "The EXEC keyword is used to call a stored procedure.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Stored procedures are slower than ad hoc queries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "A view cannot include data from multiple tables.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Every stored procedure must have at least one parameter.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "A stored procedure's body starts with the keyword AS.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Views help simplify complex queries by creating virtual tables.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Stored procedures cannot include conditional logic like IF statements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "The DROP VIEW command deletes the actual table in the database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "Views cannot be updated once created.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "A stored procedure can take zero or more parameters.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 10"]
+  },
+  {
+    "question": "What is a SQL trigger?",
+    "options": [
+      "A type of stored procedure called explicitly",
+      "A mechanism to schedule jobs",
+      "A stored procedure executed automatically on specific events",
+      "A query optimizer tool"
+    ],
+    "answer": "A stored procedure executed automatically on specific events",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is the main difference between a trigger and a stored procedure?",
+    "options": [
+      "Triggers are faster than stored procedures",
+      "Triggers are automatically invoked; stored procedures must be called explicitly",
+      "Triggers are stored outside the database",
+      "Stored procedures can only handle DML events"
+    ],
+    "answer": "Triggers are automatically invoked; stored procedures must be called explicitly",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which type of trigger runs during DDL events?",
+    "options": [
+      "DML Trigger",
+      "Logon Trigger",
+      "DDL Trigger",
+      "Composite Trigger"
+    ],
+    "answer": "DDL Trigger",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What type of event activates a DML Trigger?",
+    "options": [
+      "CREATE, ALTER, DROP",
+      "INSERT, UPDATE, DELETE",
+      "Login events",
+      "Query execution"
+    ],
+    "answer": "INSERT, UPDATE, DELETE",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which trigger is executed instead of the firing statement?",
+    "options": [
+      "FOR trigger",
+      "AFTER trigger",
+      "INSTEAD OF trigger",
+      "BEFORE trigger"
+    ],
+    "answer": "INSTEAD OF trigger",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is the purpose of an AFTER trigger?",
+    "options": [
+      "To execute before a statement",
+      "To execute in place of a statement",
+      "To execute after the statement finishes",
+      "To roll back the transaction"
+    ],
+    "answer": "To execute after the statement finishes",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "When does a Logon trigger execute?",
+    "options": [
+      "During an INSERT statement",
+      "When a user logs into the database",
+      "When a table is altered",
+      "During an UPDATE statement"
+    ],
+    "answer": "When a user logs into the database",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which syntax is correct for creating a trigger?",
+    "options": [
+      "CREATE TRIGGER trigger_name ON table_name AFTER INSERT AS code",
+      "CREATE PROCEDURE trigger_name AS code",
+      "CREATE FUNCTION trigger_name ON table_name AS code",
+      "CREATE EVENT trigger_name FOR table_name AS code"
+    ],
+    "answer": "CREATE TRIGGER trigger_name ON table_name AFTER INSERT AS code",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What does the COMMIT command do in a transaction?",
+    "options": [
+      "Saves the changes permanently",
+      "Undoes all changes in the transaction",
+      "Starts a new transaction",
+      "Checks for errors in the transaction"
+    ],
+    "answer": "Saves the changes permanently",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What happens if an error occurs during a transaction?",
+    "options": [
+      "The transaction automatically commits",
+      "The transaction automatically rolls back",
+      "Only part of the transaction executes",
+      "The database remains locked"
+    ],
+    "answer": "The transaction automatically rolls back",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which of the following triggers replaces the firing statement?",
+    "options": [
+      "FOR trigger",
+      "AFTER trigger",
+      "INSTEAD OF trigger",
+      "BEFORE trigger"
+    ],
+    "answer": "INSTEAD OF trigger",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What does a transaction ensure in SQL?",
+    "options": [
+      "Partial data integrity",
+      "Execution of commands in a random order",
+      "Atomicity, Consistency, Isolation, Durability (ACID)",
+      "Automatic error resolution"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability (ACID)",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which command is used to end a transaction successfully?",
+    "options": [
+      "END",
+      "COMMIT",
+      "CLOSE",
+      "FINISH"
+    ],
+    "answer": "COMMIT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "In SQL, what does the BEGIN TRANSACTION statement do?",
+    "options": [
+      "Starts a database connection",
+      "Begins a group of commands treated as a single unit",
+      "Commits the transaction",
+      "Ends a transaction"
+    ],
+    "answer": "Begins a group of commands treated as a single unit",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which of the following is NOT a step in transaction processing?",
+    "options": [
+      "Begin the transaction",
+      "Commit changes",
+      "Rerun failed commands automatically",
+      "Rollback if errors occur"
+    ],
+    "answer": "Rerun failed commands automatically",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is the purpose of the ROLLBACK command?",
+    "options": [
+      "To start a transaction",
+      "To undo changes in a transaction",
+      "To save the changes made during the transaction",
+      "To check for errors in a transaction"
+    ],
+    "answer": "To undo changes in a transaction",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "How does a trigger enhance data integrity?",
+    "options": [
+      "By automatically executing specific logic on database events",
+      "By accepting user input for data modifications",
+      "By creating backup copies of tables",
+      "By monitoring database performance"
+    ],
+    "answer": "By automatically executing specific logic on database events",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What type of SQL event activates a DDL trigger?",
+    "options": [
+      "INSERT, UPDATE, DELETE",
+      "CREATE, ALTER, DROP",
+      "Logon events",
+      "SELECT queries"
+    ],
+    "answer": "CREATE, ALTER, DROP",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "AFTER triggers execute after the firing statement finishes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "categories": ["Final Questions", "True & False", "Chapter 11"]
+  },
+  {
+    "question": "What happens to the balance of Account Number 123?",
+    "snippet": "BEGIN TRANSACTION;\nUPDATE Account SET Balance = Balance + 100 WHERE Account Number = 123;\nROLLBACK;",
+    "renderSnippet": false,
+    "options": [
+      "The balance increases by 100",
+      "The balance remains unchanged",
+      "An error occurs",
+      "The database crashes"
+    ],
+    "answer": "The balance remains unchanged",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "What is a transaction in the context of a database management system (DBMS)?",
+    "options": [
+      "A single SQL command executed independently",
+      "A sequence of operations performed as a single logical unit of work",
+      "A method for optimizing database queries",
+      "A backup operation on the database"
+    ],
+    "answer": "A sequence of operations performed as a single logical unit of work",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11", "Test"]
+  },
+  {
+    "question": "Which SQL command is used to start a new transaction?",
+    "options": [
+      "BEGIN TRANSACTION",
+      "START TRANSACTION",
+      "INIT TRANSACTION",
+      "OPEN TRANSACTION"
+    ],
+    "answer": "BEGIN TRANSACTION",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which SQL command is used to commit a transaction?",
+    "options": [
+      "COMMIT",
+      "FINALIZE",
+      "SAVE",
+      "END TRANSACTION"
+    ],
+    "answer": "COMMIT",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  },
+  {
+    "question": "Which SQL command is used to roll back a transaction?",
+    "options": [
+      "REVERT",
+      "ROLLBACK",
+      "UNDO",
+      "CANCEL"
+    ],
+    "answer": "ROLLBACK",
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+  }
+]
