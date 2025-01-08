@@ -404,6 +404,10 @@ body.popup-active::before {
     background-color: #0056b3;
 }
 
+#filter-buttons {
+    margin-top: 10px;
+}
+
 @media screen and (max-width: 600px) {
     #filter-popup {
         width: 80%; /* Smaller popup for small screens */
