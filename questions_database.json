@@ -2611,7 +2611,7 @@
       "The average salary itself"
     ],
     "answer": "Employees earning more than the average salary",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 8"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 8", "Test"]
   },
   {
     "question": "Which type of Subquery can return more than one row?",
@@ -3433,7 +3433,7 @@
       "The database crashes"
     ],
     "answer": "The balance remains unchanged",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11", "Test"]
   },
   {
     "question": "What is a transaction in the context of a database management system (DBMS)?",
@@ -3444,7 +3444,7 @@
       "A backup operation on the database"
     ],
     "answer": "A sequence of operations performed as a single logical unit of work",
-    "categories": ["Final Questions", "M.C.Q.", "Chapter 11", "Test"]
+    "categories": ["Final Questions", "M.C.Q.", "Chapter 11"]
   },
   {
     "question": "Which SQL command is used to start a new transaction?",
