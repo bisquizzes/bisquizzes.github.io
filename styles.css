@@ -209,6 +209,8 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     width: 90%;
     max-width: 400px;
+    max-height: 90vh; /* Restrict height for all popups */
+    overflow-y: auto; /* Allow scrolling if needed */
     box-sizing: border-box;
     text-align: center;
 }
@@ -305,9 +307,19 @@ body {
 
 /* Popup styling */
 #filter-popup {
+    display: none; /* Hidden by default */
+    position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); /* Center horizontally and vertically */
+    z-index: 1001; /* Ensure it's above other elements */
+}
+
+/* Prevent Body Scrolling When Popup is Active */
+body.popup-active {
+    overflow: hidden;
+    position: fixed; /* Prevent scrolling on main page */
+    width: 100%; /* Prevent body shift due to scrollbar removal */
 }
 
 body.popup-active::before {
