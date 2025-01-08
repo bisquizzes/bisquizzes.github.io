@@ -223,7 +223,7 @@ function loadNewQuestion() {
 
     const importantMarker = document.getElementById('important-marker');
     if (isImportantQuestion(currentQuestion)) {
-        importantMarker.style.display = 'flex';
+        importantMarker.style.display = 'inline-block';
     } else {
         importantMarker.style.display = 'none';
     }
