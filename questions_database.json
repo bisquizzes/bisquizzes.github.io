@@ -3872,6 +3872,7 @@
   {
     "question": "Which of the following is a comparison operator in SQL?",
     "options": [
+      "="
       "LIKE",
       "BETWEEN",
       "All of the above"
