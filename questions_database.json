@@ -2339,7 +2339,7 @@
             "PARAMETER",
             "ARGUMENT"
         ],
-        "answer": "IN",
+        "answer": "INPUT",
         "categories": [
             "Final Questions",
             "M.C.Q.",
@@ -2354,7 +2354,7 @@
             "RETURN",
             "RESULT"
         ],
-        "answer": "OUT",
+        "answer": "OUTPUT",
         "categories": [
             "Final Questions",
             "M.C.Q.",
