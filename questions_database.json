@@ -2620,7 +2620,7 @@
         "question": "Which query finds all employees in the CS department?",
         "options": [
             "SELECT * FROM EMP WHERE Dept = 'CS';",
-            "SELECT * FROM EMP WHERE Dept = 'CS';",
+            "SELECT salary FROM EMP WHERE Dept = 'CS';",
             "SELECT Dept FROM EMP WHERE Dept = 'CS';",
             "SELECT COUNT(*) FROM EMP WHERE Dept = 'CS';"
         ],
