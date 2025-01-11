@@ -3240,7 +3240,7 @@
         ]
     },
     {
-        "question": "What does the following query do?\nSELECT *\nFROM employees\nWHERE salary > ALL (SELECT salary FROM employees WHERE department_id = 1);",
+        "question": "What does the following query do?",
         "options": [
             "Selects employees earning less than everyone in department 1",
             "Selects employees earning more than everyone in department 1",
@@ -3248,10 +3248,13 @@
             "Returns an error because ALL cannot be used here"
         ],
         "answer": "Selects employees earning more than everyone in department 1",
+        "snippet": "SELECT *\nFROM employees\nWHERE salary > ALL (SELECT salary FROM employees WHERE department_id = 1);",
+        "renderSnippet": false,
         "categories": [
             "Final Questions",
             "M.C.Q.",
-            "Chapter 8"
+            "Chapter 8",
+            "SQL Snippet"
         ]
     },
     {
