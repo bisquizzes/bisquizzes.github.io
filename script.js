@@ -67,7 +67,7 @@ function renderSnippet() {
 // Function to Load Questions
 async function loadQuestions() {
     try {
-        const response = await fetch('questions_digitaleconomics');
+        const response = await fetch('questions_digitaleconomics.json');
         questions = await response.json();
     } catch (error) {
         console.error('Error loading questions:', error);
