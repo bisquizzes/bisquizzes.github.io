@@ -15,7 +15,7 @@ let examTimer;
 let examTimeLeft = 3600;
 let examEnded = false;
 let selectedCategories = ["All"];
-const importantCategories = ["Important"];
+const importantCategories = ["Lecture Questions"];
 
 // DOM Elements
 const questionLabel = document.getElementById('question-label');
@@ -67,7 +67,7 @@ function renderSnippet() {
 // Function to Load Questions
 async function loadQuestions() {
     try {
-        const response = await fetch('questions_database.json');
+        const response = await fetch('questions_digitaleconomics');
         questions = await response.json();
     } catch (error) {
         console.error('Error loading questions:', error);

@@ -1,0 +1,3937 @@
+[
+    {
+        "question": "\"Digital Economy\" refers to",
+        "options": [
+            "the convergence of computing and communications technologies and the resulting flow of information and technology.",
+            "the use of advanced analytical techniques to analyze numbers.",
+            "the conversion of traditional products into digital products.",
+            "the development of financial instruments which are easily divisible."
+        ],
+        "answer": "the convergence of computing and communications technologies and the resulting flow of information and technology.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Information overload is an example of business pressure from the _____ category.",
+        "options": [
+            "market",
+            "society",
+            "technology",
+            "economic"
+        ],
+        "answer": "technology",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A B2B marketplace owned by neither the buyer nor seller and includes many buyers and sellers are called:",
+        "options": [
+            "a public e-marketplace.",
+            "a consortium.",
+            "a private e-marketplace.",
+            "an information portal."
+        ],
+        "answer": "a public e-marketplace.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The primary category of product purchased through e-distributors is:",
+        "options": [
+            "maintenance, repair, and operation items.",
+            "raw materials.",
+            "human resources.",
+            "information resources."
+        ],
+        "answer": "information resources.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Reintermediation occurs when:",
+        "options": [
+            "the power of existing intermediaries increases.",
+            "direct interactions between buyers and sellers are replacing the role of intermediaries.",
+            "new uses are discovered for mature products.",
+            "new kinds of intermediaries emerge."
+        ],
+        "answer": "direct interactions between buyers and sellers are replacing the role of intermediaries.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Reverse auctions are effective when:",
+        "options": [
+            "There is a single seller and many buyers.",
+            "There is a single buyer and many potential sellers.",
+            "The buyer and seller are from different industries.",
+            "There is one buyer and one seller."
+        ],
+        "answer": "There is a single buyer and many potential sellers.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The degree to which a customer will continue to buy from a specific vendor over time is called customer:",
+        "options": [
+            "trust.",
+            "satisfaction.",
+            "loyalty.",
+            "relationship strength."
+        ],
+        "answer": "loyalty.",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Internet payments for items costing from a few cents to approximately a dollar is called ____. ",
+        "options": [
+            "microtransactions",
+            "micropayments",
+            "Mini transactions",
+            "Mini payments"
+        ],
+        "answer": "microtransactions",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "____ is electronic junk mail, also known as unsolicited commercial e-mail.",
+        "options": [
+            "Spam",
+            "CGI",
+            "Java",
+            "VPN"
+        ],
+        "answer": "Spam",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A(n) ____ can be an elaborate smart card with a microchip or a plastic card with a magnetic strip that records the currency balance.",
+        "options": [
+            "electronic card",
+            "virtual card",
+            "stored value card",
+            "credit card"
+        ],
+        "answer": "stored value card",
+        "categories": [
+            "M.C.Q.",
+            "Lecture Questions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Application servers are usually grouped into two types: page-based and ____.",
+        "options": [
+            "script-based",
+            "server-based",
+            "group-based",
+            "component-based"
+        ],
+        "answer": "component-based",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A(n) ____ electronic wallet stores a consumer's information on his/her own computer.",
+        "options": [
+            "virtual",
+            "client-side",
+            "server-side",
+            "online"
+        ],
+        "answer": "client-side",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "One way to be able to trace electronic cash is to attach a(n) ____ to each electronic cash transaction.",
+        "options": [
+            "watermark",
+            "serial number",
+            "name",
+            "digital certificate"
+        ],
+        "answer": "serial number",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Which of the following provides a connection between e-commerce software and a company's existing accounting system?",
+        "options": [
+            "Software",
+            "Endware",
+            "Firmware",
+            "Middleware"
+        ],
+        "answer": "Middleware",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A(n) ____ attack occurs when hundreds or even thousands of people each send a message to a particular address.",
+        "options": [
+            "mail bomb",
+            "nuisance",
+            "e-mail",
+            "mass mail"
+        ],
+        "answer": "mail bomb",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "All of the following are examples of online customer service metrics EXCEPT:",
+        "options": [
+            "navigability",
+            "response time",
+            "product failure rate",
+            "site availability"
+        ],
+        "answer": "product failure rate",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "B2B purchases involving long-term contracts developed through negotiations are called:",
+        "options": [
+            "spot buying",
+            "strategic sourcing",
+            "supply chain integration",
+            "customized buying"
+        ],
+        "answer": "strategic sourcing",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "B2B transactions characterized by sharing of information between partners is called:",
+        "options": [
+            "sell-side commerce",
+            "buy-side commerce",
+            "an exchange",
+            "collaborative commerce"
+        ],
+        "answer": "collaborative commerce",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A marketplace which delivers a Web-based, private-trading sales channel to business customers are called:",
+        "options": [
+            "a buy-side marketplace",
+            "a demand-based marketplace",
+            "a sell-side marketplace",
+            "an integrated marketplace"
+        ],
+        "answer": "a buy-side marketplace",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In e-procurement, administrative processing costs per order should:",
+        "options": [
+            "decline sharply",
+            "increase sharply",
+            "not be impacted by the implementation of e-procurement",
+            "be totally eliminated"
+        ],
+        "answer": "decline sharply",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Most companies begin e-procurement with:",
+        "options": [
+            "indirect materials",
+            "raw materials",
+            "MROs",
+            "direct materials"
+        ],
+        "answer": "indirect materials",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "General Electric lists the specifications for a kind of wire needed in the manufacture of light bulbs on its TPN site. GE asks potential suppliers to submit the price at which they would be willing to supply the wire. This is an example of:",
+        "options": [
+            "a forward auction",
+            "a reverse auction",
+            "a sell-side marketplace",
+            "customization"
+        ],
+        "answer": "a reverse auction",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Internet-based EDI:",
+        "options": [
+            "significantly limits the accessibility of small companies",
+            "should never be viewed as a replacement for traditional EDI",
+            "can offer wide accessibility to most companies in the world",
+            "is only successful when it replaces traditional EDI"
+        ],
+        "answer": "can offer wide accessibility to most companies in the world",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "An exchange charges an annual fee of $10,000 for all parties who want to trade in the exchange. The revenue model in use by this exchange is the:",
+        "options": [
+            "transaction fee model",
+            "fee for service model",
+            "membership fee model",
+            "advertising fee model"
+        ],
+        "answer": "membership fee model",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market maker charges a percentage on every buy and sell made in the exchange. The revenue model in place in this exchange is the:",
+        "options": [
+            "transaction fee model",
+            "fee for service model",
+            "membership fee model",
+            "advertising fee model"
+        ],
+        "answer": "transaction fee model",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market maker bills a buyer for reviewing several seller contracts and making a recommendation on what to buy and from whom. The revenue model being used in this example is the:",
+        "options": [
+            "transaction fee model",
+            "fee for service model",
+            "membership fee model",
+            "advertising fee model"
+        ],
+        "answer": "fee for service model",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The concept of liquidity for a B2B exchange is:",
+        "options": [
+            "the amount of available cash on hand at any given time",
+            "the ease with which information flows between exchange members",
+            "the volume of business conducted on the exchange",
+            "the ease with which orders can be placed, processed, and shipped using the exchange"
+        ],
+        "answer": "the volume of business conducted on the exchange",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Brand building is important in B2B exchanges because:",
+        "options": [
+            "It is easy for exchange members to change to another exchange",
+            "Exchange members typically buy only the best brands of product",
+            "Information flow is poor in most exchanges, making trust of suppliers very important",
+            "Brand loyalty toward a given product is usually more important than cost"
+        ],
+        "answer": "Information flow is poor in most exchanges, making trust of suppliers very important",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In e-commerce, the relationship between reach and richness is:",
+        "options": [
+            "either reach or richness is possible",
+            "e-commerce lends itself to increased reach only",
+            "both reach and richness are possible",
+            "e-commerce lends itself to increased richness only"
+        ],
+        "answer": "both reach and richness are possible",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The risk that an EC strategy will negatively impact existing customers or business processes are considered a:",
+        "options": [
+            "competitive risk",
+            "transition risk",
+            "customer-induced risk",
+            "business partner risk"
+        ],
+        "answer": "transition risk",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Dividing customers into various categories and offering different prices based on customer segments is the pricing strategy known as:",
+        "options": [
+            "competitive pricing",
+            "precision",
+            "adaptability",
+            "segmentation"
+        ],
+        "answer": "segmentation",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "An outsourcer that sells access to software applications is called a(n):",
+        "options": [
+            "Web sourcer",
+            "content developer",
+            "application service provider",
+            "Internet Service Provider"
+        ],
+        "answer": "application service provider",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The highest level of business partnering in strategy implementation is the formation of a(n):",
+        "options": [
+            "subsidiary",
+            "virtual corporation",
+            "SBU",
+            "e-partnership"
+        ],
+        "answer": "virtual corporation",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "An exact duplicate of the original Web site physically located on a Web server on another continent:",
+        "options": [
+            "is called a mirror site",
+            "is a standard service of ISP hosting companies",
+            "is a standard service of store builder service companies",
+            "is a standard component of self-hosting"
+        ],
+        "answer": "is called a mirror site",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The Web hosting option under which the business acquires the hardware, software, staff, and dedicated telecommunications services needed to host a Web site is called:",
+        "options": [
+            "using a store builder",
+            "ISP hosting",
+            "self-hosting",
+            "mirror hosting"
+        ],
+        "answer": "self-hosting",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The page that welcomes a visitor and introduces the site is called the:",
+        "options": [
+            "homepage",
+            "transaction page",
+            "help page",
+            "content page"
+        ],
+        "answer": "homepage",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A page that assists visitors in using or navigating through the site is called a:",
+        "options": [
+            "homepage",
+            "transaction page",
+            "help page",
+            "content page"
+        ],
+        "answer": "help page",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A page that leads customers through the purchase process is called a:",
+        "options": [
+            "homepage",
+            "transaction page",
+            "help page",
+            "content page"
+        ],
+        "answer": "transaction page",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The concept of consistency in Web site design includes:",
+        "options": [
+            "making sure all visitors consistently find what they are looking for",
+            "making sure Web pages look the same no matter which browser a customer is using",
+            "making sure customers are treated consistently when they contact customer service",
+            "making sure the messages sent to customers who contact the company are consistent"
+        ],
+        "answer": "making sure Web pages look the same no matter which browser a customer is using",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "An HTML element that describes the content of a Web page is called a(n):",
+        "options": [
+            "page title",
+            "meta tag",
+            "ALT tag",
+            "keyword"
+        ],
+        "answer": "meta tag",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "All of the following are examples of B2E EXCEPT:",
+        "options": [
+            "an employee buys her company's products at a discount through the online company store",
+            "the announcement of the appointment of a new Chief Financial Officer is disseminated over the company intranet",
+            "an employee places an order for materials from a supplier using an extranet",
+            "an employee takes a training class over an intranet"
+        ],
+        "answer": "an employee places an order for materials from a supplier using an extranet",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A corporate LAN or WAN that uses Internet technology secured behind a corporate firewall is called a(n):",
+        "options": [
+            "extranet",
+            "ERP",
+            "intranet",
+            "groupware application"
+        ],
+        "answer": "intranet",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "All of the following are potential limitations of e-auctions EXCEPT:",
+        "options": [
+            "perceived lack of security",
+            "a possibility of fraud",
+            "bidders have extraordinarily little time to make bids",
+            "limited bidding participation"
+        ],
+        "answer": "limited bidding participation",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "All of the following are characteristics of digital products EXCEPT:",
+        "options": [
+            "Digitized products are more expensive to deliver than physical products",
+            "Cycle time is reduced",
+            "There is no need to maintain physical inventory",
+            "Digital product cost structures display increasing returns and low marginal reproduction costs"
+        ],
+        "answer": "Digitized products are more expensive to deliver than physical products",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The amount of information provided to customers is called:",
+        "options": [
+            "richness",
+            "efficiency",
+            "reach",
+            "functionality"
+        ],
+        "answer": "richness",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A marketer that uses email to advertise to potential customers is called a:",
+        "options": [
+            "viral marketer",
+            "content disseminator",
+            "market maker",
+            "transaction broker"
+        ],
+        "answer": "content disseminator",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In an e-market, Federal Express is an example of a:",
+        "options": [
+            "viral marketer",
+            "content disseminator",
+            "market maker",
+            "service provider"
+        ],
+        "answer": "service provider",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The original click-and-mortar strategy employed by Toys R Us failed, as did the original toy venture of Amazon.com. Now, Toys R Us sells toys online through Amazon.com. This is an example of:",
+        "options": [
+            "disintermediation",
+            "channel conflict",
+            "a digital delivery system",
+            "an alliance of a pure player with a traditional retailer"
+        ],
+        "answer": "an alliance of a pure player with a traditional retailer",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Amazon.com utilizes a wide variety of new types of intermediaries in serving its customers. This is an example of:",
+        "options": [
+            "disintermediation",
+            "unbundling",
+            "cybermediation",
+            "hypermediation"
+        ],
+        "answer": "cybermediation",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "When its agents learn that an insurer has begun selling policies over the Internet, they threaten to resign unless the insurer stops this practice. This is an example of:",
+        "options": [
+            "channel conflict",
+            "unbundling",
+            "cybermediation",
+            "hypermediation"
+        ],
+        "answer": "channel conflict",
+        "categories": [
+            "M.C.Q.",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does the abbreviation '3G' stand for?",
+        "options": [
+            "Third Generation Mobile System",
+            "Third Group of Network Providers",
+            "Three-Gigabyte Network",
+            "Three-Generation Communication"
+        ],
+        "answer": "Third Generation Mobile System",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does '4G' refer to in telecommunications?",
+        "options": [
+            "Fourth Group of Network Providers",
+            "Fourth Generation Mobile Systems",
+            "Four-Gigabyte Network",
+            "Four Generation Communication"
+        ],
+        "answer": "Fourth Generation Mobile Systems",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does '5G' stand for?",
+        "options": [
+            "Fifth Group of Network Providers",
+            "Five-Gigabyte Network",
+            "Fifth Generation Mobile Systems",
+            "Five Generation Communication"
+        ],
+        "answer": "Fifth Generation Mobile Systems",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is the full form of 'ADSL'?",
+        "options": [
+            "Asymmetric Data Subscriber Line",
+            "Asymmetric Digital Subscriber Line",
+            "Advanced Digital Subscriber Link",
+            "Automated Data Service Line"
+        ],
+        "answer": "Asymmetric Digital Subscriber Line",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'ARPU' represent?",
+        "options": [
+            "Average Rate Per Unit",
+            "Average Revenue Per User",
+            "Average Resource Usage",
+            "Annual Revenue Per Unit"
+        ],
+        "answer": "Average Revenue Per User",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'ASP' stands for:",
+        "options": [
+            "Application Service Provider",
+            "Asymmetric Service Protocol",
+            "Advanced System Process",
+            "Authorized Service Platform"
+        ],
+        "answer": "Application Service Provider",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In business, what does 'B2B' mean?",
+        "options": [
+            "Business to Business",
+            "Business to Buyer",
+            "Buyer to Buyer",
+            "Business for Business"
+        ],
+        "answer": "Business to Business",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'B2C' represent?",
+        "options": [
+            "Business to Customer",
+            "Business to Consumer",
+            "Buyer to Consumer",
+            "Business for Clients"
+        ],
+        "answer": "Business to Consumer",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'BMC' stand for?",
+        "options": [
+            "Business Model Canvas",
+            "Business Management Center",
+            "Buyer Market Collaboration",
+            "Business Marketing Campaign"
+        ],
+        "answer": "Business Model Canvas",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'BPQ' refers to:",
+        "options": [
+            "Business Partner Queue",
+            "Buyer-Payer-Quality",
+            "Buyer-Player-Quitter",
+            "Business Product Quality"
+        ],
+        "answer": "Buyer-Player-Quitter",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'C2B' mean?",
+        "options": [
+            "Customer to Buyer",
+            "Consumer to Business",
+            "Client to Brand",
+            "Consumer Buying"
+        ],
+        "answer": "Consumer to Business",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'C2C' stands for:",
+        "options": [
+            "Customer to Consumer",
+            "Client to Customer",
+            "Consumer to Consumer",
+            "Commerce to Consumer"
+        ],
+        "answer": "Consumer to Consumer",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is 'CBPP' short for?",
+        "options": [
+            "Commons-Based Peer Production",
+            "Consumer-Based Product Placement",
+            "Collaborative-Based Product Production",
+            "Common Brand Product Partnership"
+        ],
+        "answer": "Commons-Based Peer Production",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In digital media, 'CP' stands for:",
+        "options": [
+            "Creative Production",
+            "Content Provider",
+            "Customer Platform",
+            "Channel Partnership"
+        ],
+        "answer": "Content Provider",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'CPU' stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Core Processing Unit",
+            "Computer Processing Unit",
+            "Central Performance Unit"
+        ],
+        "answer": "Central Processing Unit",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'DAB' refers to:",
+        "options": [
+            "Data Access Broadcasting",
+            "Digital Audio Broadcasting",
+            "Data Analytics Broadcast",
+            "Digital Automated Broadcasting"
+        ],
+        "answer": "Digital Audio Broadcasting",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'EDGE' stand for in mobile communication?",
+        "options": [
+            "Enhanced Data Rates for GSM Evolution",
+            "Extended Digital Growth Expansion",
+            "Enhanced Digital Generation Evolution",
+            "Extended Data Growth Evolution"
+        ],
+        "answer": "Enhanced Data Rates for GSM Evolution",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'EEA' stands for:",
+        "options": [
+            "European Economic Area",
+            "Enhanced Economic Alliance",
+            "European Environmental Agreement",
+            "Economic European Alliance"
+        ],
+        "answer": "European Economic Area",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is 'FinTech' short for?",
+        "options": [
+            "Financial Telecommunication",
+            "Finance Technician",
+            "Financial Technology",
+            "Fiscal Technology"
+        ],
+        "answer": "Financial Technology",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'FTTH' mean in telecommunications?",
+        "options": [
+            "Fiber Telecommunication Tower Hub",
+            "Fiber Technology Transfer Hub",
+            "Fiber Transmit Through Hub",
+            "Fiber to the Home"
+        ],
+        "answer": "Fiber to the Home",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In networking, what does 'GPRS' stand for?",
+        "options": [
+            "General Packet Radio Service",
+            "Global Packet Radio System",
+            "General Program Relay Service",
+            "Global Positioning Radio System"
+        ],
+        "answer": "General Packet Radio Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is the full form of 'GSM'?",
+        "options": [
+            "Global Satellite Mobile Network",
+            "Global System for Mobile Communications",
+            "General System for Messaging",
+            "General Subscriber Management"
+        ],
+        "answer": "Global System for Mobile Communications",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In web development, what does 'HTML' stand for?",
+        "options": [
+            "Hyper Transfer Markup Language",
+            "Hypertext Machine Language",
+            "Hypertext Markup Language",
+            "Hyper Tool Markup Language"
+        ],
+        "answer": "Hypertext Markup Language",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The acronym 'HTTP' stands for:",
+        "options": [
+            "Hyperlink Transfer Protocol",
+            "High Transmission Transfer Protocol",
+            "Hypertext Transport Tool Protocol",
+            "Hypertext Transfer Protocol"
+        ],
+        "answer": "Hypertext Transfer Protocol",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'IaaS' represent in cloud computing?",
+        "options": [
+            "Internet-as-a-Service",
+            "Infrastructure-as-a-Service",
+            "Information-as-a-Service",
+            "Integration-as-a-Service"
+        ],
+        "answer": "Infrastructure-as-a-Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In technology, 'ICT' stands for:",
+        "options": [
+            "International Communication Technology",
+            "Information and Communication Technology",
+            "Integrated Circuit Technology",
+            "Internet and Computing Technology"
+        ],
+        "answer": "Information and Communication Technology",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'IoT' mean in the tech industry?",
+        "options": [
+            "Internet of Things",
+            "Internet of Technology",
+            "Integrated Operational Technology",
+            "Internal Object Transfer"
+        ],
+        "answer": "Internet of Things",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'IP' refers to:",
+        "options": [
+            "Integrated Platform",
+            "Internet Protocol",
+            "Information Path",
+            "Internal Processing"
+        ],
+        "answer": "Internet Protocol",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'ISP' stand for in networking?",
+        "options": [
+            "Internet Service Provider",
+            "Internal Service Protocol",
+            "Integrated Service Provider",
+            "Internet System Protocol"
+        ],
+        "answer": "Internet Service Provider",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'ITS' stands for:",
+        "options": [
+            "International Telecommunication Systems",
+            "Intelligent Transport Systems",
+            "Integrated Technology Services",
+            "Interactive Telecommunication Systems"
+        ],
+        "answer": "Intelligent Transport Systems",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is the meaning of 'ITU'?",
+        "options": [
+            "Internet Technical Union",
+            "Integrated Technology Unit",
+            "International Telecommunication Union",
+            "International Technical University"
+        ],
+        "answer": "International Telecommunication Union",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'LTE' stands for:",
+        "options": [
+            "Long Term Evolution",
+            "Low Transmission Energy",
+            "Line Transfer Engineering",
+            "Local Transmission Entity"
+        ],
+        "answer": "Long Term Evolution",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In business, 'M&A' refers to:",
+        "options": [
+            "Marketing & Advertising",
+            "Mergers & Acquisitions",
+            "Management & Allocation",
+            "Manufacturing & Assembly"
+        ],
+        "answer": "Mergers & Acquisitions",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'MC' stand for in economics?",
+        "options": [
+            "Market Capital",
+            "Management Cost",
+            "Marginal Cost",
+            "Manufacturing Charge"
+        ],
+        "answer": "Marginal Cost",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'MMOG' represents:",
+        "options": [
+            "Massive Messaging Online Game",
+            "Mobile Multiplayer Online Game",
+            "Multi Mobile Online Game",
+            "Massive Multiplayer Online Game"
+        ],
+        "answer": "Massive Multiplayer Online Game",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'MMS' refer to in mobile communication?",
+        "options": [
+            "Messaging and Media Service",
+            "Multimedia Messaging Service",
+            "Multi Mobile Service",
+            "Mobile Messaging System"
+        ],
+        "answer": "Multimedia Messaging Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is 'MOOC' an abbreviation for?",
+        "options": [
+            "Multi-Open Online Communication",
+            "Massive Open Online Course",
+            "Massive Open Organizational Course",
+            "Multi-Organizational Online Course"
+        ],
+        "answer": "Massive Open Online Course",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In digital business, 'MSP' stands for:",
+        "options": [
+            "Market Service Platform",
+            "Mobile Service Provider",
+            "Mobile Subscription Platform",
+            "Multi-sided Platform"
+        ],
+        "answer": "Multi-sided Platform",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'MVNO' stand for?",
+        "options": [
+            "Multi-Value Network Operation",
+            "Mobile Voice Network Organization",
+            "Mobile Virtual Network Operator",
+            "Multi-Variable Network Operator"
+        ],
+        "answer": "Mobile Virtual Network Operator",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'NFV' mean in networking?",
+        "options": [
+            "Network Failure Verification",
+            "Network Frequency Variation",
+            "Network Frame Visualization",
+            "Network Function Virtualization"
+        ],
+        "answer": "Network Function Virtualization",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In telecommunications, 'NMT' stands for:",
+        "options": [
+            "Nordic Mobile Telephone",
+            "Network Mobile Technology",
+            "New Media Technology",
+            "Network Message Transmission"
+        ],
+        "answer": "Nordic Mobile Telephone",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'NP' represents:",
+        "options": [
+            "Network Provider",
+            "Network Platform",
+            "New Protocol",
+            "Network Performance"
+        ],
+        "answer": "Network Provider",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does the abbreviation 'O-T' stand for?",
+        "options": [
+            "Open Transmission",
+            "Optimal Technology",
+            "Odlyzko-Tilly",
+            "Online Transaction"
+        ],
+        "answer": "Odlyzko-Tilly",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'OTT' mean in digital services?",
+        "options": [
+            "Over-the-Top Services",
+            "On-Time Transmission",
+            "Online Text Transmission",
+            "Over-Time Technology"
+        ],
+        "answer": "Over-the-Top Services",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The acronym 'PaaS' stands for:",
+        "options": [
+            "Platform-as-a-Service",
+            "Protocol-as-a-Service",
+            "Platform and Software",
+            "Process-as-a-Service"
+        ],
+        "answer": "Platform-as-a-Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In computing, 'PC' stands for:",
+        "options": [
+            "Personal Computer",
+            "Private Computer",
+            "Public Computer",
+            "Portable Computer"
+        ],
+        "answer": "Personal Computer",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What is 'PDF' short for?",
+        "options": [
+            "Portable Document Format",
+            "Public Document File",
+            "Print Document Format",
+            "Protected Data File"
+        ],
+        "answer": "Portable Document Format",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'PSTN' refers to:",
+        "options": [
+            "Public Switched Telephone Network",
+            "Private Secure Telephone Network",
+            "Public Satellite Transmission Network",
+            "Personal Satellite Telephone Network"
+        ],
+        "answer": "Public Switched Telephone Network",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In cloud computing, what does 'SaaS' mean?",
+        "options": [
+            "Software-as-a-Service",
+            "System-as-a-Service",
+            "Security-as-a-Service",
+            "Storage-as-a-Service"
+        ],
+        "answer": "Software-as-a-Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'SCTP' stand for in networking?",
+        "options": [
+            "Stream Control Transmission Protocol",
+            "Secure Communication Transfer Protocol",
+            "Simple Channel Transmission Protocol",
+            "System Communication Transport Protocol"
+        ],
+        "answer": "Stream Control Transmission Protocol",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In networking, 'SDN' stands for:",
+        "options": [
+            "Software Defined Networking",
+            "System Data Network",
+            "Secure Data Network",
+            "Standard Digital Network"
+        ],
+        "answer": "Software Defined Networking",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'SIR' is short for:",
+        "options": [
+            "Susceptible-Infectious-Recovered",
+            "System Integrated Relay",
+            "Secure Internet Relay",
+            "Susceptible-Infection-Response"
+        ],
+        "answer": "Susceptible-Infectious-Recovered",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'SLA' refer to in business agreements?",
+        "options": [
+            "Service Level Agreement",
+            "Service Legal Agreement",
+            "System Level Agreement",
+            "Standard Legal Agreement"
+        ],
+        "answer": "Service Level Agreement",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'SMS' stands for:",
+        "options": [
+            "Short Message Service",
+            "Standard Messaging System",
+            "Secure Messaging Service",
+            "System Message Service"
+        ],
+        "answer": "Short Message Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In computing, 'SOA' stands for:",
+        "options": [
+            "Service Oriented Architecture",
+            "System Operated Application",
+            "Secure Operational Architecture",
+            "Standard Operating Architecture"
+        ],
+        "answer": "Service Oriented Architecture",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'SRM' refers to:",
+        "options": [
+            "Stakeholder Relationship Model",
+            "Standard Resource Management",
+            "Secure Resource Model",
+            "System Relationship Management"
+        ],
+        "answer": "Stakeholder Relationship Model",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'TCP' stand for in networking?",
+        "options": [
+            "Transmission Control Protocol",
+            "Transfer Communication Protocol",
+            "Telecommunication Process",
+            "Transmission Communication Process"
+        ],
+        "answer": "Transmission Control Protocol",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In networking, 'UDP' means:",
+        "options": [
+            "User Datagram Protocol",
+            "Universal Data Process",
+            "User Data Processing",
+            "Unified Data Protocol"
+        ],
+        "answer": "User Datagram Protocol",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The acronym 'URL' represents:",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Resource Link",
+            "Uniform Reference Locator",
+            "Unified Resource Locator"
+        ],
+        "answer": "Uniform Resource Locator",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In media, what does 'VCR' stand for?",
+        "options": [
+            "Videocassette Recorder",
+            "Video Communication Receiver",
+            "Virtual Content Recorder",
+            "Video Channel Recorder"
+        ],
+        "answer": "Videocassette Recorder",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'VHS' represent?",
+        "options": [
+            "Video Home System",
+            "Visual High Standard",
+            "Virtual Home System",
+            "Video High Signal"
+        ],
+        "answer": "Video Home System",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The abbreviation 'VNO' stands for:",
+        "options": [
+            "Virtual Network Operator",
+            "Video Network Operation",
+            "Voice Network Optimization",
+            "Virtual Node Operation"
+        ],
+        "answer": "Virtual Network Operator",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'VoIP' stand for?",
+        "options": [
+            "Voice over IP",
+            "Video over Internet Protocol",
+            "Virtual Online Internet Protocol",
+            "Voice over Internal Protocol"
+        ],
+        "answer": "Voice over IP",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In mobile networks, 'VoLTE' stands for:",
+        "options": [
+            "Voice over LTE",
+            "Video over LTE",
+            "Virtual Operating LTE",
+            "Voice Optimized LTE"
+        ],
+        "answer": "Voice over LTE",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does the abbreviation 'WOW' stand for?",
+        "options": [
+            "World of Widgets",
+            "World of Warcraft",
+            "Window on the Web",
+            "Wireless Over Web"
+        ],
+        "answer": "World of Warcraft",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "What does 'WWW' stand for?",
+        "options": [
+            "World Wide Web",
+            "Wireless Web World",
+            "Web Wide World",
+            "World Wide Wireless"
+        ],
+        "answer": "World Wide Web",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The term 'XaaS' refers to:",
+        "options": [
+            "Anything as a Service",
+            "X-ray as a Service",
+            "Xcelerated Application as a Service",
+            "XML as a Service"
+        ],
+        "answer": "Anything as a Service",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "In electronics, 'DP' commonly refers to:",
+        "options": [
+            "Device Providers",
+            "Data Processing",
+            "Digital Providers",
+            "Display Panel"
+        ],
+        "answer": "Device Providers",
+        "categories": [
+            "M.C.Q.",
+            "Abbreviations",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "An economy based on information and communication technology (ICT). What does this define?",
+        "options": [
+            "Digital economy",
+            "Internet economy",
+            "Data economy",
+            "Platform economy"
+        ],
+        "answer": "Digital economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The branch of economics studying digital goods and services. What does this define?",
+        "options": [
+            "Data economy",
+            "Digital economics",
+            "Abundance economy",
+            "Virtual economy"
+        ],
+        "answer": "Digital economics",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The use of new and emerging technologies to replace traditional financial services. Examples include mobile payment services. What does this define?",
+        "options": [
+            "Financial Technologies (FinTech)",
+            "Network economy",
+            "Industry 4.0",
+            "Information economy"
+        ],
+        "answer": "Financial Technologies (FinTech)",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A form of business process automation based on using software robots as workers instead of humans. What does this define?",
+        "options": [
+            "Intelligent Transport Systems (ITS)",
+            "Robotic Process Automation (RPA)",
+            "Abundance economy",
+            "Digital economy"
+        ],
+        "answer": "Robotic Process Automation (RPA)",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The use of ICT to create smart factories based on industrial robots. What does this define?",
+        "options": [
+            "Network economy",
+            "Industry 4.0",
+            "Digital service",
+            "Virtual economy"
+        ],
+        "answer": "Industry 4.0",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The use of ICT to automate the road and transportation sector. What does this define?",
+        "options": [
+            "Intelligent Transport Systems (ITS)",
+            "Platform economy",
+            "Internet economy",
+            "Mixed bundling"
+        ],
+        "answer": "Intelligent Transport Systems (ITS)",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Focuses on businesses in which much of the economic value is generated by network effects. What does this define?",
+        "options": [
+            "Information economy",
+            "Data economy",
+            "Network economy",
+            "Platform economy"
+        ],
+        "answer": "Network economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Focuses on businesses that act as platforms, connecting two or more user groups (two-sided or multisided markets). What does this define?",
+        "options": [
+            "Network economy",
+            "Platform economy",
+            "Abundance economy",
+            "Virtual economy"
+        ],
+        "answer": "Platform economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Focuses on information products and how they are produced and traded. What does this define?",
+        "options": [
+            "Digital economics",
+            "Data economy",
+            "Internet economy",
+            "Information economy"
+        ],
+        "answer": "Information economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Focuses on harvesting and analyzing data business, where data is gathered from users and stored in large databases. What does this define?",
+        "options": [
+            "Data economy",
+            "Abundance economy",
+            "Network economy",
+            "Platform economy"
+        ],
+        "answer": "Data economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The economy of virtual worlds, such as World of Warcraft and Second Life. What does this define?",
+        "options": [
+            "Virtual economy",
+            "Platform economy",
+            "Information economy",
+            "Digital economy"
+        ],
+        "answer": "Virtual economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Covers the economics of Internet goods and services. What does this define?",
+        "options": [
+            "Platform economy",
+            "Internet economy",
+            "Network economy",
+            "Data economy"
+        ],
+        "answer": "Internet economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The economy of goods and services that are abundant, meaning they are close to unlimited in supply. What does this define?",
+        "options": [
+            "Abundance economy",
+            "Information economy",
+            "Network economy",
+            "Internet economy"
+        ],
+        "answer": "Abundance economy",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Encompasses all or parts of digital economy concepts, emphasizing that it is a young academic field of study. What does this define?",
+        "options": [
+            "Data economy",
+            "Digital economics",
+            "Virtual economy",
+            "Abundance economy"
+        ],
+        "answer": "Digital economics",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A networked zero marginal cost virtual object having value for some individuals or organizations. What does this define?",
+        "options": [
+            "Digital service",
+            "Data economy",
+            "Digital good",
+            "Information economy"
+        ],
+        "answer": "Digital good",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A networked zero marginal cost service that has value for individuals or organizations. What does this define?",
+        "options": [
+            "Digital good",
+            "Data economy",
+            "Digital service",
+            "Internet economy"
+        ],
+        "answer": "Digital service",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The cost of producing one additional unit of a good or service. Digital goods and services often have this at zero. What does this define?",
+        "options": [
+            "Marginal cost",
+            "Policing costs",
+            "Information economy",
+            "Search costs"
+        ],
+        "answer": "Marginal cost",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The costs of searching for a particular good and determining its price and properties. What does this define?",
+        "options": [
+            "Bargaining costs",
+            "Policing costs",
+            "Search and information costs",
+            "Digital economics"
+        ],
+        "answer": "Search and information costs",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The collective costs for the consumer and provider to agree on contract terms, including price and delivery. What does this define?",
+        "options": [
+            "Policing costs",
+            "Enforcement costs",
+            "Bargaining costs",
+            "Network economy"
+        ],
+        "answer": "Bargaining costs",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The costs of sticking to an agreement and taking appropriate action if it is not upheld by either party. What does this define?",
+        "options": [
+            "Policing and enforcement costs",
+            "Bargaining costs",
+            "Search costs",
+            "Marginal cost"
+        ],
+        "answer": "Policing and enforcement costs",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "The combination of several products or services offered for sale as a single package. What does this define?",
+        "options": [
+            "Mixed bundling",
+            "Pure bundling",
+            "Product or service bundling",
+            "Network economy"
+        ],
+        "answer": "Product or service bundling",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "Consumers can only buy the bundled package without the option to buy individual items in the package. What does this define?",
+        "options": [
+            "Product bundling",
+            "Mixed bundling",
+            "Pure bundling",
+            "Network economy"
+        ],
+        "answer": "Pure bundling",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A consumer has the option to buy the package as well as single products within it. What does this define?",
+        "options": [
+            "Mixed bundling",
+            "Pure bundling",
+            "Product bundling",
+            "Digital service"
+        ],
+        "answer": "Mixed bundling",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market with only one seller and no substitutes for buyers, allowing the seller to set prices and maximize revenue. What does this define?",
+        "options": [
+            "Oligopoly",
+            "Monopoly",
+            "Monopsony",
+            "Oligopsony"
+        ],
+        "answer": "Monopoly",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market with a few sellers of the same product, where actions by one can change market composition. What does this define?",
+        "options": [
+            "Perfect competition",
+            "Oligopoly",
+            "Monopsony",
+            "Monopoly"
+        ],
+        "answer": "Oligopoly",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market with many sellers offering differentiated products, such as shoes with different designs and quality. What does this define?",
+        "options": [
+            "Monopolistic competition",
+            "Oligopoly",
+            "Monopoly",
+            "Perfect competition"
+        ],
+        "answer": "Monopolistic competition",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market with many sellers and buyers with perfect information about prices and preferences. What does this define?",
+        "options": [
+            "Monopoly",
+            "Oligopsony",
+            "Perfect competition",
+            "Monopolistic competition"
+        ],
+        "answer": "Perfect competition",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market with many sellers and one buyer. What does this define?",
+        "options": [
+            "Oligopoly",
+            "Monopsony",
+            "Monopoly",
+            "Oligopsony"
+        ],
+        "answer": "Monopsony",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A market similar to monopsony, but with a few buyers. What does this define?",
+        "options": [
+            "Monopoly",
+            "Oligopoly",
+            "Oligopsony",
+            "Perfect competition"
+        ],
+        "answer": "Oligopsony",
+        "categories": [
+            "M.C.Q",
+            "Definitions",
+            "Midterm Questions"
+        ]
+    },
+    {
+        "question": "A firm has market power if it can",
+        "options": [
+            "maximize profits.",
+            "minimize costs.",
+            "influence the market price of the good it sells.",
+            "hire as many workers as it needs at the prevailing wage rate."
+        ],
+        "answer": "influence the market price of the good it sells.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The analysis of competitive firms sheds light on the decisions that lie behind the",
+        "options": [
+            "demand curve.",
+            "supply curve.",
+            "way firms make pricing decisions in the not-for-profit sector of the economy.",
+            "way financial markets set interest rates."
+        ],
+        "answer": "supply curve.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A key characteristic of a competitive market is that",
+        "options": [
+            "government antitrust laws regulate competition.",
+            "producers sell nearly identical products.",
+            "firms minimize total costs.",
+            "firms have price setting power."
+        ],
+        "answer": "producers sell nearly identical products.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In a perfectly competitive market,",
+        "options": [
+            "no one seller can influence the price of the product.",
+            "price exceeds marginal revenue for each unit sold.",
+            "average revenue exceeds marginal revenue for each unit sold.",
+            "administrative barriers can make it difficult for firms to enter an industry."
+        ],
+        "answer": "no one seller can influence the price of the product.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Competitive markets are characterized by",
+        "options": [
+            "a small number of buyers and sellers.",
+            "unique products.",
+            "the interdependence of firms.",
+            "free entry and exit by firms."
+        ],
+        "answer": "free entry and exit by firms.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In a competitive market, the actions of any single buyer or seller will",
+        "options": [
+            "have a negligible impact on the market price.",
+            "have little effect on market equilibrium quantity but will affect market equilibrium price.",
+            "affect marginal revenue and average revenue but not price.",
+            "adversely affect the profitability of more than one firm in the market."
+        ],
+        "answer": "have a negligible impact on the market price.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is not a characteristic of a perfectly competitive market?",
+        "options": [
+            "Firms are price takers.",
+            "Firms have difficulty entering the market.",
+            "There are many sellers in the market.",
+            "Goods offered for sale are largely the same."
+        ],
+        "answer": "Firms have difficulty entering the market.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is not a characteristic of a perfectly competitive market?",
+        "options": [
+            "Firms are price takers.",
+            "Firms can freely enter the market.",
+            "Many firms have market power.",
+            "Goods offered for sale are largely the same."
+        ],
+        "answer": "Many firms have market power.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When buyers in a competitive market take the selling price as given, they are said to be",
+        "options": [
+            "market entrants.",
+            "monopolists.",
+            "free riders.",
+            "price takers."
+        ],
+        "answer": "price takers.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Why does a firm in a competitive industry charge the market price?",
+        "options": [
+            "If a firm charges less than the market price, it loses potential revenue.",
+            "If a firm charges more than the market price, it loses all its customers to other firms.",
+            "The firm can sell as many units of output as it wants to at the market price.",
+            "All of the above are correct."
+        ],
+        "answer": "All of the above are correct.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In a competitive market,",
+        "options": [
+            "no single buyer or seller can influence the price of the product.",
+            "there are only a small number of sellers.",
+            "the goods offered by the different sellers are unique.",
+            "accounting profit is driven to zero as firms freely enter and exit the market."
+        ],
+        "answer": "no single buyer or seller can influence the price of the product.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements regarding a competitive market is not correct?",
+        "options": [
+            "There are many buyers and many sellers in the market.",
+            "Because of firm location or product differences, some firms can charge a higher price than other firms and still maintain their sales volume.",
+            "Price and average revenue are equal.",
+            "Price and marginal revenue are equal."
+        ],
+        "answer": "Because of firm location or product differences, some firms can charge a higher price than other firms and still maintain their sales volume.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements regarding a competitive market is not correct?",
+        "options": [
+            "There are many buyers and many sellers in the market.",
+            "Firms can freely enter or exit the market.",
+            "Price equals average revenue.",
+            "Price exceeds marginal revenue."
+        ],
+        "answer": "Price exceeds marginal revenue.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "One of the defining characteristics of a perfectly competitive market is",
+        "options": [
+            "a small number of sellers.",
+            "a large number of buyers and a small number of sellers.",
+            "a similar product.",
+            "significant advertising by firms to promote their products."
+        ],
+        "answer": "a similar product.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "For a firm in a perfectly competitive market, the price of the good is always",
+        "options": [
+            "equal to marginal revenue.",
+            "equal to total revenue.",
+            "greater than average revenue.",
+            "equal to the firm’s efficient scale of output."
+        ],
+        "answer": "equal to marginal revenue.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "If a firm in a perfectly competitive market triples the number of units of output sold, then total revenue will",
+        "options": [
+            "more than triple.",
+            "less than triple.",
+            "exactly triple.",
+            "Any of the above may be true depending on the firm’s labor productivity."
+        ],
+        "answer": "exactly triple.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The entry of new firms into a competitive market will",
+        "options": [
+            "increase market supply and increase market price.",
+            "increase market supply and decrease market price.",
+            "decrease market supply and increase market price.",
+            "decrease market supply and decrease market price."
+        ],
+        "answer": "increase market supply and decrease market price.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The exit of existing firms from a competitive market will",
+        "options": [
+            "increase market supply and increase market price.",
+            "increase market supply and decrease market price.",
+            "decrease market supply and increase market price.",
+            "decrease market supply and decrease market price."
+        ],
+        "answer": "decrease market supply and increase market price.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "For a firm operating in a competitive industry, which of the following statements is not correct?",
+        "options": [
+            "Price equals average revenue.",
+            "Price equals marginal revenue.",
+            "Total revenue is constant.",
+            "Marginal revenue is constant."
+        ],
+        "answer": "Total revenue is constant.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Firms that operate in perfectly competitive markets try to",
+        "options": [
+            "maximize revenues.",
+            "maximize profits.",
+            "equate marginal revenue with average total cost.",
+            "Both b and c are correct."
+        ],
+        "answer": "maximize profits.",
+        "categories": [
+            "Perfect Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of monopolistic competition?",
+        "options": [
+            "ownership of a key resource by a single firm",
+            "free entry",
+            "identical product",
+            "patents"
+        ],
+        "answer": "free entry",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements is not correct?",
+        "options": [
+            "Monopolistic competition is similar to monopoly because in each market structure the firm can charge a price above marginal costs.",
+            "Monopolistic competition is similar to perfect competition because both market structures are characterized by free entry.",
+            "Monopolistic competition is similar to oligopoly because both market structures are characterized by barriers to entry.",
+            "Monopolistic competition is similar to perfect competition because both market structures are characterized by many sellers."
+        ],
+        "answer": "Monopolistic competition is similar to oligopoly because both market structures are characterized by barriers to entry.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following pairs illustrates the two extreme examples of market structures?",
+        "options": [
+            "competition and oligopoly",
+            "competition and monopoly",
+            "monopoly and monopolistic competition",
+            "oligopoly and monopolistic competition"
+        ],
+        "answer": "competition and monopoly",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "An oligopoly",
+        "options": [
+            "has a concentration ratio of less than 50 percent.",
+            "is a price taker.",
+            "is a type of imperfectly competitive market.",
+            "has many firms rather than just one firm or a few firms."
+        ],
+        "answer": "is a type of imperfectly competitive market.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "One characteristic of an oligopoly market structure is:",
+        "options": [
+            "firms in the industry are typically characterized by very diverse product lines.",
+            "firms in the industry have some degree of market power.",
+            "products typically sell at a price equal to their marginal cost of production.",
+            "the actions of one seller have no impact on the profitability of other sellers."
+        ],
+        "answer": "firms in the industry have some degree of market power.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A market structure with only a few sellers, each offering similar or identical products, is known as",
+        "options": [
+            "oligopoly",
+            "monopoly",
+            "monopolistic competition",
+            "perfect competition"
+        ],
+        "answer": "oligopoly",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A concentration ratio",
+        "options": [
+            "measures the percentage of total sales of the top firm in the industry.",
+            "reflects the level of competition in an industry.",
+            "is inversely related to the price charged by the top firm in the industry.",
+            "All of the above are correct."
+        ],
+        "answer": "reflects the level of competition in an industry.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The higher the concentration ratio, the",
+        "options": [
+            "more control an individual firm has to set prices.",
+            "more competitive the industry.",
+            "less competitive the industry.",
+            "Both a and c are correct."
+        ],
+        "answer": "Both a and c are correct.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The lower the concentration ratio, the",
+        "options": [
+            "more control an individual firm has to set prices.",
+            "more competitive the industry.",
+            "less competitive the industry.",
+            "Both a and c are correct."
+        ],
+        "answer": "more competitive the industry.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "One way in which monopolistic competition differs from oligopoly is that",
+        "options": [
+            "there are no barriers to entry in oligopolies.",
+            "in oligopoly markets there are only a few sellers.",
+            "all firms in an oligopoly eventually earn zero economic profits.",
+            "strategic interactions between firms are rare in oligopolies."
+        ],
+        "answer": "in oligopoly markets there are only a few sellers.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive industry is characterized by",
+        "options": [
+            "many firms selling products that are similar but not identical.",
+            "many firms selling identical products.",
+            "a few firms selling products that are similar but not identical.",
+            "a few firms selling highly different products."
+        ],
+        "answer": "many firms selling products that are similar but not identical.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive industry is characterized by",
+        "options": [
+            "many firms, differentiated products, and barriers to entry.",
+            "many firms, differentiated products, and free entry.",
+            "a few firms, identical products, and free entry.",
+            "a few firms, differentiated products, and barriers to entry."
+        ],
+        "answer": "many firms, differentiated products, and free entry.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "What do economists call a market structure in which there are many firms selling products that are similar but not identical?",
+        "options": [
+            "perfect competition",
+            "monopoly",
+            "monopolistic competition",
+            "oligopoly"
+        ],
+        "answer": "monopolistic competition.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is not a characteristic of monopolistic competition?",
+        "options": [
+            "a large number of sellers",
+            "firms are price takers",
+            "free entry into the market",
+            "a differentiated product"
+        ],
+        "answer": "firms are price takers.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In a monopolistically competitive market,",
+        "options": [
+            "there are only a few sellers.",
+            "each firm takes the price of its product as given.",
+            "firms can enter or exit the market without restrictions.",
+            "each firm produces a product that is essentially identical to the products of other firms in the market."
+        ],
+        "answer": "firms can enter or exit the market without restrictions.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive market",
+        "options": [
+            "has some features of monopoly and some features of competition.",
+            "has one large, dominant firm and many other smaller firms.",
+            "is difficult to enter.",
+            "occurs whenever firms earn zero economic profit."
+        ],
+        "answer": "has some features of monopoly and some features of competition.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Select the type of market that is described by the following attributes: many firms, differentiated products, and free entry.",
+        "options": [
+            "natural monopoly",
+            "perfect competition",
+            "monopolistic competition",
+            "monopoly"
+        ],
+        "answer": "monopolistic competition.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Monopolistic competition differs from perfect competition because in monopolistically competitive markets",
+        "options": [
+            "there are barriers to entry.",
+            "all firms can eventually earn economic profits.",
+            "each of the sellers offers a somewhat different product.",
+            "strategic interactions between firms are important."
+        ],
+        "answer": "each of the sellers offers a somewhat different product.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following conditions distinguishes monopolistic competition from perfect competition?",
+        "options": [
+            "the number of sellers in the market",
+            "the freedom of entry and exit by firms in the market",
+            "the size of firms in the market",
+            "product differentiation"
+        ],
+        "answer": "product differentiation.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A similarity between monopoly and monopolistic competition is that in both market structures",
+        "options": [
+            "strategic interactions among sellers are important.",
+            "there are a small number of sellers.",
+            "sellers are price makers rather than price takers.",
+            "there are only a few buyers but many sellers."
+        ],
+        "answer": "sellers are price makers rather than price takers.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In a monopolistically competitive industry, firms set price",
+        "options": [
+            "equal to marginal cost since each firm is a price taker.",
+            "below marginal cost since each firm is a price taker.",
+            "above marginal cost since each firm is a price setter.",
+            "always a fraction of marginal cost since each firm is a price setter."
+        ],
+        "answer": "above marginal cost since each firm is a price setter.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive firm chooses",
+        "options": [
+            "the quantity of output to produce, but the market determines price.",
+            "the price, but competition in the market determines the quantity.",
+            "price, but output is determined by a cartel production quota.",
+            "the quantity of output to produce and the price at which it will sell its output."
+        ],
+        "answer": "the quantity of output to produce and the price at which it will sell its output.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Product differentiation in monopolistically competitive markets ensures that, for profit-maximizing firms,",
+        "options": [
+            "marginal revenue will equal average total cost.",
+            "price will exceed marginal cost.",
+            "marginal cost will exceed average revenue.",
+            "average variable cost will be declining."
+        ],
+        "answer": "price will exceed marginal cost.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "To maximize its profit, a monopolistically competitive firm",
+        "options": [
+            "takes the price as given and chooses its quantity, just as a competitive firm does.",
+            "takes the price as given and chooses its quantity, just as a colluding oligopolist does.",
+            "chooses its quantity and price, just as a competitive firm does.",
+            "chooses its quantity and price, just as a monopoly does."
+        ],
+        "answer": "chooses its quantity and price, just as a monopoly does.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "If 'too much choice' is a problem for consumers, it would occur in which market structure(s)?",
+        "options": [
+            "perfect competition",
+            "monopoly",
+            "monopolistic competition",
+            "perfect competition and monopolistic competition"
+        ],
+        "answer": "monopolistic competition.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Monopolistically competitive markets may be socially inefficient because",
+        "options": [
+            "most firms produce inferior products.",
+            "government programs cannot effectively regulate price.",
+            "firms earn zero economic profit.",
+            "the market may have too much or too little entry by new firms."
+        ],
+        "answer": "the market may have too much or too little entry by new firms.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Regulation of a firm in a monopolistically competitive market",
+        "options": [
+            "usually implies a very small administrative burden.",
+            "will lower the firm's costs.",
+            "is commonly used to enhance market efficiency.",
+            "is unlikely to improve market efficiency."
+        ],
+        "answer": "is unlikely to improve market efficiency.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The administrative burden of regulating price in a monopolistically competitive market is",
+        "options": [
+            "small due to economies of scale.",
+            "large because price is usually below marginal cost.",
+            "large because of the large number of firms that produce differentiated products.",
+            "small because firms produce with excess capacity."
+        ],
+        "answer": "large because of the large number of firms that produce differentiated products.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When existing firms lose customers and profits due to entry of a new competitor, a",
+        "options": [
+            "predatory-pricing externality occurs.",
+            "consumption externality occurs.",
+            "business-stealing externality occurs.",
+            "product-variety externality occurs."
+        ],
+        "answer": "business-stealing externality occurs.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is a characteristic of oligopoly or monopolistic competition, but not perfect competition?",
+        "options": [
+            "advertising and sales promotion",
+            "profit maximization according to the MR = MC rule",
+            "firms being price takers rather than price makers",
+            "horizontal demand and marginal revenue curves"
+        ],
+        "answer": "advertising and sales promotion.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Some firms have an incentive to advertise because they sell a",
+        "options": [
+            "similar product and charge a price equal to marginal cost.",
+            "similar product and charge a price above marginal cost.",
+            "differentiated product and charge a price equal to marginal cost.",
+            "differentiated product and charge a price above marginal cost."
+        ],
+        "answer": "differentiated product and charge a price above marginal cost.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Firms that spend the greatest percentage of their revenue on advertising tend to be firms that sell",
+        "options": [
+            "industrial products.",
+            "homogeneous products.",
+            "consumer goods for which there are no close substitutes.",
+            "highly-differentiated consumer goods."
+        ],
+        "answer": "highly-differentiated consumer goods.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Compared to other firms, firms that sell highly differentiated products likely incur significant costs associated with",
+        "options": [
+            "advertising.",
+            "the product-variety externality.",
+            "intermediate materials.",
+            "taxes and regulation."
+        ],
+        "answer": "advertising.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Advertising",
+        "options": [
+            "provides information about products, including prices and seller locations.",
+            "has been proven to increase competition and reduce prices compared to markets without advertising.",
+            "signals quality to consumers, because advertising is expensive.",
+            "All of the above are correct."
+        ],
+        "answer": "All of the above are correct.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Critics of advertising argue that in some markets advertising may",
+        "options": [
+            "attract products of lower quality into the market.",
+            "attract less informed buyers into the market.",
+            "decrease elasticity of demand allowing firms to charge a higher price over marginal cost.",
+            "enhance competition in markets to an unnecessary degree."
+        ],
+        "answer": "decrease elasticity of demand allowing firms to charge a higher price over marginal cost.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Critics of advertising argue that advertising",
+        "options": [
+            "creates desires that otherwise might not exist.",
+            "hinders competition.",
+            "often fails to convey substantive information.",
+            "All of the above are correct."
+        ],
+        "answer": "All of the above are correct.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "If a firm in a monopolistically competitive market successfully uses advertising to decrease the elasticity of demand for its product, the firm will",
+        "options": [
+            "be able to increase its markup over marginal cost.",
+            "eventually have to lower price to remain competitive.",
+            "increase the welfare of society.",
+            "reduce its average total cost."
+        ],
+        "answer": "be able to increase its markup over marginal cost.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Firms in monopolistic competition and monopoly can earn economic profits in both the short run and the long run.",
+            "Both perfectly competitive and monopolistically competitive firms are price takers.",
+            "Both a monopolistically competitive industry and a monopoly are characterized by a very small number (or one) firm.",
+            "Firms can easily enter a perfectly competitive or monopolistically competitive industry."
+        ],
+        "answer": "Firms can easily enter a perfectly competitive or monopolistically competitive industry.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A firm is a price taker",
+        "options": [
+            "only when the market is perfectly competitive.",
+            "only when the market is perfectly competitive or monopolistic.",
+            "only when the market is perfectly competitive or monopolistically competitive.",
+            "when the market is perfectly competitive, monopolistically competitive, or monopolistic."
+        ],
+        "answer": "only when the market is perfectly competitive.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive market is like both a competitive market and a monopoly in that",
+        "options": [
+            "all three market structures feature easy entry by new firms in the long run.",
+            "firms in all three market structures maximize profit by producing an output level where marginal revenue equals marginal cost.",
+            "firms in all three market structures produce the welfare-maximizing level of output.",
+            "All of the above are correct."
+        ],
+        "answer": "firms in all three market structures maximize profit by producing an output level where marginal revenue equals marginal cost.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolistically competitive market is like a competitive market in that",
+        "options": [
+            "both market structures feature easy entry by new firms in the long run.",
+            "the main objective of firms in both market structures is something other than profit maximization.",
+            "firms in both market structures produce the welfare-maximizing level of output.",
+            "firms in both market structures set price above marginal cost."
+        ],
+        "answer": "both market structures feature easy entry by new firms in the long run.",
+        "categories": [
+            "Monopolistic Competition",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Both a competitive firm and a monopolist are price takers.",
+            "Both a competitive firm and a monopolist are price makers.",
+            "A competitive firm is a price taker, whereas a monopolist is a price maker.",
+            "A competitive firm is a price maker, whereas a monopolist is a price taker."
+        ],
+        "answer": "A competitive firm is a price taker, whereas a monopolist is a price maker.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is not a characteristic of a monopoly?",
+        "options": [
+            "barriers to entry",
+            "one seller",
+            "one buyer",
+            "a product without close substitutes"
+        ],
+        "answer": "one buyer",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The fundamental source of monopoly power is",
+        "options": [
+            "barriers to entry.",
+            "profit.",
+            "decreasing average total cost.",
+            "a product without close substitutes."
+        ],
+        "answer": "barriers to entry.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A benefit of a monopoly is",
+        "options": [
+            "lower prices.",
+            "a wide variety of similar products.",
+            "decreasing long-run average total costs.",
+            "greater creativity by authors who can copyright their novels."
+        ],
+        "answer": "greater creativity by authors who can copyright their novels.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The simplest way for a monopoly to arise is for a single firm to",
+        "options": [
+            "decrease its price below its competitors’ prices.",
+            "decrease production to increase demand for its product.",
+            "make pricing decisions jointly with other firms.",
+            "own a key resource."
+        ],
+        "answer": "own a key resource.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is not a reason for the existence of a monopoly?",
+        "options": [
+            "sole ownership of a key resource",
+            "patents",
+            "copyrights",
+            "diseconomies of scale"
+        ],
+        "answer": "diseconomies of scale",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A firm that is the sole seller of a product without close substitutes is",
+        "options": [
+            "perfectly competitive.",
+            "monopolistically competitive.",
+            "an oligopolist.",
+            "a monopolist."
+        ],
+        "answer": "a monopolist.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Most markets are not monopolies in the real world because",
+        "options": [
+            "firms usually face downward-sloping demand curves.",
+            "supply curves slope upward.",
+            "price is usually set equal to marginal cost by firms.",
+            "there are reasonable substitutes for most goods."
+        ],
+        "answer": "there are reasonable substitutes for most goods.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a barrier to entry?",
+        "options": [
+            "Tom charges a higher price than his competitors for his house-painting services.",
+            "Dick obtains a copyright for the new computer game that he invented.",
+            "Harry offers free concerts on Sunday afternoons as a form of advertising.",
+            "Larry charges a lower price than his competitors for his lawn-mowing services."
+        ],
+        "answer": "Dick obtains a copyright for the new computer game that he invented.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The laws governing patents and copyrights",
+        "options": [
+            "promote monopolies.",
+            "are intended to serve private interests, not the public’s interest.",
+            "have costs but not benefits.",
+            "eliminate the need for firms to engage in research and development."
+        ],
+        "answer": "promote monopolies.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Patent and copyright laws encourage",
+        "options": [
+            "creative activity.",
+            "research and development.",
+            "competition among firms.",
+            "both a and b are correct."
+        ],
+        "answer": "both a and b are correct.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A natural monopoly occurs when",
+        "options": [
+            "the product is sold in its natural state, such as water or diamonds.",
+            "there are economies of scale over the relevant range of output.",
+            "the firm is characterized by a rising marginal cost curve.",
+            "production requires the use of free natural resources, such as water or air."
+        ],
+        "answer": "there are economies of scale over the relevant range of output.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "In order to sell more of its product, a monopolist must",
+        "options": [
+            "sell to the government.",
+            "sell in international markets.",
+            "lower its price.",
+            "use its market power to force up the price of complementary products."
+        ],
+        "answer": "lower its price.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When a monopolist decreases the price of its good, consumers",
+        "options": [
+            "continue to buy the same amount.",
+            "buy more.",
+            "buy less.",
+            "may buy more or less, depending on the price elasticity of demand."
+        ],
+        "answer": "buy more.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When a monopolist increases the amount of output that it produces and sells, the price of its output",
+        "options": [
+            "stays the same.",
+            "increases.",
+            "decreases.",
+            "may increase or decrease depending on the price elasticity of demand."
+        ],
+        "answer": "decreases.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Monopolies use their market power to",
+        "options": [
+            "charge prices that equal minimum average total cost.",
+            "increase the quantity sold as they increase price.",
+            "charge a price that is higher than marginal cost.",
+            "dump excess supplies of their product on the market."
+        ],
+        "answer": "charge a price that is higher than marginal cost.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Marginal revenue for a monopolist is computed as",
+        "options": [
+            "average revenue divided by quantity sold.",
+            "average revenue times quantity divided by price.",
+            "total revenue divided by quantity sold.",
+            "change in total revenue per one unit increase in quantity sold."
+        ],
+        "answer": "change in total revenue per one unit increase in quantity sold.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "For a monopolist,",
+        "options": [
+            "average revenue is always greater than the price of the good.",
+            "marginal revenue is always less than the price of the good.",
+            "marginal cost is always greater than average total cost.",
+            "marginal revenue equals marginal cost at the point where total revenue is maximized."
+        ],
+        "answer": "marginal revenue is always less than the price of the good.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "If a monopolist has zero marginal costs, it will produce",
+        "options": [
+            "the output at which total revenue is maximized.",
+            "in the range in which marginal revenue is still increasing.",
+            "at the point at which marginal revenue is at a maximum.",
+            "in the range in which marginal revenue is negative."
+        ],
+        "answer": "the output at which total revenue is maximized.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Deadweight loss",
+        "options": [
+            "measures monopoly inefficiency.",
+            "exceeds monopoly profits.",
+            "equals monopoly profits.",
+            "equals monopoly revenues minus profits."
+        ],
+        "answer": "measures monopoly inefficiency.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The deadweight loss associated with a monopoly occurs because the monopolist",
+        "options": [
+            "maximizes profits.",
+            "produces an output level less than the socially optimal level.",
+            "produces an output level greater than the socially optimal level.",
+            "equates marginal revenue with marginal cost."
+        ],
+        "answer": "produces an output level less than the socially optimal level.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopoly market",
+        "options": [
+            "always maximizes total economic well-being.",
+            "always minimizes consumer surplus.",
+            "generally fails to maximize total economic well-being.",
+            "generally fails to maximize producer surplus."
+        ],
+        "answer": "generally fails to maximize total economic well-being.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Consumers' willingness to pay for a good minus the amount they actually pay for it equals",
+        "options": [
+            "consumer surplus.",
+            "consumer benefit.",
+            "price discriminant.",
+            "deadweight loss."
+        ],
+        "answer": "consumer surplus.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The amount that producers receive for a good minus their costs of producing it equals",
+        "options": [
+            "quantity supplied.",
+            "supply price.",
+            "deadweight loss.",
+            "producer surplus."
+        ],
+        "answer": "producer surplus.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The deadweight loss that arises from a monopoly is a consequence of the fact that the monopoly",
+        "options": [
+            "quantity is lower than the socially-optimal quantity.",
+            "price equals marginal revenue.",
+            "price is the same as average revenue.",
+            "earns positive profits."
+        ],
+        "answer": "quantity is lower than the socially-optimal quantity.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A monopolist produces",
+        "options": [
+            "more than the socially efficient quantity of output but at a higher price than in a competitive market.",
+            "less than the socially efficient quantity of output but at a higher price than in a competitive market.",
+            "the socially efficient quantity of output but at a higher price than in a competitive market.",
+            "possibly more or possibly less than the socially efficient quantity of output, but definitely at a higher price than in a competitive market."
+        ],
+        "answer": "less than the socially efficient quantity of output but at a higher price than in a competitive market.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Many economists criticize monopolists because they",
+        "options": [
+            "charge a price that equals marginal cost rather than a price that equals average cost.",
+            "don't innovate.",
+            "produce a large quantity of waste.",
+            "produce less than the socially efficient level of output."
+        ],
+        "answer": "produce less than the socially efficient level of output.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Price discrimination is the business practice of",
+        "options": [
+            "bundling related products to increase total sales.",
+            "selling the same good at different prices to different customers.",
+            "pricing above marginal cost.",
+            "hiring marketing experts to increase consumers’ brand loyalty."
+        ],
+        "answer": "selling the same good at different prices to different customers.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When a monopolist is able to sell its product at different prices, it is engaging in",
+        "options": [
+            "distribution pricing.",
+            "quality-adjusted pricing.",
+            "price differentiation.",
+            "price discrimination."
+        ],
+        "answer": "price discrimination.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "For a firm to price discriminate,",
+        "options": [
+            "it must be a natural monopoly.",
+            "it must be regulated by the government.",
+            "it must have some market power.",
+            "consumers must tell the firm what they are willing to pay for the product."
+        ],
+        "answer": "it must have some market power.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A firm cannot price discriminate if it",
+        "options": [
+            "has perfect information about consumer demand.",
+            "operates in a competitive market.",
+            "faces a downward-sloping demand curve.",
+            "is regulated by the government."
+        ],
+        "answer": "operates in a competitive market.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Most firms have",
+        "options": [
+            "no monopoly pricing power.",
+            "some monopoly pricing power.",
+            "absolute monopoly pricing power.",
+            "the ability to earn monopoly profits."
+        ],
+        "answer": "some monopoly pricing power.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Firms with some degree of monopoly power are common, but firms with substantial monopoly power are rare.",
+            "Firms with some degree of monopoly power are rare, as are firms with substantial monopoly power.",
+            "Firms with some degree of monopoly power are common, as are firms with substantial monopoly power.",
+            "Firms with some degree of monopoly power are rare, but firms with substantial monopoly power are common."
+        ],
+        "answer": "Firms with some degree of monopoly power are common, but firms with substantial monopoly power are rare.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following statements is not correct?",
+        "options": [
+            "The government may use antitrust laws to prevent a merger if the government believes the merger will reduce competition and increase prices.",
+            "By regulating a natural monopoly where price equals average total cost, the monopoly earns zero profits.",
+            "An advantage of private ownership over public ownership is that private business owners tend to fire inefficient managers.",
+            "The government should always intervene to improve monopoly inefficiency."
+        ],
+        "answer": "The government should always intervene to improve monopoly inefficiency.",
+        "categories": [
+            "Monopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The simplest type of oligopoly is",
+        "options": [
+            "monopoly.",
+            "duopoly.",
+            "monopolistic competition.",
+            "oligopolistic competition."
+        ],
+        "answer": "duopoly.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A special kind of imperfectly competitive market that has only two firms is called",
+        "options": [
+            "a two-tier competitive structure.",
+            "an incidental monopoly.",
+            "a doublet.",
+            "a duopoly."
+        ],
+        "answer": "a duopoly.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "As the number of firms in an oligopoly increases, the",
+        "options": [
+            "price approaches marginal cost, and the quantity approaches the socially efficient level.",
+            "price and quantity approach the monopoly levels.",
+            "price effect exceeds the output effect.",
+            "individual firms’ profits increase."
+        ],
+        "answer": "price approaches marginal cost, and the quantity approaches the socially efficient level.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "As the number of sellers in an oligopoly becomes very large,",
+        "options": [
+            "the quantity of output approaches the socially efficient quantity.",
+            "the price approaches marginal cost.",
+            "the price effect is diminished.",
+            "All of the above are correct."
+        ],
+        "answer": "All of the above are correct.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "As the number of firms in an oligopoly market",
+        "options": [
+            "decreases, the price charged by firms likely decreases.",
+            "decreases, the market approaches the competitive market outcome.",
+            "increases, the market approaches the competitive market outcome.",
+            "increases, the market approaches the monopoly outcome."
+        ],
+        "answer": "increases, the market approaches the competitive market outcome.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "For cartels, as the number of firms (members of the cartel) increases,",
+        "options": [
+            "the monopoly outcome becomes more likely.",
+            "the significance of the price effect decreases.",
+            "the more concerned each seller is about its own impact on the market price.",
+            "the easier it becomes to observe members violating their agreements."
+        ],
+        "answer": "the significance of the price effect decreases.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A group of firms that act in union to maximize collective profits is called a",
+        "options": [
+            "monopolistically competitive industry.",
+            "monopoly.",
+            "cartel.",
+            "Nash equilibrium market."
+        ],
+        "answer": "cartel.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "An agreement among firms regarding price and/or production levels is called",
+        "options": [
+            "an antitrust market.",
+            "a free-trade arrangement.",
+            "collusion.",
+            "a Nash agreement."
+        ],
+        "answer": "collusion.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Once a cartel is formed, the market is in effect served by",
+        "options": [
+            "a monopoly.",
+            "an oligopoly.",
+            "imperfect competition.",
+            "monopolistic competition."
+        ],
+        "answer": "a monopoly.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "When an oligopoly grows very large, the",
+        "options": [
+            "output effect disappears.",
+            "price effect disappears.",
+            "output effect equals the price effect.",
+            "price of the product greatly exceeds marginal cost."
+        ],
+        "answer": "price effect disappears.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Like monopolists, oligopolists are aware that an increase in the quantity of output always",
+        "options": [
+            "reduces the price of their product.",
+            "reduces their profit.",
+            "reduces their revenue.",
+            "reduces productivity."
+        ],
+        "answer": "reduces the price of their product.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The Sherman Act made cooperative agreements",
+        "options": [
+            "unenforceable outside of established judicial review processes.",
+            "enforceable with proper judicial review.",
+            "a criminal conspiracy.",
+            "a crime but did not give direction on possible penalties."
+        ],
+        "answer": "a criminal conspiracy.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The Sherman Antitrust Act",
+        "options": [
+            "overturned centuries-old views of English and American judges on agreements among competitors.",
+            "had the effect of discouraging private lawsuits against conspiring oligopolists.",
+            "strengthened the Clayton Act.",
+            "elevated agreements among conspiring oligopolists from an unenforceable contract to a criminal conspiracy."
+        ],
+        "answer": "elevated agreements among conspiring oligopolists from an unenforceable contract to a criminal conspiracy.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Antitrust laws in general are used to",
+        "options": [
+            "prevent oligopolists from acting in ways that make markets less competitive.",
+            "encourage oligopolists to pursue cooperative-interest at the expense of self-interest.",
+            "encourage frivolous lawsuits among competitive firms.",
+            "encourage all firms to cut production levels and cut prices."
+        ],
+        "answer": "prevent oligopolists from acting in ways that make markets less competitive.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "The practice of tying is illegal on the grounds that",
+        "options": [
+            "it allows firms to expand their market power.",
+            "it allows firms to form collusive arrangements.",
+            "it prevents firms from forming collusive agreements.",
+            "the Sherman Act explicitly prohibited such agreements."
+        ],
+        "answer": "it allows firms to expand their market power.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Which of the following prohibits executives of competing firms from even talking about fixing prices?",
+        "options": [
+            "Sherman Act",
+            "Clayton Act",
+            "Federal Trade Commission",
+            "U.S. Justice Department"
+        ],
+        "answer": "Sherman Act",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "OPEC is able to raise the price of its product by",
+        "options": [
+            "tying.",
+            "setting production levels for each of its members.",
+            "increasing the supply of oil above the competitive level.",
+            "imposing resale price maintenance agreements on members."
+        ],
+        "answer": "setting production levels for each of its members.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "All cartels are inherently reliant on",
+        "options": [
+            "a horizontal demand curve.",
+            "an inelastic demand for their product.",
+            "the cooperation of their members.",
+            "enforcement of antitrust laws."
+        ],
+        "answer": "the cooperation of their members.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A key issue in the Microsoft case involved whether or not the bundling of the Windows operating system with an Internet browser was an example of",
+        "options": [
+            "predatory pricing.",
+            "tying.",
+            "resale price maintenance.",
+            "price discrimination."
+        ],
+        "answer": "tying.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Predatory pricing involves a firm",
+        "options": [
+            "colluding with another firm to restrict output and raise prices.",
+            "selling two individual products together for a single price rather than selling each product individually at separate prices.",
+            "temporarily cutting the price of its product to drive a competitor out of the market.",
+            "requiring that the firm reselling its product do so at a specified price."
+        ],
+        "answer": "temporarily cutting the price of its product to drive a competitor out of the market.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "A particular cable TV company requires a household to subscribe to its high-speed Internet service if it subscribes to cable TV, and vice versa. This practice",
+        "options": [
+            "is referred to as tying.",
+            "is regarded by some economists as a form of price discrimination.",
+            "is controversial among economists because they disagree on whether it has adverse effects for society as a whole.",
+            "All of the above are correct."
+        ],
+        "answer": "All of the above are correct.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Tying involves a firm",
+        "options": [
+            "colluding with another firm to restrict output and raise prices.",
+            "selling two individual products together for a single price rather than selling each product individually at separate prices.",
+            "temporarily cutting the price of its product to drive a competitor out of the market.",
+            "requiring that the firm reselling its product do so at a specified price."
+        ],
+        "answer": "selling two individual products together for a single price rather than selling each product individually at separate prices.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Resale price maintenance involves a firm",
+        "options": [
+            "colluding with another firm to restrict output and raise prices.",
+            "selling two individual products together for a single price rather than selling each product individually at separate prices.",
+            "temporarily cutting the price of its product to drive a competitor out of the market.",
+            "requiring that the firm reselling its product do so at a specified price."
+        ],
+        "answer": "requiring that the firm reselling its product do so at a specified price.",
+        "categories": [
+            "Oligopoly",
+            "Final Questions",
+            "M.C.Q."
+        ]
+    }
+]
