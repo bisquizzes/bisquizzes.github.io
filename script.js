@@ -608,6 +608,13 @@ function showExamInfo() {
   document.body.appendChild(popupContainer);
 }
 
+function closePopup() {
+  const popup = document.querySelector(".popup-container");
+  if (popup) {
+    popup.remove();
+  }
+}
+
 // Event Listeners
 window.onload = async () => {
   await loadQuestions();
