@@ -86,7 +86,8 @@
         "categories": [
             "Chapter 1",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -673,7 +674,9 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -703,7 +706,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -733,7 +739,9 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -748,7 +756,9 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -763,7 +773,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -838,7 +851,8 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -868,7 +882,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -883,7 +900,8 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -898,7 +916,8 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -943,7 +962,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -1003,7 +1025,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -1048,7 +1073,8 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -1078,7 +1104,8 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2022 Mid Term Exam"
         ]
     },
     {
@@ -1093,7 +1120,9 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -1123,7 +1152,10 @@
         "categories": [
             "Chapter 2",
             "M.C.Q.",
-            "Book Questions"
+            "Book Questions",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
         ]
     },
     {
@@ -1215,5 +1247,423 @@
             "M.C.Q.",
             "Book Questions"
         ]
-    }                              
+    },
+    {
+        "question": "The technology, in many cases, has been combined with similar development of the employees’ knowledge, skills, awareness, and compliance.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Altering input requires extensive computer skills.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Programming errors that may allow trap doors or program faults is classified as accidental security threats.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Information security threats might be classified as passive and active security threats.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "The organization's employees and staff are usually regarded as the main source of internal security threats, while hackers and natural disasters are considered the main source of external threats to CAIS security.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Many intentional acts are classified as crimes, such as fraud, theft, embezzlement, extortion, larceny, and mischief.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "'Modifying factors' are internal factors that influence the probability of threat occurrence incidence or the severity of consequences when the threat does occur.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Security threats will be classified according to their perpetrator as internal versus external; and according to its source as human versus non-human.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "External threats to IT assets might come from authorized and unauthorized physical access, sabotage, and technical failures leading to system abuse.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Deliberate acts are the more serious, as they will have been planned to avoid detection and cause the maximum damage.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2021 Mid Term Exam",
+            "2022 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "A set of unauthorized computer instructions in an otherwise properly functioning program is known as a",
+        "options": [
+            "Logic bomb.",
+            "Spyware.",
+            "Trap door.",
+            "Trojan horse."
+        ],
+        "answer": "Trojan horse.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Personnel policies such as background checks, mandatory vacations, and rotation of duties tend to deter",
+        "options": [
+            "Unintentional errors.",
+            "Employee fraud or embezzlement.",
+            "Fraud by outsiders.",
+            "Disgruntled employees."
+        ],
+        "answer": "Employee fraud or embezzlement.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Information security procedures protect information integrity by",
+        "options": [
+            "Preventing fictitious transactions.",
+            "Reducing the system cost.",
+            "Making the system more efficient.",
+            "Making it impossible for unauthorized users to access the system."
+        ],
+        "answer": "Preventing fictitious transactions.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Identify the primary means of protecting data stored in a cloud from unauthorized access.",
+        "options": [
+            "Authentication.",
+            "Authorization.",
+            "Virtualization.",
+            "Securitization."
+        ],
+        "answer": "Authentication.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Restricting access of users to specific portions of the system as well as specific tasks, is an example of",
+        "options": [
+            "Authentication.",
+            "Authorization.",
+            "Identification.",
+            "Threat monitoring."
+        ],
+        "answer": "Authorization.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Verifying the identity of the person or device attempting to access the system is an example of",
+        "options": [
+            "Authentication.",
+            "Authorization.",
+            "Identification.",
+            "Threat monitoring."
+        ],
+        "answer": "Authentication.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2021 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Many manufacturers are putting significant efforts into security software and hardware, which are sold as an integral element of computer packages.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },    
+    {
+        "question": "A fire which destroys the whole data center may be the result of a chance electrical short circuit or a deliberate act, therefore it is classified as a natural disaster.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Security threats will be classified according to their perpetrator as internal versus external; and according to its source as human versus non-human.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Intentional security threats are those security threats whose origin does not involve any malicious intent, such as human error and some physical natural security threats.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Physical damage and logical damage are two types of sabotage that might occur to computerized information systems.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "The creation of false input is one of the most common and simple ways of perpetrating a fraud.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Accidental security threats involve malicious intent, such as sabotage and computer fraud.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "The information technology, in many cases, has been developed faster than the advancement in control practices.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Assessing the risk to the organization of computer crime is sometimes difficult.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 2",
+            "True & False",
+            "2022 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "The unauthorized access to, or use of, a computer system is known as",
+        "options": [
+            "Hacking.",
+            "Hijacking.",
+            "Phreaking.",
+            "Sniffing."
+        ],
+        "answer": "Hacking.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "A part of a program that remains idle until a specified date or event activates it to cause havoc is called a",
+        "options": [
+            "Virus.",
+            "Logic bomb.",
+            "Trap door.",
+            "Data diddle."
+        ],
+        "answer": "Logic bomb.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Restricting access of users to specific portions of the system as well as specific tasks, is an example of",
+        "options": [
+            "Authentication.",
+            "Authorization.",
+            "Identification.",
+            "Threat monitoring."
+        ],
+        "answer": "Authorization.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2023 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Verifying the identity of the person or device attempting to access the system is an example of",
+        "options": [
+            "Authentication.",
+            "Authorization.",
+            "Identification.",
+            "Threat monitoring."
+        ],
+        "answer": "Authentication.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "2023 Mid Term Exam"
+        ]
+    }    
 ]

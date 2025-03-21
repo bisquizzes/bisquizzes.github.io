@@ -15,7 +15,12 @@ let examTimer;
 let examTimeLeft = 3600;
 let examEnded = false;
 let selectedCategories = ["All"];
-const importantCategories = ["Book Questions"];
+const importantCategories = [
+  "Book Questions",
+  "2021 Mid Term Exam",
+  "2022 Mid Term Exam",
+  "2023 Mid Term Exam",
+];
 
 // DOM Elements
 const questionLabel = document.getElementById("question-label");
