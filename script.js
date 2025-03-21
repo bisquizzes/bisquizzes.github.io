@@ -532,6 +532,7 @@ function submitExam() {
 function showExamReview() {
   const popupContainer = document.createElement("div");
   popupContainer.className = "popup-container";
+  popupContainer.style.display = "flex"; // Make it visible
 
   let reviewContent = '<div class="popup"><h2>Your Answers</h2><ul>';
 
@@ -594,6 +595,7 @@ function exitExamMode() {
 function showExamInfo() {
   const popupContainer = document.createElement("div");
   popupContainer.className = "popup-container";
+  popupContainer.style.display = "flex"; // Make it visible
 
   popupContainer.innerHTML = `
         <div class="popup">
