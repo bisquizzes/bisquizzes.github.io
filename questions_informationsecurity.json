@@ -1,0 +1,1219 @@
+[
+    {
+        "question": "Identify the type of information below that is least likely to be considered 'sensitive' by an organization.",
+        "options": [
+            "Financial statements",
+            "Legal documents",
+            "Strategic plans",
+            "Product cost information"
+        ],
+        "answer": "Financial statements",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Classification of confidential information is the responsibility of whom, according to COBIT5?",
+        "options": [
+            "External auditor",
+            "Information owner",
+            "IT security professionals",
+            "Management"
+        ],
+        "answer": "Information owner",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not one of the basic actions that an organization must take to preserve the confidentiality of sensitive information?",
+        "options": [
+            "Identification of information to be protected",
+            "Backing up the information",
+            "Controlling access to the information",
+            "Training"
+        ],
+        "answer": "Backing up the information",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Encryption is a necessary part of which information security approach?",
+        "options": [
+            "Defense in depth",
+            "Time-based defense",
+            "Cloud quarantine",
+            "Synthetic defense"
+        ],
+        "answer": "Defense in depth",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Information rights management software can do all of the following except",
+        "options": [
+            "Limiting access to specific files.",
+            "Limiting action privileges to a specific time period.",
+            "Authenticating individuals accessing information.",
+            "Specifying the actions individuals granted access to information can perform."
+        ],
+        "answer": "Authenticating individuals accessing information.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Identify the first step in protecting the confidentiality of intellectual property below.",
+        "options": [
+            "Identifying who has access to the intellectual property.",
+            "Identifying the means necessary to protect the intellectual property.",
+            "Identifying the weaknesses surrounding the creation of the intellectual property.",
+            "Identifying what controls should be placed around the intellectual property."
+        ],
+        "answer": "Identifying who has access to the intellectual property.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "What confidentiality and security risk does using VoIP present to organizations?",
+        "options": [
+            "Internet e-mail communications can be intercepted.",
+            "Internet photographs can be intercepted.",
+            "Internet video can be intercepted.",
+            "Internet voice conversations can be intercepted."
+        ],
+        "answer": "Internet voice conversations can be intercepted.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "After the information that needs to be protected has been identified, what step should be completed next?",
+        "options": [
+            "The information needs to be placed in a secure, central area.",
+            "The information needs to be encrypted.",
+            "The information needs to be classified in terms of its value to the organization.",
+            "The information needs to be depreciated."
+        ],
+        "answer": "The information needs to be classified in terms of its value to the organization.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not one of the 10 internationally recognized best practices for protecting the privacy of customers' personal information?",
+        "options": [
+            "Provide free credit report monitoring for customers.",
+            "Inform customers of the option to opt-out of data collection and use of their personal information.",
+            "Allow customers' browsers to decline to accept cookies.",
+            "Utilize controls to prevent unauthorized access to, and disclosure of, customers' information."
+        ],
+        "answer": "Provide free credit report monitoring for customers.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "In developing policies related to personal information about customers, Folding Squid Technologies adhered to the Trust Services framework. The standard applicable to these policies is",
+        "options": [
+            "Security.",
+            "Confidentiality.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Privacy.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which type of software blocks outgoing messages containing key words or phrases associated with an organization's sensitive data?",
+        "options": [
+            "Anti-virus software.",
+            "Data loss prevention software.",
+            "A digital watermark.",
+            "Information rights software."
+        ],
+        "answer": "Data loss prevention software.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "A client approached Paxton Ulfe and said, 'Paxton, I need for my customers to make payments online using credit cards, but I want to make sure that the credit card data isn't intercepted. What do you suggest?' Paxton responded, 'The most effective solution is to implement'",
+        "options": [
+            "A data masking program.",
+            "A virtual private network.",
+            "A private cloud environment.",
+            "An encryption system with digital signatures."
+        ],
+        "answer": "An encryption system with digital signatures.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "The first steps in protecting the privacy of personal information is to identify",
+        "options": [
+            "What sensitive information is possessed by the organization.",
+            "Where sensitive information is stored.",
+            "Who has access to sensitive information.",
+            "All of the above are first steps in protecting privacy."
+        ],
+        "answer": "All of the above are first steps in protecting privacy.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "It is impossible to encrypt information",
+        "options": [
+            "Transmitted over the Internet.",
+            "Stored on a hard drive.",
+            "Printed on a report.",
+            "None of the above."
+        ],
+        "answer": "None of the above.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Data masking is also referred to as",
+        "options": [
+            "Encryption.",
+            "Tokenization.",
+            "Captcha.",
+            "Cookies."
+        ],
+        "answer": "Tokenization.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Identify the item below that is not a step you could take to prevent yourself from becoming a victim of identity theft.",
+        "options": [
+            "Shred all documents that contain your personal information.",
+            "Only print your initial and last name on your personal checks.",
+            "Do not place checks in your outgoing mail.",
+            "Refuse to disclose your social security number to anyone or any organization."
+        ],
+        "answer": "Refuse to disclose your social security number to anyone or any organization.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "These are used to create digital signatures.",
+        "options": [
+            "Asymmetric encryption and hashing.",
+            "Hashing and packet filtering.",
+            "Packet filtering and encryption.",
+            "Symmetric encryption and hashing."
+        ],
+        "answer": "Asymmetric encryption and hashing.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "If an organization asks you to disclose your social security number, but decides to use it for a different purpose than the one stated in the organization's privacy policies, the organization has likely violated which of the Generally Accepted Privacy Principles?",
+        "options": [
+            "Collection.",
+            "Access.",
+            "Security.",
+            "Quality."
+        ],
+        "answer": "Collection.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "All of the following are associated with asymmetric encryption except",
+        "options": [
+            "Speed.",
+            "Private keys.",
+            "Public keys.",
+            "No need for key exchange."
+        ],
+        "answer": "Speed.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "If an organization asks you to disclose your date of birth and your address, but refuses to let you review or correct the information you provided, the organization has likely violated which of the Generally Accepted Privacy Principles?",
+        "options": [
+            "Collection.",
+            "Access.",
+            "Security.",
+            "Choice and consent."
+        ],
+        "answer": "Access.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "If an organization asks you to disclose your date of birth and your address, but fails to take any steps to protect your private information, the organization has likely violated which of the Generally Accepted Privacy Principles?",
+        "options": [
+            "Collection.",
+            "Access.",
+            "Security.",
+            "Quality."
+        ],
+        "answer": "Security.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "An electronic document that certifies the identity of the owner of a particular public key.",
+        "options": [
+            "Asymmetric encryption.",
+            "Digital certificate.",
+            "Digital signature.",
+            "Public key."
+        ],
+        "answer": "Digital certificate.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "If an organization asks you to disclose your date of birth and your address, but fails to establish any procedures for responding to customer complaints, the organization has likely violated which of the Generally Accepted Privacy Principles?",
+        "options": [
+            "Collection.",
+            "Access.",
+            "Security.",
+            "Monitoring and enforcement."
+        ],
+        "answer": "Monitoring and enforcement.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "The system and processes used to issue and manage asymmetric keys and digital certificates are known as",
+        "options": [
+            "Asymmetric encryption.",
+            "Certificate authority.",
+            "Digital signature.",
+            "Public key infrastructure."
+        ],
+        "answer": "Public key infrastructure.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Identify one weakness of encryption below.",
+        "options": [
+            "Encrypted packets cannot be examined by a firewall.",
+            "Encryption provides for both authentication and nonrepudiation.",
+            "Encryption protects the confidentiality of information during transmission.",
+            "Encryption protects the confidentiality of information while in storage."
+        ],
+        "answer": "Encrypted packets cannot be examined by a firewall.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Using a combination of symmetric and asymmetric key encryption, Sofia Chiamaka sent a report to her home office in Bangalore, India. She received an e-mail acknowledgement that her report had been received, but a few minutes later she received a second e-mail that contained a different hash total than the one associated with her report. This most likely explanation for this result is that",
+        "options": [
+            "The public key had been compromised.",
+            "The private key had been compromised.",
+            "The symmetric encryption key had been compromised.",
+            "The asymmetric encryption key had been compromised."
+        ],
+        "answer": "The symmetric encryption key had been compromised.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Information encrypted with the creator's private key that is used to authenticate the sender is",
+        "options": [
+            "Asymmetric encryption.",
+            "Digital certificate.",
+            "Digital signature.",
+            "Public key."
+        ],
+        "answer": "Digital signature.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not one of the three important factors determining the strength of any encryption system?",
+        "options": [
+            "Key length.",
+            "Key management policies.",
+            "Encryption algorithm.",
+            "Privacy."
+        ],
+        "answer": "Privacy.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following descriptions is not associated with symmetric encryption?",
+        "options": [
+            "A shared secret key.",
+            "Faster encryption.",
+            "Lack of authentication.",
+            "Separate keys for each communication party."
+        ],
+        "answer": "Lack of authentication.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "What is a denial-of-service attack?",
+        "options": [
+            "A denial-of-service attack occurs when the perpetrator sends hundreds of messages from randomly generated false addresses, overloading an Internet service provider's e-mail server.",
+            "A denial-of-service attack occurs when an e-mail message is sent through a re-mailer, who removes the message headers making the message anonymous, then resends the message to selected addresses.",
+            "A denial-of-service attack occurs when a cracker enters a system through an idle modem, captures the PC attached to the modem, and then gains access to the network to which it is connected.",
+            "A denial-of-service attack occurs when the perpetrator emails the same message to everyone on one or more Usenet newsgroups LISTSERV lists."
+        ],
+        "answer": "A denial-of-service attack occurs when the perpetrator sends hundreds of messages from randomly generated false addresses, overloading an Internet service provider's e-mail server.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Why are threats to accounting information systems increasing?",
+        "options": [
+            "Many companies do not realize that data security is crucial to their survival.",
+            "LANs and client/server systems are easier to control than centralized, mainframe systems.",
+            "Many companies believe that protecting information is a strategic requirement.",
+            "Computer control problems are often overestimated and overly emphasized by management."
+        ],
+        "answer": "Many companies do not realize that data security is crucial to their survival.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": ".......... means that information are available and usable when required",
+        "options": [
+            "Security.",
+            "Confidentiality.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Availability.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": ".......... means that data and information are disclosed only to those who have a right to know it.",
+        "options": [
+            "Security.",
+            "Confidentiality.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Confidentiality.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": ".......... means data and information are protected against unauthorized modification.",
+        "options": [
+            "Security.",
+            "Confidentiality.",
+            "Privacy.",
+            "Integrity."
+        ],
+        "answer": "Integrity.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": ".......... could be defined as the avoidance of the disclosure of information without the permission of its owner.",
+        "options": [
+            "Security.",
+            "Confidentiality.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Confidentiality.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": ".......... means the avoidance of the unauthorized modification or alteration of information 'preservation of the data from corruption'.",
+        "options": [
+            "Security.",
+            "Integrity.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Integrity.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Integrity means the characteristic of data / information being accurate and complete and the preservation of accuracy and completeness by protecting the data and information from unauthorized, unanticipated, or unintentional modification.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Confidentiality means the avoidance of the temporary or permanent withholding of information from those users who have received authorization to access and use it.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Information availability ensures that authorized users can access and use information (that they have received authorization to access and use it) in the authorized manner at the authorized times.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Confidentiality means the characteristic of data and information being disclosed only to authorized persons, entities, and processes at authorized times and in an authorized manner.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Information availability and confidentiality seem to be complementary concepts. While information availability ensures that individuals who are authorized to access and use specified information can do so, information confidentiality ensures that individuals who are not authorized to access and use certain information are prevented from accessing and using it.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": ".......... of information could be defined as 'the total accuracy and completeness of information'.",
+        "options": [
+            "Authenticity.",
+            "Validity.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Validity.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": ".......... means the avoidance of a lack of completeness or accuracy in authorized modifications to data and information.",
+        "options": [
+            "Authenticity.",
+            "Validity.",
+            "Privacy.",
+            "Availability."
+        ],
+        "answer": "Authenticity.",
+        "categories": [
+            "Chapter 1",
+            "M.C.Q."
+        ]
+    },
+    {
+        "question": "Physical security and data/information security are the two fundamental elements of information security.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Security breaches lead to great financial and non-financial losses.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True",
+        "categories": [
+            "Chapter 1",
+            "True & False"
+        ]
+    },
+    {
+        "question": "Perhaps the most striking fact about natural disasters in relation to AIS controls is that",
+        "options": [
+            "Many companies in one location can be seriously affected at one time by a disaster.",
+            "Losses are absolutely unpreventable.",
+            "There are a large number of major disasters every year.",
+            "Disaster planning has largely been ignored in the literature."
+        ],
+        "answer": "Many companies in one location can be seriously affected at one time by a disaster.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is the greatest risk to information systems and causes the greatest dollar losses?",
+        "options": [
+            "Human errors and omissions.",
+            "Physical threats such as natural disasters.",
+            "Dishonest employees.",
+            "Fraud and embezzlement."
+        ],
+        "answer": "Human errors and omissions.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Identify the threat below that is not one of the four types of threats faced by accounting information systems.",
+        "options": [
+            "Natural and political disasters.",
+            "Software errors and equipment malfunctions.",
+            "Unintentional acts.",
+            "System inefficiency."
+        ],
+        "answer": "System inefficiency.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "A power outage is an example of a(n) ........ threat.",
+        "options": [
+            "Natural and political disasters.",
+            "Software errors and equipment malfunctions.",
+            "Unintentional acts.",
+            "System inefficiency."
+        ],
+        "answer": "Software errors and equipment malfunctions.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Excessive heat is an example of a(n) ........ threat.",
+        "options": [
+            "Natural and political disasters.",
+            "Software errors and equipment malfunctions.",
+            "Unintentional acts.",
+            "System inefficiency."
+        ],
+        "answer": "Natural and political disasters.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which type of threat causes the greatest dollar losses?",
+        "options": [
+            "Software errors and equipment malfunctions.",
+            "Unintentional acts.",
+            "Intentional acts.",
+            "System inefficiency."
+        ],
+        "answer": "Unintentional acts.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Logic errors are an example of which type of threat?",
+        "options": [
+            "Natural and political disasters.",
+            "Software errors and equipment malfunctions.",
+            "Unintentional acts.",
+            "System inefficiency."
+        ],
+        "answer": "Unintentional acts.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Perpetrators do not typically",
+        "options": [
+            "Attempt to return or pay back stolen amounts soon after the initial theft, but find they are unable to make full restitution.",
+            "Use trickery or lies to gain the confidence and trust of others at the organization they defraud.",
+            "Become bolder and more greedy the longer the theft remains undetected.",
+            "Begin to rely on stolen amounts as part of their income."
+        ],
+        "answer": "Attempt to return or pay back stolen amounts soon after the initial theft, but find they are unable to make full restitution.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "'Cooking the books' is typically accomplished by all the following except",
+        "options": [
+            "Overstating inventory.",
+            "Accelerating recognition of revenue.",
+            "Inflating accounts payable.",
+            "Delaying recording of expenses."
+        ],
+        "answer": "Inflating accounts payable.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "SAS No. 99 requires that auditors",
+        "options": [
+            "Plan audits based on an analysis of fraud risk.",
+            "Detect all material fraud.",
+            "Alert the Securities and Exchange Commission of any fraud detected.",
+            "Take all of the above actions."
+        ],
+        "answer": "Plan audits based on an analysis of fraud risk.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Intentional or reckless conduct that results in materially misleading financial statements is called",
+        "options": [
+            "Financial fraud.",
+            "Misstatement fraud.",
+            "Fraudulent financial reporting.",
+            "Audit failure fraud."
+        ],
+        "answer": "Fraudulent financial reporting.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "All of the following are required for an act to be legally classified as fraudulent except",
+        "options": [
+            "A falsehood is made.",
+            "About a material fact.",
+            "To inflict pain.",
+            "Resulting in a financial loss."
+        ],
+        "answer": "To inflict pain.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Misappropriation of assets is a fraudulent act that involves",
+        "options": [
+            "Using conduct by those in power.",
+            "Misrepresenting facts to promote an investment.",
+            "Using computer technology to perpetrate.",
+            "Theft of company property."
+        ],
+        "answer": "Theft of company property.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not an example of the fraud triangle characteristic concerned with rationalization?",
+        "options": [
+            "Revenge against the company.",
+            "Intent to repay 'borrowed' funds in the future.",
+            "Sense of entitlement as compensation for receiving a lower than average raise.",
+            "Belief that the company won't suffer because an insurance company will reimburse losses."
+        ],
+        "answer": "Revenge against the company.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Insiders are frequently the ones who commit fraud because",
+        "options": [
+            "They are more dishonest than outsiders.",
+            "They need money more than outsiders.",
+            "They are less likely to get caught than outsiders.",
+            "They know more about the system and its weaknesses than outsiders."
+        ],
+        "answer": "They know more about the system and its weaknesses than outsiders.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Identify the opportunity below that could enable an employee to commit fraud.",
+        "options": [
+            "An employee's spouse loses her job.",
+            "An employee has a close association with suppliers or customers.",
+            "An employee suddenly acquires lots of credit cards.",
+            "An employee is upset that he was passed over for a promotion."
+        ],
+        "answer": "An employee has a close association with suppliers or customers.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is a financial pressure that could cause an employee to commit fraud?",
+        "options": [
+            "A feeling of not being appreciated.",
+            "Failing to receive a deserved promotion.",
+            "Believing that their pay is too low relative to others around them.",
+            "Having a spouse injured in a car accident and in the hospital for several weeks."
+        ],
+        "answer": "Having a spouse injured in a car accident and in the hospital for several weeks.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following fraudulent acts generally takes the most time and effort?",
+        "options": [
+            "Lapping accounts receivable.",
+            "Selling stolen inventory to get cash.",
+            "Stealing inventory from the warehouse.",
+            "Creating false journal entries to overstate revenue."
+        ],
+        "answer": "Lapping accounts receivable.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "In many cases of fraud, the _______ takes more time and effort than the _______.",
+        "options": [
+            "Concealment; theft.",
+            "Theft; concealment.",
+            "Conversion; theft.",
+            "Theft; conversion."
+        ],
+        "answer": "Concealment; theft.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is the best way to hide the theft of assets?",
+        "options": [
+            "Creating 'cash' through the transfer of money between banks.",
+            "Conversion of stolen assets into cash.",
+            "Stealing cash from Customer A and then using Customer B's balance to pay Customer A’s accounts receivable.",
+            "Charging the stolen asset to an expense account."
+        ],
+        "answer": "Charging the stolen asset to an expense account.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which fraud scheme involves stealing customer receipts, and applying subsequent customer cash payments to cover the theft?",
+        "options": [
+            "Kiting.",
+            "Laundering.",
+            "Lapping.",
+            "Bogus expense."
+        ],
+        "answer": "Lapping.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "One fraudulent scheme covers up a theft by creating cash through the transfer of money between banks. This is known as",
+        "options": [
+            "Lapping.",
+            "Misappropriation of assets.",
+            "Kiting.",
+            "Concealment."
+        ],
+        "answer": "Kiting.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which characteristic of the fraud triangle often stems from a lack of internal controls within an organization?",
+        "options": [
+            "Pressure.",
+            "Opportunity.",
+            "Rationalization.",
+            "Concealment."
+        ],
+        "answer": "Opportunity.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which situation below makes it easy for someone to commit a fraud?",
+        "options": [
+            "Placing excessive trust in key employees.",
+            "Inadequate staffing within the organization.",
+            "Unclear company policies.",
+            "All of the above situations make it easy for someone to commit a fraud."
+        ],
+        "answer": "All of the above situations make it easy for someone to commit a fraud.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "This component of the fraud triangle explains how perpetrators justify their illegal behavior.",
+        "options": [
+            "Pressure.",
+            "Rationalization.",
+            "Concealment.",
+            "Opportunity."
+        ],
+        "answer": "Rationalization.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "The most efficient way to conceal asset misappropriation is to",
+        "options": [
+            "Write-off a customer receivable as bad debt.",
+            "Alter monthly bank statements before reconciliation.",
+            "Alter monthly physical inventory counts to reconcile to perpetual inventory records.",
+            "Record phony payments to vendors."
+        ],
+        "answer": "Write-off a customer receivable as bad debt.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is least likely to result in computer fraud?",
+        "options": [
+            "Releasing data to unauthorized users.",
+            "Allowing computer users to test software upgrades.",
+            "Allowing computer operators full access to the computer room.",
+            "Storing backup tapes in a location where they can be quickly accessed."
+        ],
+        "answer": "Allowing computer operators full access to the computer room.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "How does the U.S. Justice Department define computer fraud?",
+        "options": [
+            "As any crime in which a computer is used.",
+            "As any act in which cash is stolen using a computer.",
+            "As an illegal act in which a computer is an integral part of the crime.",
+            "As an illegal act in which knowledge of computer technology is essential."
+        ],
+        "answer": "As an illegal act in which knowledge of computer technology is essential.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Why is computer fraud often more difficult to detect than other types of fraud?",
+        "options": [
+            "Rarely is cash stolen in computer fraud.",
+            "The fraud may leave little or no evidence it ever happened.",
+            "Computers provide more opportunities for fraud.",
+            "Computer fraud perpetrators are just more clever than other types of criminals."
+        ],
+        "answer": "The fraud may leave little or no evidence it ever happened.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Why do many fraud cases go unreported and unprosecuted?",
+        "options": [
+            "Major fraud is a public relations nightmare.",
+            "Fraud is difficult, costly, and time-consuming to investigate and prosecute.",
+            "Law enforcement and the courts are often so busy with violent crimes that little time is left for fraud cases.",
+            "All of the above."
+        ],
+        "answer": "All of the above.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "The fraud that requires the least computer knowledge or skill involves",
+        "options": [
+            "Altering or falsifying source data.",
+            "Unauthorized use of computers.",
+            "Tampering with or copying software.",
+            "Forging documents like paychecks."
+        ],
+        "answer": "Altering or falsifying source data.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "The simplest and most common way to commit a computer fraud is to",
+        "options": [
+            "Alter computer input.",
+            "Alter computer output.",
+            "Modify the processing.",
+            "Corrupt the database."
+        ],
+        "answer": "Alter computer input.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Downloading a master list of customers and selling it to a competitor is an example of",
+        "options": [
+            "Data fraud.",
+            "Output theft.",
+            "Download fraud.",
+            "Fraudulent financial reporting."
+        ],
+        "answer": "Data fraud.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Most frauds are detected by",
+        "options": [
+            "External auditors.",
+            "Hotline tip.",
+            "Internal auditors.",
+            "The police."
+        ],
+        "answer": "Hotline tip.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following will not reduce the likelihood of an occurrence of fraud?",
+        "options": [
+            "Encryption of data and programs.",
+            "Use of forensic accountants.",
+            "Adequate insurance coverage.",
+            "Required vacations and rotation of duties."
+        ],
+        "answer": "Adequate insurance coverage.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "________ is a simple, yet effective, method for catching or preventing many types of employee fraud.",
+        "options": [
+            "Requiring all employees to take annual vacations.",
+            "Monitoring employee bank accounts and net worth.",
+            "Monitoring employee behavior using video cameras.",
+            "Explaining that fraud is illegal and will be severely punished to employees."
+        ],
+        "answer": "Requiring all employees to take annual vacations.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not a way to make fraud less likely to occur?",
+        "options": [
+            "Adopt an organizational structure that minimizes the likelihood of fraud.",
+            "Create an organizational culture that stresses integrity and commitment to ethical values.",
+            "Create an audit trail so individual transactions can be traced.",
+            "Effectively supervise employees."
+        ],
+        "answer": "Create an audit trail so individual transactions can be traced.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    },
+    {
+        "question": "Which of the following is not a way to reduce fraud losses?",
+        "options": [
+            "Conduct periodic external and internal audits.",
+            "Maintain adequate insurance.",
+            "Use software to monitor system activity.",
+            "Store backup copies of program and data files."
+        ],
+        "answer": "Conduct periodic external and internal audits.",
+        "categories": [
+            "Chapter 2",
+            "M.C.Q.",
+            "Book Questions"
+        ]
+    }                              
+]
