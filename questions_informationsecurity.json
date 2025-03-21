@@ -676,7 +676,9 @@
             "M.C.Q.",
             "Book Questions",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -709,7 +711,9 @@
             "Book Questions",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -741,7 +745,9 @@
             "M.C.Q.",
             "Book Questions",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -758,7 +764,9 @@
             "M.C.Q.",
             "Book Questions",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -885,7 +893,9 @@
             "Book Questions",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -965,7 +975,9 @@
             "Book Questions",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1028,7 +1040,9 @@
             "Book Questions",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1122,7 +1136,9 @@
             "M.C.Q.",
             "Book Questions",
             "2021 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1155,7 +1171,9 @@
             "Book Questions",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1256,7 +1274,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2023 Mid Term Exam"
@@ -1270,7 +1287,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1285,7 +1301,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1300,7 +1315,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1315,7 +1329,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1330,7 +1343,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1345,7 +1357,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2023 Mid Term Exam"
@@ -1359,7 +1370,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1374,7 +1384,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2023 Mid Term Exam"
@@ -1388,7 +1397,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2021 Mid Term Exam",
             "2022 Mid Term Exam",
@@ -1405,10 +1413,11 @@
         ],
         "answer": "Trojan horse.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1421,10 +1430,11 @@
         ],
         "answer": "Employee fraud or embezzlement.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1437,10 +1447,11 @@
         ],
         "answer": "Preventing fictitious transactions.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1453,10 +1464,11 @@
         ],
         "answer": "Authentication.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1469,7 +1481,6 @@
         ],
         "answer": "Authorization.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam"
         ]
@@ -1484,7 +1495,6 @@
         ],
         "answer": "Authentication.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2021 Mid Term Exam"
         ]
@@ -1497,7 +1507,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1510,7 +1519,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1523,7 +1531,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1536,7 +1543,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1549,7 +1555,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1562,7 +1567,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1575,7 +1579,6 @@
         ],
         "answer": "False",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1588,7 +1591,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1601,7 +1603,6 @@
         ],
         "answer": "True",
         "categories": [
-            "Chapter 2",
             "True & False",
             "2022 Mid Term Exam"
         ]
@@ -1616,9 +1617,10 @@
         ],
         "answer": "Hacking.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1631,9 +1633,10 @@
         ],
         "answer": "Logic bomb.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
-            "2023 Mid Term Exam"
+            "2023 Mid Term Exam",
+            "2024 Mid Term Exam",
+            "VIP Question"
         ]
     },
     {
@@ -1646,7 +1649,6 @@
         ],
         "answer": "Authorization.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2023 Mid Term Exam"
         ]
@@ -1661,9 +1663,204 @@
         ],
         "answer": "Authentication.",
         "categories": [
-            "Chapter 2",
             "M.C.Q.",
             "2023 Mid Term Exam"
         ]
-    }    
+    },
+    {
+        "question": "Any potential danger to information is",
+        "options": [
+            "Exploit.",
+            "Insider.",
+            "Threat.",
+            "Risk."
+        ],
+        "answer": "Threat.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Data threats caused by natural causes",
+        "options": [
+            "Malware.",
+            "Email.",
+            "Earthquake.",
+            "Spam."
+        ],
+        "answer": "Earthquake.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Safeguarding the data from unauthorized modification by unknown users is known as",
+        "options": [
+            "Integrity.",
+            "Confidentiality.",
+            "Availability.",
+            "Authenticity."
+        ],
+        "answer": "Integrity.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Attacking the victims through fake URL resembling that of a valid financial institution is called as",
+        "options": [
+            "Worms.",
+            "Phishing attacks.",
+            "Trojans.",
+            "Computer Viruses."
+        ],
+        "answer": "Phishing attacks.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Under information security, CIA stands for",
+        "options": [
+            "Criminal Investigation Agency.",
+            "Confidentiality, Integrity, Availability.",
+            "Cost Information Agency.",
+            "Credit Integrity Assessment."
+        ],
+        "answer": "Confidentiality, Integrity, Availability.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Possible threat to any information cannot be __________.",
+        "options": [
+            "Reduced.",
+            "Transferred.",
+            "Protected.",
+            "Ignored."
+        ],
+        "answer": "Ignored.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "What is called Periodic assessment of security vulnerability in computer systems?",
+        "options": [
+            "Threat.",
+            "Attack.",
+            "Hacking.",
+            "Security audit."
+        ],
+        "answer": "Security audit.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "What is called the practice of protecting data from unauthorized access?",
+        "options": [
+            "Physical security.",
+            "Link security.",
+            "Risk management.",
+            "Information security."
+        ],
+        "answer": "Information security.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "A malicious program spreading through Internet and storage media and attacking the data in victim’s computer is called",
+        "options": [
+            "Worms.",
+            "Phishing attacks.",
+            "Trojans.",
+            "Computer viruses."
+        ],
+        "answer": "Computer viruses.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Amongst which of the following are the primary goals of cyber security?",
+        "options": [
+            "Encryption, authorization, and availability.",
+            "Confidentiality, integrity, and authentication.",
+            "Firewalls, intrusion detection, and data backups.",
+            "Phishing prevention, malware detection, and spam filtering."
+        ],
+        "answer": "Confidentiality, integrity, and authentication.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "What does the term 'Malware' stand for?",
+        "options": [
+            "Malfunctioning Software.",
+            "Malicious Firmware.",
+            "Malfunctioning Hardware.",
+            "Malicious Software."
+        ],
+        "answer": "Malicious Software.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "__________ is the process of verifying or testing the validity of a claimed identity.",
+        "options": [
+            "Identification.",
+            "Authentication.",
+            "Authorization.",
+            "Accountability."
+        ],
+        "answer": "Authentication.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "Which of the following is not a principle of data security?",
+        "options": [
+            "Data Confidentiality.",
+            "Data Integrity.",
+            "Authentication.",
+            "None of the above."
+        ],
+        "answer": "None of the above.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    },
+    {
+        "question": "__________ is the practice and precautions taken to protect valuable information from unauthorized access, recording, disclosure or destruction.",
+        "options": [
+            "Network Security.",
+            "Database Security.",
+            "Information Security.",
+            "Physical Security."
+        ],
+        "answer": "Information Security.",
+        "categories": [
+            "M.C.Q.",
+            "2024 Mid Term Exam"
+        ]
+    } 
 ]

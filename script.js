@@ -20,6 +20,8 @@ const importantCategories = [
   "2021 Mid Term Exam",
   "2022 Mid Term Exam",
   "2023 Mid Term Exam",
+  "2024 Mid Term Exam",
+  "VIP Question",
 ];
 
 // DOM Elements
